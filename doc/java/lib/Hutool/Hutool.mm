@@ -3,7 +3,7 @@
 <bookmarks>
     <bookmark nodeId="ID_20240928140957816" name="Root" opensAsRoot="true"/>
 </bookmarks>
-<node ID="ID_20240928140957816" CREATED="1609150826839" MODIFIED="1754464472030" LINK="https://plus.hutool.cn/apidocs/" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="false" ID="ID_20240928140957816" CREATED="1609150826839" MODIFIED="1754464472030" LINK="https://plus.hutool.cn/apidocs/" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -212,7 +212,7 @@ return !file.exists()</script>
         </conditional_style>
     </conditional_styles>
     <properties show_icon_for_attributes="true" edgeColorConfiguration="" spatiallySeparateSubtrees="true" show_tags="UNDER_NODES" show_note_icons="true" associatedTemplateLocation="template:/_light.mm" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
-    <tags category_separator="::" tagcolor1="te#e3ff48ff" tagcolor2="tes#62ffe3ff" tagcolor3="tes2#8aff21ff" tagcolor4="tes333#43ff6eff" tagcolor5="test#a2009bff" tagcolor6="test2#df6a00ff" tagcolor7="test3#3eff6bff" tagcolor8="test4#f0001eff" tagcolor9="test22#00d1b7ff" tagcolor10="test33#ff730eff" tagcolor11="test444#abf600ff" tagcolor12="texx#f0ff56ff" tagcolor13="texxvvv#d3d200ff"/>
+    <tags category_separator="::" tagcolor1="geekmap#04ed00ff" tagcolor2="te#e3ff48ff" tagcolor3="tes#62ffe3ff" tagcolor4="tes2#8aff21ff" tagcolor5="tes333#43ff6eff" tagcolor6="test#a2009bff" tagcolor7="test2#df6a00ff" tagcolor8="test3#3eff6bff" tagcolor9="test4#f0001eff" tagcolor10="test22#00d1b7ff" tagcolor11="test33#ff730eff" tagcolor12="test444#abf600ff" tagcolor13="texx#f0ff56ff" tagcolor14="texxvvv#d3d200ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" FORMAT="STANDARD_FORMAT" VGAP_QUANTITY="24 pt" BORDER_WIDTH="1 px">
@@ -1128,7 +1128,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_314250187" CREATED="1754453980395" MODIFIED="1754464472036"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_314250187" CREATED="1754453980395" MODIFIED="1754464472036"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1139,7 +1139,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1643200905" CREATED="1754453980397" MODIFIED="1754464472037" LINK="https://doc.hutool.cn/pages/index/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1643200905" CREATED="1754453980397" MODIFIED="1754464472037" LINK="https://doc.hutool.cn/pages/index/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1150,7 +1150,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_460064279" CREATED="1754454652002" MODIFIED="1754464472037"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_460064279" CREATED="1754454652002" MODIFIED="1754464472037"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1527,7 +1527,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_930991209" CREATED="1754454652034" MODIFIED="1754464472059"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_930991209" CREATED="1754454652034" MODIFIED="1754464472059"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1704,7 +1704,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_187587502" CREATED="1754454652047" MODIFIED="1754464472080"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_187587502" CREATED="1754454652047" MODIFIED="1754464472080"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1828,7 +1828,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1790577805" CREATED="1754454652071" MODIFIED="1754464472086"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1790577805" CREATED="1754454652071" MODIFIED="1754464472086"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2077,7 +2077,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1811267047" CREATED="1754453950144" MODIFIED="1754464472093" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1811267047" CREATED="1754453950144" MODIFIED="1754464472093" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2088,7 +2088,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_967348107" CREATED="1754453952671" MODIFIED="1754464472094"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_967348107" CREATED="1754453952671" MODIFIED="1754464472094"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2161,7 +2161,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1965789763" CREATED="1754453952683" MODIFIED="1754464472096" LINK="https://doc.hutool.cn/pages/AIUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1965789763" CREATED="1754453952683" MODIFIED="1754464472096" LINK="https://doc.hutool.cn/pages/AIUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2284,7 +2284,7 @@ String beta2 = deepSeekService.beta(&quot;写一个疯狂星期四广告词&quot
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1690296980" CREATED="1754453952686" MODIFIED="1754464472100" LINK="https://doc.hutool.cn/pages/AIConfigBuilder/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1690296980" CREATED="1754453952686" MODIFIED="1754464472100" LINK="https://doc.hutool.cn/pages/AIConfigBuilder/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2433,7 +2433,7 @@ AIConfigBuilder setModel(String model);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1897717441" CREATED="1754453952689" MODIFIED="1754464472105" LINK="https://doc.hutool.cn/pages/AIServiceFactory/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1897717441" CREATED="1754453952689" MODIFIED="1754464472105" LINK="https://doc.hutool.cn/pages/AIServiceFactory/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2565,7 +2565,7 @@ AIConfigBuilder setModel(String model);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1127109162" CREATED="1754453952691" MODIFIED="1754464472110" LINK="https://doc.hutool.cn/pages/AIService/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1127109162" CREATED="1754453952691" MODIFIED="1754464472110" LINK="https://doc.hutool.cn/pages/AIService/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2666,7 +2666,7 @@ AIConfigBuilder setModel(String model);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1140073288" CREATED="1754453952694" MODIFIED="1754464472114" LINK="https://doc.hutool.cn/pages/DeepSeekService/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1140073288" CREATED="1754453952694" MODIFIED="1754464472114" LINK="https://doc.hutool.cn/pages/DeepSeekService/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2773,7 +2773,7 @@ String beta = deepSeekService.beta(&quot;写一个疯狂星期四广告词&quot;
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_471416017" CREATED="1754453952696" MODIFIED="1754464472117" LINK="https://doc.hutool.cn/pages/DoubaoService/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_471416017" CREATED="1754453952696" MODIFIED="1754464472117" LINK="https://doc.hutool.cn/pages/DoubaoService/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2945,7 +2945,7 @@ String chatContext = doubaoService.chatContext(&quot;你是谁？&quot;, &quot;�
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_572883372" CREATED="1754453952699" MODIFIED="1754464472123" LINK="https://doc.hutool.cn/pages/GrokService/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_572883372" CREATED="1754453952699" MODIFIED="1754464472123" LINK="https://doc.hutool.cn/pages/GrokService/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3090,7 +3090,7 @@ String language = grokService.getLanguageModel(&quot;&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1731806315" CREATED="1754453952702" MODIFIED="1754464472128" LINK="https://doc.hutool.cn/pages/OpenaiService/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1731806315" CREATED="1754453952702" MODIFIED="1754464472128" LINK="https://doc.hutool.cn/pages/OpenaiService/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3191,7 +3191,7 @@ String language = grokService.getLanguageModel(&quot;&quot;);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_186447645" CREATED="1754459339981" MODIFIED="1754464472130"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_186447645" CREATED="1754459339981" MODIFIED="1754464472130"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3349,7 +3349,7 @@ String chatReasoning = openaiService.chatReasoning(messages, OpenaiCommon.Openai
 </node>
 </node>
 </node>
-<node ID="ID_977663920" CREATED="1754453952704" MODIFIED="1754464472135"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_977663920" CREATED="1754453952704" MODIFIED="1754464472135"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3360,7 +3360,7 @@ String chatReasoning = openaiService.chatReasoning(messages, OpenaiCommon.Openai
   </body>
 </html>
 </richcontent>
-<node ID="ID_1764204815" CREATED="1754453952707" MODIFIED="1754471898541" LINK="https://doc.hutool.cn/pages/Cloneable/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1764204815" CREATED="1754453952707" MODIFIED="1754471898541" LINK="https://doc.hutool.cn/pages/Cloneable/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3509,7 +3509,7 @@ private static class Dog extends CloneSupport&lt;Dog&gt;{
 </node>
 </node>
 </node>
-<node ID="ID_214163316" CREATED="1754453952714" MODIFIED="1754464472140"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_214163316" CREATED="1754453952714" MODIFIED="1754464472140"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3520,7 +3520,7 @@ private static class Dog extends CloneSupport&lt;Dog&gt;{
   </body>
 </html>
 </richcontent>
-<node ID="ID_486928933" CREATED="1754453952716" MODIFIED="1754464472140" LINK="https://doc.hutool.cn/pages/Convert/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_486928933" CREATED="1754453952716" MODIFIED="1754464472140" LINK="https://doc.hutool.cn/pages/Convert/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3554,7 +3554,7 @@ private static class Dog extends CloneSupport&lt;Dog&gt;{
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_9525318" CREATED="1754454739686" MODIFIED="1754464472141"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_9525318" CREATED="1754454739686" MODIFIED="1754464472141"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3960,7 +3960,7 @@ Class&lt;?&gt; wraped = Convert.wrap(primitiveClass);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_574469415" CREATED="1754453952719" MODIFIED="1754464472152" LINK="https://doc.hutool.cn/pages/ConverterRegistry/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_574469415" CREATED="1754453952719" MODIFIED="1754464472152" LINK="https://doc.hutool.cn/pages/ConverterRegistry/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3994,7 +3994,7 @@ Class&lt;?&gt; wraped = Convert.wrap(primitiveClass);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_426112596" CREATED="1754454739660" MODIFIED="1754464472153"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_426112596" CREATED="1754454739660" MODIFIED="1754464472153"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4113,7 +4113,7 @@ Assert.assertEquals(&quot;Custom: 454553&quot;, result);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_288102636" CREATED="1754453952725" MODIFIED="1754464472156"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_288102636" CREATED="1754453952725" MODIFIED="1754464472156"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4213,7 +4213,7 @@ int lastDay = Month.of(Calendar.JANUARY).getLastDay(false);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_6172038" CREATED="1754453952730" MODIFIED="1754464472159" LINK="https://doc.hutool.cn/pages/DateUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_6172038" CREATED="1754453952730" MODIFIED="1754464472159" LINK="https://doc.hutool.cn/pages/DateUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4250,7 +4250,7 @@ int lastDay = Month.of(Calendar.JANUARY).getLastDay(false);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_235956337" CREATED="1754454746978" MODIFIED="1754464472160"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_235956337" CREATED="1754454746978" MODIFIED="1754464472160"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4261,7 +4261,7 @@ int lastDay = Month.of(Calendar.JANUARY).getLastDay(false);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_877460028" CREATED="1754454746980" MODIFIED="1754464472160"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_877460028" CREATED="1754454746980" MODIFIED="1754464472160"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4669,7 +4669,7 @@ DateUtil.isLeapYear(2017);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_556669087" CREATED="1754453952733" MODIFIED="1754464472172" LINK="https://doc.hutool.cn/pages/DateTime/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_556669087" CREATED="1754453952733" MODIFIED="1754464472172" LINK="https://doc.hutool.cn/pages/DateTime/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4726,7 +4726,7 @@ DateUtil.isLeapYear(2017);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1586041255" CREATED="1754454747020" MODIFIED="1754464472174"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1586041255" CREATED="1754454747020" MODIFIED="1754464472174"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4881,7 +4881,7 @@ String dateStr = dateTime.toString(&quot;yyyy/MM/dd&quot;);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1510889394" CREATED="1754453952736" MODIFIED="1754464472178" LINK="https://doc.hutool.cn/pages/ChineseDate/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1510889394" CREATED="1754453952736" MODIFIED="1754464472178" LINK="https://doc.hutool.cn/pages/ChineseDate/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -5130,7 +5130,7 @@ Console.log(&quot;Timer 2 took {} ms&quot;, timer.intervalMs(&quot;2&quot;));</c
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_545316415" CREATED="1754453952744" MODIFIED="1754464472183"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_545316415" CREATED="1754453952744" MODIFIED="1754464472183"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -5691,7 +5691,7 @@ Console.log(type);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1985341034" CREATED="1754453952762" MODIFIED="1754464472195"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1985341034" CREATED="1754453952762" MODIFIED="1754464472195"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6005,7 +6005,7 @@ String name = FileNameUtil.extName(file);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_463212147" CREATED="1754453952778" MODIFIED="1754464472206"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_463212147" CREATED="1754453952778" MODIFIED="1754464472206"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6254,7 +6254,7 @@ Console.log(&quot;Properties: {}&quot;, properties);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1575380328" CREATED="1754453952790" MODIFIED="1754464472211"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1575380328" CREATED="1754453952790" MODIFIED="1754464472211"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6265,7 +6265,7 @@ Console.log(&quot;Properties: {}&quot;, properties);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1068565430" CREATED="1754453952794" MODIFIED="1754464472211" LINK="https://doc.hutool.cn/pages/util/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1068565430" CREATED="1754453952794" MODIFIED="1754464472211" LINK="https://doc.hutool.cn/pages/util/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6306,7 +6306,7 @@ Console.log(&quot;Properties: {}&quot;, properties);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_89414717" CREATED="1754453952797" MODIFIED="1754464472212" LINK="https://doc.hutool.cn/pages/StrUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_89414717" CREATED="1754453952797" MODIFIED="1754464472212" LINK="https://doc.hutool.cn/pages/StrUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6340,7 +6340,7 @@ Console.log(&quot;Properties: {}&quot;, properties);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_808495162" CREATED="1754456805987" MODIFIED="1754464472214"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_808495162" CREATED="1754456805987" MODIFIED="1754464472214"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6518,7 +6518,7 @@ String str = StrUtil.format(template, &quot;我&quot;, &quot;你&quot;); //str -
 </node>
 </node>
 </node>
-<node ID="ID_1017400768" CREATED="1754453952801" MODIFIED="1754464472220" LINK="https://doc.hutool.cn/pages/HexUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1017400768" CREATED="1754453952801" MODIFIED="1754464472220" LINK="https://doc.hutool.cn/pages/HexUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6608,7 +6608,7 @@ String decodedStr = HexUtil.decodeHexStr(hex);
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1585996666" CREATED="1754453952804" MODIFIED="1754464472224" LINK="https://doc.hutool.cn/pages/EscapeUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1585996666" CREATED="1754453952804" MODIFIED="1754464472224" LINK="https://doc.hutool.cn/pages/EscapeUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6683,7 +6683,7 @@ String decodedStr = HexUtil.decodeHexStr(hex);
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_320235683" CREATED="1754453952806" MODIFIED="1754464472227" LINK="https://doc.hutool.cn/pages/HashUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_320235683" CREATED="1754453952806" MODIFIED="1754464472227" LINK="https://doc.hutool.cn/pages/HashUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6803,7 +6803,7 @@ String decodedStr = HexUtil.decodeHexStr(hex);
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_292001715" CREATED="1754453952809" MODIFIED="1754464472231" LINK="https://doc.hutool.cn/pages/URLUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_292001715" CREATED="1754453952809" MODIFIED="1754464472231" LINK="https://doc.hutool.cn/pages/URLUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6837,7 +6837,7 @@ String decodedStr = HexUtil.decodeHexStr(hex);
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1735187927" CREATED="1754456806031" MODIFIED="1754464472231"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1735187927" CREATED="1754456806031" MODIFIED="1754464472231"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6928,7 +6928,7 @@ String encode = URLUtil.encode(body);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1238516152" CREATED="1754453952811" MODIFIED="1754464472234" LINK="https://doc.hutool.cn/pages/XmlUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1238516152" CREATED="1754453952811" MODIFIED="1754464472234" LINK="https://doc.hutool.cn/pages/XmlUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6962,7 +6962,7 @@ String encode = URLUtil.encode(body);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1816293399" CREATED="1754456806041" MODIFIED="1754464472235"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1816293399" CREATED="1754456806041" MODIFIED="1754464472235"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7200,7 +7200,7 @@ Object value = XmlUtil.getByXPath(&quot;//returnsms/message&quot;, docResult, XP
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_391015975" CREATED="1754453952813" MODIFIED="1754464472241" LINK="https://doc.hutool.cn/pages/ObjectUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_391015975" CREATED="1754453952813" MODIFIED="1754464472241" LINK="https://doc.hutool.cn/pages/ObjectUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7234,7 +7234,7 @@ Object value = XmlUtil.getByXPath(&quot;//returnsms/message&quot;, docResult, XP
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1707147056" CREATED="1754456806060" MODIFIED="1754464472242"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1707147056" CREATED="1754456806060" MODIFIED="1754464472242"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7604,7 +7604,7 @@ final boolean basicType = ObjectUtil.isBasicType(a);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1136718412" CREATED="1754453952818" MODIFIED="1754464472249" LINK="https://doc.hutool.cn/pages/ReflectUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1136718412" CREATED="1754453952818" MODIFIED="1754464472249" LINK="https://doc.hutool.cn/pages/ReflectUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7655,7 +7655,7 @@ final boolean basicType = ObjectUtil.isBasicType(a);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1626651974" CREATED="1754456806087" MODIFIED="1754464472250"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1626651974" CREATED="1754456806087" MODIFIED="1754464472250"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7762,7 +7762,7 @@ ReflectUtil.invoke(testClass, &quot;setA&quot;, 10);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1986646340" CREATED="1754453952822" MODIFIED="1754464472254" LINK="https://doc.hutool.cn/pages/TypeUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1986646340" CREATED="1754453952822" MODIFIED="1754464472254" LINK="https://doc.hutool.cn/pages/TypeUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7804,7 +7804,7 @@ ReflectUtil.invoke(testClass, &quot;setA&quot;, 10);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_881157994" CREATED="1754456806105" MODIFIED="1754464472255"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_881157994" CREATED="1754456806105" MODIFIED="1754464472255"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7938,7 +7938,7 @@ Type type2 = TypeUtil.getTypeArgument(type);
 </node>
 </node>
 </node>
-<node ID="ID_1576055620" CREATED="1754453952824" MODIFIED="1754464472259" LINK="https://doc.hutool.cn/pages/PageUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1576055620" CREATED="1754453952824" MODIFIED="1754464472259" LINK="https://doc.hutool.cn/pages/PageUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8000,7 +8000,7 @@ Type type2 = TypeUtil.getTypeArgument(type);
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_373893052" CREATED="1754456806122" MODIFIED="1754464472261"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_373893052" CREATED="1754456806122" MODIFIED="1754464472261"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8111,7 +8111,7 @@ int[] rainbow = PageUtil.rainbow(5, 20, 6);
 </node>
 </node>
 </node>
-<node ID="ID_526918921" CREATED="1754453952826" MODIFIED="1754464472264" LINK="https://doc.hutool.cn/pages/ClipboardUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_526918921" CREATED="1754453952826" MODIFIED="1754464472264" LINK="https://doc.hutool.cn/pages/ClipboardUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8145,7 +8145,7 @@ int[] rainbow = PageUtil.rainbow(5, 20, 6);
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1732918985" CREATED="1754456806134" MODIFIED="1754464472265"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1732918985" CREATED="1754456806134" MODIFIED="1754464472265"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8256,7 +8256,7 @@ int[] rainbow = PageUtil.rainbow(5, 20, 6);
 </node>
 </node>
 </node>
-<node ID="ID_680830614" CREATED="1754453952830" MODIFIED="1754464472268" LINK="https://doc.hutool.cn/pages/ClassUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_680830614" CREATED="1754453952830" MODIFIED="1754464472268" LINK="https://doc.hutool.cn/pages/ClassUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8267,7 +8267,7 @@ int[] rainbow = PageUtil.rainbow(5, 20, 6);
   </body>
 </html>
 </richcontent>
-<node ID="ID_257685366" CREATED="1754456806147" MODIFIED="1754464472269"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_257685366" CREATED="1754456806147" MODIFIED="1754464472269"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8555,7 +8555,7 @@ int[] rainbow = PageUtil.rainbow(5, 20, 6);
 </node>
 </node>
 </node>
-<node ID="ID_974284853" CREATED="1754453952832" MODIFIED="1754464472282" LINK="https://doc.hutool.cn/pages/EnumUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_974284853" CREATED="1754453952832" MODIFIED="1754464472282" LINK="https://doc.hutool.cn/pages/EnumUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8592,7 +8592,7 @@ int[] rainbow = PageUtil.rainbow(5, 20, 6);
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_246931464" CREATED="1754456806185" MODIFIED="1754464472284"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_246931464" CREATED="1754456806185" MODIFIED="1754464472284"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8777,7 +8777,7 @@ enumMap.get(&quot;TEST1&quot;) // 结果为：type1</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_451965181" CREATED="1754453952835" MODIFIED="1754464472292" LINK="https://doc.hutool.cn/pages/RuntimeUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_451965181" CREATED="1754453952835" MODIFIED="1754464472292" LINK="https://doc.hutool.cn/pages/RuntimeUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8811,7 +8811,7 @@ enumMap.get(&quot;TEST1&quot;) // 结果为：type1</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1951039839" CREATED="1754456806207" MODIFIED="1754464472293"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1951039839" CREATED="1754456806207" MODIFIED="1754464472293"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8901,7 +8901,7 @@ enumMap.get(&quot;TEST1&quot;) // 结果为：type1</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1239554699" CREATED="1754453952838" MODIFIED="1754464472296" LINK="https://doc.hutool.cn/pages/NumberUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1239554699" CREATED="1754453952838" MODIFIED="1754464472296" LINK="https://doc.hutool.cn/pages/NumberUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8935,7 +8935,7 @@ enumMap.get(&quot;TEST1&quot;) // 结果为：type1</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1163905416" CREATED="1754456806217" MODIFIED="1754464472297"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1163905416" CREATED="1754456806217" MODIFIED="1754464472297"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9217,7 +9217,7 @@ String format = NumberUtil.decimalFormat(&quot;,###&quot;, c);//299,792,458</cod
 </node>
 </node>
 </node>
-<node ID="ID_1728271319" CREATED="1754453952840" MODIFIED="1754464472305" LINK="https://doc.hutool.cn/pages/ArrayUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1728271319" CREATED="1754453952840" MODIFIED="1754464472305" LINK="https://doc.hutool.cn/pages/ArrayUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9254,7 +9254,7 @@ String format = NumberUtil.decimalFormat(&quot;,###&quot;, c);//299,792,458</cod
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1445804194" CREATED="1754456806238" MODIFIED="1754464472307"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1445804194" CREATED="1754456806238" MODIFIED="1754464472307"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9673,7 +9673,7 @@ Map&lt;String, Integer&gt; map = ArrayUtil.zip(keys, values, true);
 </node>
 </node>
 </node>
-<node ID="ID_629163003" CREATED="1754453952843" MODIFIED="1754464472320" LINK="https://doc.hutool.cn/pages/RandomUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_629163003" CREATED="1754453952843" MODIFIED="1754464472320" LINK="https://doc.hutool.cn/pages/RandomUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9763,7 +9763,7 @@ Map&lt;String, Integer&gt; map = ArrayUtil.zip(keys, values, true);
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_553091945" CREATED="1754453952846" MODIFIED="1754464472322" LINK="https://doc.hutool.cn/pages/IdUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_553091945" CREATED="1754453952846" MODIFIED="1754464472322" LINK="https://doc.hutool.cn/pages/IdUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9811,7 +9811,7 @@ Map&lt;String, Integer&gt; map = ArrayUtil.zip(keys, values, true);
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_353078932" CREATED="1754456806288" MODIFIED="1754464472323"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_353078932" CREATED="1754456806288" MODIFIED="1754464472323"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9924,7 +9924,7 @@ String id = IdUtil.getSnowflakeNextIdStr();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1610819698" CREATED="1754453952849" MODIFIED="1754464472327" LINK="https://doc.hutool.cn/pages/ZipUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1610819698" CREATED="1754453952849" MODIFIED="1754464472327" LINK="https://doc.hutool.cn/pages/ZipUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9958,7 +9958,7 @@ String id = IdUtil.getSnowflakeNextIdStr();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1720508271" CREATED="1754456806301" MODIFIED="1754464472328"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1720508271" CREATED="1754456806301" MODIFIED="1754464472328"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10155,7 +10155,7 @@ zipFile.addFiles(filesToAdd, zipParameters);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_191986056" CREATED="1754453952852" MODIFIED="1754464472333" LINK="https://doc.hutool.cn/pages/ReferenceUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_191986056" CREATED="1754453952852" MODIFIED="1754464472333" LINK="https://doc.hutool.cn/pages/ReferenceUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10203,7 +10203,7 @@ zipFile.addFiles(filesToAdd, zipParameters);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_78026028" CREATED="1754456806316" MODIFIED="1754464472335"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_78026028" CREATED="1754456806316" MODIFIED="1754464472335"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10239,7 +10239,7 @@ zipFile.addFiles(filesToAdd, zipParameters);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1546973640" CREATED="1754453952854" MODIFIED="1754464472336" LINK="https://doc.hutool.cn/pages/ReUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1546973640" CREATED="1754453952854" MODIFIED="1754464472336" LINK="https://doc.hutool.cn/pages/ReUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10309,7 +10309,7 @@ public static String get(String regex, String content, int groupIndex) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_294955228" CREATED="1754456806322" MODIFIED="1754464472338"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_294955228" CREATED="1754456806322" MODIFIED="1754464472338"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10503,7 +10503,7 @@ Assert.assertEquals(&quot;ZZZaaabbbccc中文-&gt;1234&lt;-&quot;, replaceAll);</
 </node>
 </node>
 </node>
-<node ID="ID_1180704251" CREATED="1754453952856" MODIFIED="1754464472344" LINK="https://doc.hutool.cn/pages/IdcardUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1180704251" CREATED="1754453952856" MODIFIED="1754464472344" LINK="https://doc.hutool.cn/pages/IdcardUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10647,7 +10647,7 @@ Assert.assertEquals(province2, &quot;内蒙古&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1840840002" CREATED="1754453952859" MODIFIED="1754464472347" LINK="https://doc.hutool.cn/pages/DesensitizedUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1840840002" CREATED="1754453952859" MODIFIED="1754464472347" LINK="https://doc.hutool.cn/pages/DesensitizedUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10760,7 +10760,7 @@ DesensitizedUtil.password(&quot;1234567890&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_797062994" CREATED="1754453952862" MODIFIED="1754464472350" LINK="https://doc.hutool.cn/pages/CreditCodeUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_797062994" CREATED="1754453952862" MODIFIED="1754464472350" LINK="https://doc.hutool.cn/pages/CreditCodeUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10817,7 +10817,7 @@ DesensitizedUtil.password(&quot;1234567890&quot;);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1916791971" CREATED="1754456806368" MODIFIED="1754464472351"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1916791971" CREATED="1754456806368" MODIFIED="1754464472351"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10874,7 +10874,7 @@ CreditCodeUtil.isCreditCode(testCreditCode);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_199415133" CREATED="1754453952865" MODIFIED="1754464472354" LINK="https://doc.hutool.cn/pages/ServiceLoaderUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_199415133" CREATED="1754453952865" MODIFIED="1754464472354" LINK="https://doc.hutool.cn/pages/ServiceLoaderUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10964,7 +10964,7 @@ service.execute();</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1370581719" CREATED="1754453952867" MODIFIED="1754464472356" LINK="https://doc.hutool.cn/pages/CharsetUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1370581719" CREATED="1754453952867" MODIFIED="1754464472356" LINK="https://doc.hutool.cn/pages/CharsetUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10998,7 +10998,7 @@ service.execute();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1564129656" CREATED="1754456806382" MODIFIED="1754464472357"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1564129656" CREATED="1754456806382" MODIFIED="1754464472357"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11083,7 +11083,7 @@ service.execute();</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1978732577" CREATED="1754456806390" MODIFIED="1754464472359"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1978732577" CREATED="1754456806390" MODIFIED="1754464472359"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11165,7 +11165,7 @@ service.execute();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_299555109" CREATED="1754453952869" MODIFIED="1754464472362" LINK="https://doc.hutool.cn/pages/ClassLoaderUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_299555109" CREATED="1754453952869" MODIFIED="1754464472362" LINK="https://doc.hutool.cn/pages/ClassLoaderUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11199,7 +11199,7 @@ service.execute();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1535834282" CREATED="1754456806400" MODIFIED="1754464472363"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1535834282" CREATED="1754456806400" MODIFIED="1754464472363"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11210,7 +11210,7 @@ service.execute();</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1765302036" CREATED="1754456806402" MODIFIED="1754464472363"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1765302036" CREATED="1754456806402" MODIFIED="1754464472363"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11279,7 +11279,7 @@ service.execute();</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1917999212" CREATED="1754456806407" MODIFIED="1754464472365"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1917999212" CREATED="1754456806407" MODIFIED="1754464472365"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11359,7 +11359,7 @@ service.execute();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1830544760" CREATED="1754453952871" MODIFIED="1754464472368" LINK="https://doc.hutool.cn/pages/PhoneUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1830544760" CREATED="1754453952871" MODIFIED="1754464472368" LINK="https://doc.hutool.cn/pages/PhoneUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11393,7 +11393,7 @@ service.execute();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1446127042" CREATED="1754456806415" MODIFIED="1754464472369"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1446127042" CREATED="1754456806415" MODIFIED="1754464472369"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11458,7 +11458,7 @@ service.execute();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1213043682" CREATED="1754453952873" MODIFIED="1754464472371"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1213043682" CREATED="1754453952873" MODIFIED="1754464472371"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11469,7 +11469,7 @@ service.execute();</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_183017751" CREATED="1754453952875" MODIFIED="1754464472371" LINK="https://doc.hutool.cn/pages/language/characteristics/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_183017751" CREATED="1754453952875" MODIFIED="1754464472371" LINK="https://doc.hutool.cn/pages/language/characteristics/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11533,7 +11533,7 @@ service.execute();</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_631885448" CREATED="1754453952880" MODIFIED="1754464472372" LINK="https://doc.hutool.cn/pages/Dict/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_631885448" CREATED="1754453952880" MODIFIED="1754464472372" LINK="https://doc.hutool.cn/pages/Dict/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11595,7 +11595,7 @@ service.execute();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1795918636" CREATED="1754456815950" MODIFIED="1754464472374"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1795918636" CREATED="1754456815950" MODIFIED="1754464472374"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11656,7 +11656,7 @@ service.execute();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1578821116" CREATED="1754453952883" MODIFIED="1754464472375" LINK="https://doc.hutool.cn/pages/Singleton/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1578821116" CREATED="1754453952883" MODIFIED="1754464472375" LINK="https://doc.hutool.cn/pages/Singleton/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11791,7 +11791,7 @@ public class SingletonDemo {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1526335405" CREATED="1754453952885" MODIFIED="1754464472378" LINK="https://doc.hutool.cn/pages/Assert/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1526335405" CREATED="1754453952885" MODIFIED="1754464472378" LINK="https://doc.hutool.cn/pages/Assert/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11937,7 +11937,7 @@ cn.hutool.lang.Assert.isNull(a);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_57599042" CREATED="1754453952887" MODIFIED="1754464472382" LINK="https://doc.hutool.cn/pages/BCD/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_57599042" CREATED="1754453952887" MODIFIED="1754464472382" LINK="https://doc.hutool.cn/pages/BCD/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12027,7 +12027,7 @@ Assert.assertEquals(strForTest, str);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_879518545" CREATED="1754453952889" MODIFIED="1754464472384" LINK="https://doc.hutool.cn/pages/Console/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_879518545" CREATED="1754453952889" MODIFIED="1754464472384" LINK="https://doc.hutool.cn/pages/Console/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12119,7 +12119,7 @@ Console.log(a);//控制台输出：[abc, bcd, def]</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_662755118" CREATED="1754453952892" MODIFIED="1754464472386" LINK="https://doc.hutool.cn/pages/Validator/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_662755118" CREATED="1754453952892" MODIFIED="1754464472386" LINK="https://doc.hutool.cn/pages/Validator/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12156,7 +12156,7 @@ Console.log(a);//控制台输出：[abc, bcd, def]</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_133738467" CREATED="1754456816003" MODIFIED="1754464472387"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_133738467" CREATED="1754456816003" MODIFIED="1754464472387"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12236,7 +12236,7 @@ Console.log(a);//控制台输出：[abc, bcd, def]</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1015533405" CREATED="1754453952895" MODIFIED="1754464472389" LINK="https://doc.hutool.cn/pages/StrFormatter/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1015533405" CREATED="1754453952895" MODIFIED="1754464472389" LINK="https://doc.hutool.cn/pages/StrFormatter/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12305,7 +12305,7 @@ Assert.assertEquals(&quot;this is \\a for b&quot;, result3);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_228194185" CREATED="1754453952898" MODIFIED="1754464472390"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_228194185" CREATED="1754453952898" MODIFIED="1754464472390"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12533,7 +12533,7 @@ List&lt;Tree&lt;String&gt;&gt; treeNodes = TreeUtil.&lt;TreeNode, String&gt;buil
 </node>
 </node>
 </node>
-<node ID="ID_784685610" CREATED="1754453952902" MODIFIED="1754464472393"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_784685610" CREATED="1754453952902" MODIFIED="1754464472393"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12582,7 +12582,7 @@ List&lt;Tree&lt;String&gt;&gt; treeNodes = TreeUtil.&lt;TreeNode, String&gt;buil
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_458145042" CREATED="1754453952906" MODIFIED="1754464472394" LINK="https://doc.hutool.cn/pages/BeanUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_458145042" CREATED="1754453952906" MODIFIED="1754464472394" LINK="https://doc.hutool.cn/pages/BeanUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12622,7 +12622,7 @@ List&lt;Tree&lt;String&gt;&gt; treeNodes = TreeUtil.&lt;TreeNode, String&gt;buil
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1854829288" CREATED="1754456846582" MODIFIED="1754464472396"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1854829288" CREATED="1754456846582" MODIFIED="1754464472396"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12966,7 +12966,7 @@ subPersonWithAlias.getSubName();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_219842845" CREATED="1754453952908" MODIFIED="1754464472404" LINK="https://doc.hutool.cn/pages/DynaBean/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_219842845" CREATED="1754453952908" MODIFIED="1754464472404" LINK="https://doc.hutool.cn/pages/DynaBean/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13000,7 +13000,7 @@ subPersonWithAlias.getSubName();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1510152092" CREATED="1754456849746" MODIFIED="1754464472405"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1510152092" CREATED="1754456849746" MODIFIED="1754464472405"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13118,7 +13118,7 @@ Assert.assertEquals(&quot;test for 李华&quot;, invoke);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_708149112" CREATED="1754453952910" MODIFIED="1754464472407" LINK="https://doc.hutool.cn/pages/BeanPath/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_708149112" CREATED="1754453952910" MODIFIED="1754464472407" LINK="https://doc.hutool.cn/pages/BeanPath/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13275,7 +13275,7 @@ Object result = resolver.get(tempMap);//ID为1</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_399052357" CREATED="1754453952912" MODIFIED="1754464472410" LINK="https://doc.hutool.cn/pages/BeanDesc/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_399052357" CREATED="1754453952912" MODIFIED="1754464472410" LINK="https://doc.hutool.cn/pages/BeanDesc/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13329,7 +13329,7 @@ Object result = resolver.get(tempMap);//ID为1</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1455553104" CREATED="1754456849768" MODIFIED="1754464472412"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1455553104" CREATED="1754456849768" MODIFIED="1754464472412"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13471,7 +13471,7 @@ desc.getProp(&quot;name&quot;).setValue(user, &quot;张三&quot;);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1411586160" CREATED="1754453952914" MODIFIED="1754464472415" LINK="https://doc.hutool.cn/pages/Opt/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1411586160" CREATED="1754453952914" MODIFIED="1754464472415" LINK="https://doc.hutool.cn/pages/Opt/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13760,7 +13760,7 @@ Opt.ofNullable(user).map(|光标停在此处)
 </node>
 </node>
 </node>
-<node ID="ID_269928126" CREATED="1754453952918" MODIFIED="1754464472421"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_269928126" CREATED="1754453952918" MODIFIED="1754464472421"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13771,7 +13771,7 @@ Opt.ofNullable(user).map(|光标停在此处)
   </body>
 </html>
 </richcontent>
-<node ID="ID_443685841" CREATED="1754453952920" MODIFIED="1754464472423" LINK="https://doc.hutool.cn/pages/Coll/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_443685841" CREATED="1754453952920" MODIFIED="1754464472423" LINK="https://doc.hutool.cn/pages/Coll/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13782,7 +13782,7 @@ Opt.ofNullable(user).map(|光标停在此处)
   </body>
 </html>
 </richcontent>
-<node ID="ID_329963641" CREATED="1754456857718" MODIFIED="1754464472424"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_329963641" CREATED="1754456857718" MODIFIED="1754464472424"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13835,7 +13835,7 @@ Opt.ofNullable(user).map(|光标停在此处)
 </node>
 </node>
 </node>
-<node ID="ID_279771288" CREATED="1754453952922" MODIFIED="1754464472426" LINK="https://doc.hutool.cn/pages/CollUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_279771288" CREATED="1754453952922" MODIFIED="1754464472426" LINK="https://doc.hutool.cn/pages/CollUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13846,7 +13846,7 @@ Opt.ofNullable(user).map(|光标停在此处)
   </body>
 </html>
 </richcontent>
-<node ID="ID_1023906344" CREATED="1754456857726" MODIFIED="1754464472427"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1023906344" CREATED="1754456857726" MODIFIED="1754464472427"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14099,7 +14099,7 @@ Map&lt;String, Integer&gt; map = CollUtil.zip(keys, values);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_171853364" CREATED="1754453952925" MODIFIED="1754464472437" LINK="https://doc.hutool.cn/pages/ListUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_171853364" CREATED="1754453952925" MODIFIED="1754464472437" LINK="https://doc.hutool.cn/pages/ListUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14133,7 +14133,7 @@ Map&lt;String, Integer&gt; map = CollUtil.zip(keys, values);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1505995699" CREATED="1754456857750" MODIFIED="1754464472439"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1505995699" CREATED="1754456857750" MODIFIED="1754464472439"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14399,7 +14399,7 @@ List&lt;List&lt;String&gt;&gt; partition = ListUtil.partition(list, 2);</code></
 </node>
 </node>
 </node>
-<node ID="ID_602556595" CREATED="1754453952927" MODIFIED="1754464472450" LINK="https://doc.hutool.cn/pages/IterUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_602556595" CREATED="1754453952927" MODIFIED="1754464472450" LINK="https://doc.hutool.cn/pages/IterUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14489,7 +14489,7 @@ List&lt;List&lt;String&gt;&gt; partition = ListUtil.partition(list, 2);</code></
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_200880608" CREATED="1754453952929" MODIFIED="1754464472451" LINK="https://doc.hutool.cn/pages/BoundedPriorityQueue/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_200880608" CREATED="1754453952929" MODIFIED="1754464472451" LINK="https://doc.hutool.cn/pages/BoundedPriorityQueue/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14570,7 +14570,7 @@ public class BoundedPriorityQueueDemo {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_685103773" CREATED="1754453952931" MODIFIED="1754464472453" LINK="https://doc.hutool.cn/pages/ConcurrentHashSet/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_685103773" CREATED="1754453952931" MODIFIED="1754464472453" LINK="https://doc.hutool.cn/pages/ConcurrentHashSet/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14631,7 +14631,7 @@ set.add(&quot;b&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_53742801" CREATED="1754453952933" MODIFIED="1754464472454" LINK="https://doc.hutool.cn/pages/CollStreamUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_53742801" CREATED="1754453952933" MODIFIED="1754464472454" LINK="https://doc.hutool.cn/pages/CollStreamUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14665,7 +14665,7 @@ set.add(&quot;b&quot;);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_638304288" CREATED="1754456857788" MODIFIED="1754464472455"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_638304288" CREATED="1754456857788" MODIFIED="1754464472455"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14818,7 +14818,7 @@ map2.put(1L, new Student(2, 1, 1, &quot;李四&quot;));</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_677144296" CREATED="1754453952935" MODIFIED="1754464472459" LINK="https://doc.hutool.cn/pages/LineIter/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_677144296" CREATED="1754453952935" MODIFIED="1754464472459" LINK="https://doc.hutool.cn/pages/LineIter/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14829,7 +14829,7 @@ map2.put(1L, new Student(2, 1, 1, &quot;李四&quot;));</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1034942494" CREATED="1754456857799" MODIFIED="1754464472460"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1034942494" CREATED="1754456857799" MODIFIED="1754464472460"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14881,7 +14881,7 @@ for (String line : lineIter) {
 </node>
 </node>
 </node>
-<node ID="ID_1905703274" CREATED="1754453952938" MODIFIED="1754464472462"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1905703274" CREATED="1754453952938" MODIFIED="1754464472462"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14892,7 +14892,7 @@ for (String line : lineIter) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1335324071" CREATED="1754453952942" MODIFIED="1754464472462" LINK="https://doc.hutool.cn/pages/map/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1335324071" CREATED="1754453952942" MODIFIED="1754464472462" LINK="https://doc.hutool.cn/pages/map/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14926,7 +14926,7 @@ for (String line : lineIter) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_858982594" CREATED="1754456869666" MODIFIED="1754464472463"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_858982594" CREATED="1754456869666" MODIFIED="1754464472463"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15006,7 +15006,7 @@ for (String line : lineIter) {
 </node>
 </node>
 </node>
-<node ID="ID_809420954" CREATED="1754453952951" MODIFIED="1754464472465" LINK="https://doc.hutool.cn/pages/MapUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_809420954" CREATED="1754453952951" MODIFIED="1754464472465" LINK="https://doc.hutool.cn/pages/MapUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15206,7 +15206,7 @@ Map&lt;String, String&gt; map2 = MapUtil.reverse(map);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1203797998" CREATED="1754453952954" MODIFIED="1754464472469" LINK="https://doc.hutool.cn/pages/BiMap/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1203797998" CREATED="1754453952954" MODIFIED="1754464472469" LINK="https://doc.hutool.cn/pages/BiMap/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15275,7 +15275,7 @@ biMap.getKey(222);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_984381648" CREATED="1754453952956" MODIFIED="1754464472471" LINK="https://doc.hutool.cn/pages/TableMap/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_984381648" CREATED="1754453952956" MODIFIED="1754464472471" LINK="https://doc.hutool.cn/pages/TableMap/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15377,7 +15377,7 @@ tableMap.getKeys(111);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_819900296" CREATED="1754453952959" MODIFIED="1754464472473" LINK="https://doc.hutool.cn/pages/MapBuilder/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_819900296" CREATED="1754453952959" MODIFIED="1754464472473" LINK="https://doc.hutool.cn/pages/MapBuilder/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15437,7 +15437,7 @@ tableMap.getKeys(111);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1601694118" CREATED="1754453952964" MODIFIED="1754464472475"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1601694118" CREATED="1754453952964" MODIFIED="1754464472475"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15448,7 +15448,7 @@ tableMap.getKeys(111);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1021450271" CREATED="1754453952966" MODIFIED="1754464472475" LINK="https://doc.hutool.cn/pages/Base62/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1021450271" CREATED="1754453952966" MODIFIED="1754464472475" LINK="https://doc.hutool.cn/pages/Base62/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15508,7 +15508,7 @@ String decodeStr = Base62.decodeStr(encode);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1250869640" CREATED="1754453952968" MODIFIED="1754464472478" LINK="https://doc.hutool.cn/pages/Base64/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1250869640" CREATED="1754453952968" MODIFIED="1754464472478" LINK="https://doc.hutool.cn/pages/Base64/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15568,7 +15568,7 @@ String decodeStr = Base64.decodeStr(encode);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_475337782" CREATED="1754453952972" MODIFIED="1754464472479" LINK="https://doc.hutool.cn/pages/Base32/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_475337782" CREATED="1754453952972" MODIFIED="1754464472479" LINK="https://doc.hutool.cn/pages/Base32/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15628,7 +15628,7 @@ Assert.assertEquals(a, decodeStr);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_361886580" CREATED="1754453952973" MODIFIED="1754464472481" LINK="https://doc.hutool.cn/pages/Morse/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_361886580" CREATED="1754453952973" MODIFIED="1754464472481" LINK="https://doc.hutool.cn/pages/Morse/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15665,7 +15665,7 @@ Assert.assertEquals(a, decodeStr);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_470344138" CREATED="1754456873418" MODIFIED="1754464472483"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_470344138" CREATED="1754456873418" MODIFIED="1754464472483"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15726,7 +15726,7 @@ morseCoder.decode(morse);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1486747626" CREATED="1754453952976" MODIFIED="1754464472486" LINK="https://doc.hutool.cn/pages/codec/BCD/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1486747626" CREATED="1754453952976" MODIFIED="1754464472486" LINK="https://doc.hutool.cn/pages/codec/BCD/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15789,7 +15789,7 @@ String str = BCD.bcdToStr(bcd);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_140729855" CREATED="1754453952977" MODIFIED="1754464472489" LINK="https://doc.hutool.cn/pages/Rot/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_140729855" CREATED="1754453952977" MODIFIED="1754464472489" LINK="https://doc.hutool.cn/pages/Rot/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15852,7 +15852,7 @@ String decode13 = Rot.decode13(encode13);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1715879724" CREATED="1754453952980" MODIFIED="1754464472491" LINK="https://doc.hutool.cn/pages/PunyCode/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1715879724" CREATED="1754453952980" MODIFIED="1754464472491" LINK="https://doc.hutool.cn/pages/PunyCode/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15918,7 +15918,7 @@ decode = PunyCode.decode(&quot;xn--Hutool-ux9js33tgln&quot;);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1308625607" CREATED="1754453952984" MODIFIED="1754464472494"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1308625607" CREATED="1754453952984" MODIFIED="1754464472494"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15929,7 +15929,7 @@ decode = PunyCode.decode(&quot;xn--Hutool-ux9js33tgln&quot;);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_108050577" CREATED="1754453952986" MODIFIED="1754464472494" LINK="https://doc.hutool.cn/pages/CsvUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_108050577" CREATED="1754453952986" MODIFIED="1754464472494" LINK="https://doc.hutool.cn/pages/CsvUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15980,7 +15980,7 @@ decode = PunyCode.decode(&quot;xn--Hutool-ux9js33tgln&quot;);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1285115276" CREATED="1754456877312" MODIFIED="1754464472495"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1285115276" CREATED="1754456877312" MODIFIED="1754464472495"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15991,7 +15991,7 @@ decode = PunyCode.decode(&quot;xn--Hutool-ux9js33tgln&quot;);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_816181411" CREATED="1754456877316" MODIFIED="1754464472496"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_816181411" CREATED="1754456877316" MODIFIED="1754464472496"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16165,7 +16165,7 @@ writer.write(
 </node>
 </node>
 </node>
-<node ID="ID_1891420849" CREATED="1754453952988" MODIFIED="1754464472499" LINK="https://doc.hutool.cn/pages/UnicodeUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1891420849" CREATED="1754453952988" MODIFIED="1754464472499" LINK="https://doc.hutool.cn/pages/UnicodeUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16199,7 +16199,7 @@ writer.write(
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1180085187" CREATED="1754456877332" MODIFIED="1754464472500"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1180085187" CREATED="1754456877332" MODIFIED="1754464472500"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16261,7 +16261,7 @@ String res = UnicodeUtil.toString(str);
 </node>
 </node>
 </node>
-<node ID="ID_1415795848" CREATED="1754453952991" MODIFIED="1754464472502" LINK="https://doc.hutool.cn/pages/StrBuilder/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1415795848" CREATED="1754453952991" MODIFIED="1754464472502" LINK="https://doc.hutool.cn/pages/StrBuilder/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16369,7 +16369,7 @@ StrBuilder   : 20ms</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_984266083" CREATED="1754453952993" MODIFIED="1754464472504" LINK="https://doc.hutool.cn/pages/StrSplitter/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_984266083" CREATED="1754453952993" MODIFIED="1754464472504" LINK="https://doc.hutool.cn/pages/StrSplitter/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16423,7 +16423,7 @@ StrBuilder   : 20ms</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_524899123" CREATED="1754456877351" MODIFIED="1754464472506"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_524899123" CREATED="1754456877351" MODIFIED="1754464472506"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16505,7 +16505,7 @@ List&lt;String&gt; split = StrSplitter.split(str1, ',', 0, true, true);</code></
 </node>
 </node>
 </node>
-<node ID="ID_1090195528" CREATED="1754453952995" MODIFIED="1754464472508"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1090195528" CREATED="1754453952995" MODIFIED="1754464472508"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16516,7 +16516,7 @@ List&lt;String&gt; split = StrSplitter.split(str1, ',', 0, true, true);</code></
   </body>
 </html>
 </richcontent>
-<node ID="ID_1932188819" CREATED="1754453952997" MODIFIED="1754464472508" LINK="https://doc.hutool.cn/pages/AnnotationUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1932188819" CREATED="1754453952997" MODIFIED="1754464472508" LINK="https://doc.hutool.cn/pages/AnnotationUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16550,7 +16550,7 @@ List&lt;String&gt; split = StrSplitter.split(str1, ',', 0, true, true);</code></
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1305600549" CREATED="1754456895965" MODIFIED="1754464472509"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1305600549" CREATED="1754456895965" MODIFIED="1754464472509"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16662,7 +16662,7 @@ Object value = AnnotationUtil.getAnnotationValue(ClassWithAnnotation.class, Anno
 </node>
 </node>
 </node>
-<node ID="ID_1725020104" CREATED="1754453953000" MODIFIED="1754464472511"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1725020104" CREATED="1754453953000" MODIFIED="1754464472511"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16829,7 +16829,7 @@ int compare = VersionComparator.INSTANCE.compare(&quot;V0.0.20170102&quot;, &quo
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_615435548" CREATED="1754453953011" MODIFIED="1754464472513"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_615435548" CREATED="1754453953011" MODIFIED="1754464472513"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16840,7 +16840,7 @@ int compare = VersionComparator.INSTANCE.compare(&quot;V0.0.20170102&quot;, &quo
   </body>
 </html>
 </richcontent>
-<node ID="ID_763485111" CREATED="1754453953014" MODIFIED="1754464472514" LINK="https://doc.hutool.cn/pages/ExceptionUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_763485111" CREATED="1754453953014" MODIFIED="1754464472514" LINK="https://doc.hutool.cn/pages/ExceptionUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16874,7 +16874,7 @@ int compare = VersionComparator.INSTANCE.compare(&quot;V0.0.20170102&quot;, &quo
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1115990678" CREATED="1754456905917" MODIFIED="1754464472515"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1115990678" CREATED="1754456905917" MODIFIED="1754464472515"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17056,7 +17056,7 @@ IOException ioException1 = ExceptionUtil.convertFromOrSuppressedThrowable(argume
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1604780124" CREATED="1754453953019" MODIFIED="1754464472520"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1604780124" CREATED="1754453953019" MODIFIED="1754464472520"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17067,7 +17067,7 @@ IOException ioException1 = ExceptionUtil.convertFromOrSuppressedThrowable(argume
   </body>
 </html>
 </richcontent>
-<node ID="ID_1616427814" CREATED="1754453953021" MODIFIED="1754464472520" LINK="https://doc.hutool.cn/pages/MathUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1616427814" CREATED="1754453953021" MODIFIED="1754464472520" LINK="https://doc.hutool.cn/pages/MathUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17149,7 +17149,7 @@ IOException ioException1 = ExceptionUtil.convertFromOrSuppressedThrowable(argume
 </node>
 </node>
 </node>
-<node ID="ID_1058975958" CREATED="1754453953024" MODIFIED="1754464472523"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1058975958" CREATED="1754453953024" MODIFIED="1754464472523"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17160,7 +17160,7 @@ IOException ioException1 = ExceptionUtil.convertFromOrSuppressedThrowable(argume
   </body>
 </html>
 </richcontent>
-<node ID="ID_747702822" CREATED="1754453953026" MODIFIED="1754464472523" LINK="https://doc.hutool.cn/pages/ThreadUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_747702822" CREATED="1754453953026" MODIFIED="1754464472523" LINK="https://doc.hutool.cn/pages/ThreadUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17220,7 +17220,7 @@ IOException ioException1 = ExceptionUtil.convertFromOrSuppressedThrowable(argume
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_464429439" CREATED="1754456913672" MODIFIED="1754464472524"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_464429439" CREATED="1754456913672" MODIFIED="1754464472524"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17444,7 +17444,7 @@ IOException ioException1 = ExceptionUtil.convertFromOrSuppressedThrowable(argume
 </node>
 </node>
 </node>
-<node ID="ID_1134322806" CREATED="1754453953029" MODIFIED="1754464472529" LINK="https://doc.hutool.cn/pages/AsyncUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1134322806" CREATED="1754453953029" MODIFIED="1754464472529" LINK="https://doc.hutool.cn/pages/AsyncUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17481,7 +17481,7 @@ IOException ioException1 = ExceptionUtil.convertFromOrSuppressedThrowable(argume
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1765536882" CREATED="1754456913698" MODIFIED="1754464472531"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1765536882" CREATED="1754456913698" MODIFIED="1754464472531"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17563,7 +17563,7 @@ IOException ioException1 = ExceptionUtil.convertFromOrSuppressedThrowable(argume
 </node>
 </node>
 </node>
-<node ID="ID_824203559" CREATED="1754453953032" MODIFIED="1754464472533" LINK="https://doc.hutool.cn/pages/ExecutorBuilder/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_824203559" CREATED="1754453953032" MODIFIED="1754464472533" LINK="https://doc.hutool.cn/pages/ExecutorBuilder/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17574,7 +17574,7 @@ IOException ioException1 = ExceptionUtil.convertFromOrSuppressedThrowable(argume
   </body>
 </html>
 </richcontent>
-<node ID="ID_656109172" CREATED="1754456913707" MODIFIED="1754464472533"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_656109172" CREATED="1754456913707" MODIFIED="1754464472533"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17806,7 +17806,7 @@ IOException ioException1 = ExceptionUtil.convertFromOrSuppressedThrowable(argume
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_976415279" CREATED="1754453953035" MODIFIED="1754464472538" LINK="https://doc.hutool.cn/pages/ConcurrencyTester/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_976415279" CREATED="1754453953035" MODIFIED="1754464472538" LINK="https://doc.hutool.cn/pages/ConcurrencyTester/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17870,7 +17870,7 @@ Console.log(tester.getInterval());</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_284793507" CREATED="1754453953038" MODIFIED="1754464472540"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_284793507" CREATED="1754453953038" MODIFIED="1754464472540"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17881,7 +17881,7 @@ Console.log(tester.getInterval());</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_338000613" CREATED="1754453953040" MODIFIED="1754464472540" LINK="https://doc.hutool.cn/pages/ImgUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_338000613" CREATED="1754453953040" MODIFIED="1754464472540" LINK="https://doc.hutool.cn/pages/ImgUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17915,7 +17915,7 @@ Console.log(tester.getInterval());</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_653940828" CREATED="1754456918028" MODIFIED="1754464472541"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_653940828" CREATED="1754456918028" MODIFIED="1754464472541"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18145,7 +18145,7 @@ ImgUtil.write(image, FileUtil.file(&quot;e:/pic/result.png&quot;));</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1175580407" CREATED="1754453953044" MODIFIED="1754464472548" LINK="https://doc.hutool.cn/pages/Img/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1175580407" CREATED="1754453953044" MODIFIED="1754464472548" LINK="https://doc.hutool.cn/pages/Img/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18179,7 +18179,7 @@ ImgUtil.write(image, FileUtil.file(&quot;e:/pic/result.png&quot;));</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1501244914" CREATED="1754456918058" MODIFIED="1754464472549"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1501244914" CREATED="1754456918058" MODIFIED="1754464472549"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18243,7 +18243,7 @@ Img.from(FileUtil.file(&quot;e:/pic/face.jpg&quot;))
 </node>
 </node>
 </node>
-<node ID="ID_377540756" CREATED="1754453953046" MODIFIED="1754464472551"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_377540756" CREATED="1754453953046" MODIFIED="1754464472551"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18254,7 +18254,7 @@ Img.from(FileUtil.file(&quot;e:/pic/face.jpg&quot;))
   </body>
 </html>
 </richcontent>
-<node ID="ID_1372295853" CREATED="1754453953049" MODIFIED="1754464472552" LINK="https://doc.hutool.cn/pages/NetUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1372295853" CREATED="1754453953049" MODIFIED="1754464472552" LINK="https://doc.hutool.cn/pages/NetUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18385,7 +18385,7 @@ boolean result= NetUtil.isValidPort(6379);
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1117100833" CREATED="1754453953053" MODIFIED="1754464472555" LINK="https://doc.hutool.cn/pages/UrlBuilder/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1117100833" CREATED="1754453953053" MODIFIED="1754464472555" LINK="https://doc.hutool.cn/pages/UrlBuilder/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18442,7 +18442,7 @@ boolean result= NetUtil.isValidPort(6379);
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1242896531" CREATED="1754456918073" MODIFIED="1754464472556"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1242896531" CREATED="1754456918073" MODIFIED="1754464472556"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18596,7 +18596,7 @@ Console.log(builder.build());</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_598407285" CREATED="1754453953056" MODIFIED="1754464472560"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_598407285" CREATED="1754453953056" MODIFIED="1754464472560"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18607,7 +18607,7 @@ Console.log(builder.build());</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_477018111" CREATED="1754453953058" MODIFIED="1754464472561" LINK="https://doc.hutool.cn/pages/CompilerUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_477018111" CREATED="1754453953058" MODIFIED="1754464472561" LINK="https://doc.hutool.cn/pages/CompilerUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18692,7 +18692,7 @@ Object obj = ReflectUtil.newInstance(clazz);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_650503834" CREATED="1754453993543" MODIFIED="1754464472563"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_650503834" CREATED="1754453993543" MODIFIED="1754464472563"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18703,7 +18703,7 @@ Object obj = ReflectUtil.newInstance(clazz);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1353105627" CREATED="1754453993546" MODIFIED="1754464472563" LINK="https://doc.hutool.cn/pages/setting/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1353105627" CREATED="1754453993546" MODIFIED="1754464472563" LINK="https://doc.hutool.cn/pages/setting/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18714,7 +18714,7 @@ Object obj = ReflectUtil.newInstance(clazz);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1775496995" CREATED="1754456925792" MODIFIED="1754464472564"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1775496995" CREATED="1754456925792" MODIFIED="1754464472564"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18791,7 +18791,7 @@ try {
 </node>
 </node>
 </node>
-<node ID="ID_1689609519" CREATED="1754453993548" MODIFIED="1754464472565" LINK="https://doc.hutool.cn/pages/Props/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1689609519" CREATED="1754453993548" MODIFIED="1754464472565" LINK="https://doc.hutool.cn/pages/Props/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18852,7 +18852,7 @@ String driver = props.getStr(&quot;driver&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1776297289" CREATED="1754453993559" MODIFIED="1754464472568" LINK="https://doc.hutool.cn/pages/setting/example/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1776297289" CREATED="1754453993559" MODIFIED="1754464472568" LINK="https://doc.hutool.cn/pages/setting/example/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19038,7 +19038,7 @@ setting.setVarRegex(&quot;\$\\$\\{(.*?)\\}&quot;);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1111595716" CREATED="1754454250738" MODIFIED="1754464472571"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1111595716" CREATED="1754454250738" MODIFIED="1754464472571"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19049,7 +19049,7 @@ setting.setVarRegex(&quot;\$\\$\\{(.*?)\\}&quot;);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_263178793" CREATED="1754454250742" MODIFIED="1754464472571" LINK="https://doc.hutool.cn/pages/log/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_263178793" CREATED="1754454250742" MODIFIED="1754464472571" LINK="https://doc.hutool.cn/pages/log/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19196,7 +19196,7 @@ setting.setVarRegex(&quot;\$\\$\\{(.*?)\\}&quot;);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1945259098" CREATED="1754456930402" MODIFIED="1754464472574"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1945259098" CREATED="1754456930402" MODIFIED="1754464472574"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19287,7 +19287,7 @@ Console.log(&quot;--------------------------------------------------------------
 </node>
 </node>
 </node>
-<node ID="ID_595475763" CREATED="1754454250744" MODIFIED="1754464472576" LINK="https://doc.hutool.cn/pages/LogFactory/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_595475763" CREATED="1754454250744" MODIFIED="1754464472576" LINK="https://doc.hutool.cn/pages/LogFactory/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19341,7 +19341,7 @@ Console.log(&quot;--------------------------------------------------------------
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1143392144" CREATED="1754456930410" MODIFIED="1754464472577"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1143392144" CREATED="1754456930410" MODIFIED="1754464472577"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19434,7 +19434,7 @@ LogFactory.setCurrentLogFactory(new ConsoleLogFactory());</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_611786659" CREATED="1754454250756" MODIFIED="1754464472580" LINK="https://doc.hutool.cn/pages/log/faq/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_611786659" CREATED="1754454250756" MODIFIED="1754464472580" LINK="https://doc.hutool.cn/pages/log/faq/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19504,7 +19504,7 @@ LogFactory.setCurrentLogFactory(new ConsoleLogFactory());</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_852798648" CREATED="1754454250759" MODIFIED="1754464472583" LINK="https://doc.hutool.cn/pages/StaticLog/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_852798648" CREATED="1754454250759" MODIFIED="1754464472583" LINK="https://doc.hutool.cn/pages/StaticLog/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19590,7 +19590,7 @@ LogFactory.setCurrentLogFactory(new ConsoleLogFactory());</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_611381844" CREATED="1754454250762" MODIFIED="1754464472586"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_611381844" CREATED="1754454250762" MODIFIED="1754464472586"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19601,7 +19601,7 @@ LogFactory.setCurrentLogFactory(new ConsoleLogFactory());</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1513373482" CREATED="1754454250764" MODIFIED="1754464472586" LINK="https://doc.hutool.cn/pages/cache/index/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1513373482" CREATED="1754454250764" MODIFIED="1754464472586" LINK="https://doc.hutool.cn/pages/cache/index/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19635,7 +19635,7 @@ LogFactory.setCurrentLogFactory(new ConsoleLogFactory());</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1827926808" CREATED="1754456935129" MODIFIED="1754464472587"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1827926808" CREATED="1754456935129" MODIFIED="1754464472587"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19812,7 +19812,7 @@ LogFactory.setCurrentLogFactory(new ConsoleLogFactory());</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1330631967" CREATED="1754454250766" MODIFIED="1754464472592" LINK="https://doc.hutool.cn/pages/CacheUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1330631967" CREATED="1754454250766" MODIFIED="1754464472592" LINK="https://doc.hutool.cn/pages/CacheUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19872,7 +19872,7 @@ Cache&lt;String,String&gt; fifoCache = CacheUtil.newFIFOCache(3);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_584678487" CREATED="1754454250768" MODIFIED="1754464472593" LINK="https://doc.hutool.cn/pages/FIFOCache/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_584678487" CREATED="1754454250768" MODIFIED="1754464472593" LINK="https://doc.hutool.cn/pages/FIFOCache/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19939,7 +19939,7 @@ String value1 = fifoCache.get(&quot;key1&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1502152369" CREATED="1754454250772" MODIFIED="1754464472595" LINK="https://doc.hutool.cn/pages/FileCache/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1502152369" CREATED="1754454250772" MODIFIED="1754464472595" LINK="https://doc.hutool.cn/pages/FileCache/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20030,7 +20030,7 @@ byte[] bytes = cache.getFileBytes(&quot;d:/a.jpg&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1370635785" CREATED="1754454250774" MODIFIED="1754464472597" LINK="https://doc.hutool.cn/pages/LFUCache/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1370635785" CREATED="1754454250774" MODIFIED="1754464472597" LINK="https://doc.hutool.cn/pages/LFUCache/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20096,7 +20096,7 @@ String value3 = lfuCache.get(&quot;key3&quot;);//null</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1264616032" CREATED="1754454250776" MODIFIED="1754464472598" LINK="https://doc.hutool.cn/pages/LRUCache/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1264616032" CREATED="1754454250776" MODIFIED="1754464472598" LINK="https://doc.hutool.cn/pages/LRUCache/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20161,7 +20161,7 @@ String value2 = lruCache.get(&quot;key&quot;);//null</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_658046166" CREATED="1754454250778" MODIFIED="1754464472600" LINK="https://doc.hutool.cn/pages/TimedCache/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_658046166" CREATED="1754454250778" MODIFIED="1754464472600" LINK="https://doc.hutool.cn/pages/TimedCache/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20242,7 +20242,7 @@ timedCache.cancelPruneSchedule();</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_228175890" CREATED="1754454250780" MODIFIED="1754464472601" LINK="https://doc.hutool.cn/pages/WeakCache/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_228175890" CREATED="1754454250780" MODIFIED="1754464472601" LINK="https://doc.hutool.cn/pages/WeakCache/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20305,7 +20305,7 @@ timedCache.cancelPruneSchedule();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1214377235" CREATED="1754454250782" MODIFIED="1754464472603"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1214377235" CREATED="1754454250782" MODIFIED="1754464472603"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20316,7 +20316,7 @@ timedCache.cancelPruneSchedule();</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1963059361" CREATED="1754454250784" MODIFIED="1754464472603" LINK="https://doc.hutool.cn/pages/json/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1963059361" CREATED="1754454250784" MODIFIED="1754464472603" LINK="https://doc.hutool.cn/pages/json/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20417,7 +20417,7 @@ json1.getBigDecimal(&quot;key&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1241027324" CREATED="1754454250787" MODIFIED="1754464472605" LINK="https://doc.hutool.cn/pages/JSONUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1241027324" CREATED="1754454250787" MODIFIED="1754464472605" LINK="https://doc.hutool.cn/pages/JSONUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20451,7 +20451,7 @@ json1.getBigDecimal(&quot;key&quot;);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1389719758" CREATED="1754456939394" MODIFIED="1754464472606"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1389719758" CREATED="1754456939394" MODIFIED="1754464472606"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20722,7 +20722,7 @@ public class Test {
 </node>
 </node>
 </node>
-<node ID="ID_1909672876" CREATED="1754454250788" MODIFIED="1754464472613" LINK="https://doc.hutool.cn/pages/JSONObject/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1909672876" CREATED="1754454250788" MODIFIED="1754464472613" LINK="https://doc.hutool.cn/pages/JSONObject/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20763,7 +20763,7 @@ public class Test {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1608448545" CREATED="1754456939421" MODIFIED="1754464472614"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1608448545" CREATED="1754456939421" MODIFIED="1754464472614"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20922,7 +20922,7 @@ JSONObject json = JSONUtil.parseObj(userA, false, true);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_399427643" CREATED="1754454250790" MODIFIED="1754464472617" LINK="https://doc.hutool.cn/pages/JSONArray/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_399427643" CREATED="1754454250790" MODIFIED="1754464472617" LINK="https://doc.hutool.cn/pages/JSONArray/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20957,7 +20957,7 @@ JSONObject json = JSONUtil.parseObj(userA, false, true);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1786066343" CREATED="1754456939432" MODIFIED="1754464472618"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1786066343" CREATED="1754456939432" MODIFIED="1754464472618"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21172,7 +21172,7 @@ jsonArray.getByPath(&quot;[1].name&quot;);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_752897721" CREATED="1754454250793" MODIFIED="1754464472623"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_752897721" CREATED="1754454250793" MODIFIED="1754464472623"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21183,7 +21183,7 @@ jsonArray.getByPath(&quot;[1].name&quot;);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_203136898" CREATED="1754454250795" MODIFIED="1754464472623" LINK="https://doc.hutool.cn/pages/crypto/index/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_203136898" CREATED="1754454250795" MODIFIED="1754464472623" LINK="https://doc.hutool.cn/pages/crypto/index/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21319,7 +21319,7 @@ jsonArray.getByPath(&quot;[1].name&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_225768149" CREATED="1754454250797" MODIFIED="1754464472625" LINK="https://doc.hutool.cn/pages/SecureUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_225768149" CREATED="1754454250797" MODIFIED="1754464472625" LINK="https://doc.hutool.cn/pages/SecureUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21353,7 +21353,7 @@ jsonArray.getByPath(&quot;[1].name&quot;);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1560026729" CREATED="1754456943882" MODIFIED="1754464472625"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1560026729" CREATED="1754456943882" MODIFIED="1754464472625"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21518,7 +21518,7 @@ jsonArray.getByPath(&quot;[1].name&quot;);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_215617985" CREATED="1754454250803" MODIFIED="1754464472630" LINK="https://doc.hutool.cn/pages/SmUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_215617985" CREATED="1754454250803" MODIFIED="1754464472630" LINK="https://doc.hutool.cn/pages/SmUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21569,7 +21569,7 @@ jsonArray.getByPath(&quot;[1].name&quot;);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1722517227" CREATED="1754456943904" MODIFIED="1754464472631"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1722517227" CREATED="1754456943904" MODIFIED="1754464472631"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21824,7 +21824,7 @@ String decryptStr = sm4.decryptStr(encryptHex, CharsetUtil.CHARSET_UTF_8);</code
 </node>
 </node>
 </node>
-<node ID="ID_941220818" CREATED="1754454250806" MODIFIED="1754464472635" LINK="https://doc.hutool.cn/pages/SymmetricCrypto/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_941220818" CREATED="1754454250806" MODIFIED="1754464472635" LINK="https://doc.hutool.cn/pages/SymmetricCrypto/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21890,7 +21890,7 @@ String decryptStr = sm4.decryptStr(encryptHex, CharsetUtil.CHARSET_UTF_8);</code
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_351746182" CREATED="1754456943925" MODIFIED="1754464472636"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_351746182" CREATED="1754456943925" MODIFIED="1754464472636"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22129,7 +22129,7 @@ String decryptStr = sm4.decryptStr(encryptHex, CharsetUtil.CHARSET_UTF_8);//test
 </node>
 </node>
 </node>
-<node ID="ID_268924050" CREATED="1754454250809" MODIFIED="1754464472640" LINK="https://doc.hutool.cn/pages/Digester/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_268924050" CREATED="1754454250809" MODIFIED="1754464472640" LINK="https://doc.hutool.cn/pages/Digester/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22140,7 +22140,7 @@ String decryptStr = sm4.decryptStr(encryptHex, CharsetUtil.CHARSET_UTF_8);//test
   </body>
 </html>
 </richcontent>
-<node ID="ID_225804663" CREATED="1754456943938" MODIFIED="1754464472640"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_225804663" CREATED="1754456943938" MODIFIED="1754464472640"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22178,7 +22178,7 @@ String decryptStr = sm4.decryptStr(encryptHex, CharsetUtil.CHARSET_UTF_8);//test
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1514118017" CREATED="1754456943941" MODIFIED="1754464472642"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1514118017" CREATED="1754456943941" MODIFIED="1754464472642"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22244,7 +22244,7 @@ String decryptStr = sm4.decryptStr(encryptHex, CharsetUtil.CHARSET_UTF_8);//test
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_41653403" CREATED="1754456943949" MODIFIED="1754464472643"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_41653403" CREATED="1754456943949" MODIFIED="1754464472643"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22287,7 +22287,7 @@ String md5Hex1 = DigestUtil.md5Hex(testStr);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1102785125" CREATED="1754456943953" MODIFIED="1754464472644"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1102785125" CREATED="1754456943953" MODIFIED="1754464472644"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22342,7 +22342,7 @@ String digestHex = digester.digestHex(&quot;aaaaa&quot;);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1984051925" CREATED="1754454250811" MODIFIED="1754464472645" LINK="https://doc.hutool.cn/pages/HMac/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1984051925" CREATED="1754454250811" MODIFIED="1754464472645" LINK="https://doc.hutool.cn/pages/HMac/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22353,7 +22353,7 @@ String digestHex = digester.digestHex(&quot;aaaaa&quot;);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1533692475" CREATED="1754456943958" MODIFIED="1754464472646"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1533692475" CREATED="1754456943958" MODIFIED="1754464472646"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22388,7 +22388,7 @@ String digestHex = digester.digestHex(&quot;aaaaa&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_41383234" CREATED="1754456943961" MODIFIED="1754464472647"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_41383234" CREATED="1754456943961" MODIFIED="1754464472647"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22440,7 +22440,7 @@ String digestHex = digester.digestHex(&quot;aaaaa&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1995666955" CREATED="1754456943965" MODIFIED="1754464472647"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1995666955" CREATED="1754456943965" MODIFIED="1754464472647"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22506,7 +22506,7 @@ String macHex1 = mac.digestHex(testStr);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1228760754" CREATED="1754454250814" MODIFIED="1754464472649" LINK="https://doc.hutool.cn/pages/Sign/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1228760754" CREATED="1754454250814" MODIFIED="1754464472649" LINK="https://doc.hutool.cn/pages/Sign/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22590,7 +22590,7 @@ boolean verify = sign.verify(data, signed);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_509761400" CREATED="1754454250817" MODIFIED="1754464472651" LINK="https://doc.hutool.cn/pages/AsymmetricCrypto/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_509761400" CREATED="1754454250817" MODIFIED="1754464472651" LINK="https://doc.hutool.cn/pages/AsymmetricCrypto/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22656,7 +22656,7 @@ boolean verify = sign.verify(data, signed);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1410303528" CREATED="1754456943979" MODIFIED="1754464472652"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1410303528" CREATED="1754456943979" MODIFIED="1754464472652"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22759,7 +22759,7 @@ pair.getPublic();</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_77729875" CREATED="1754456943987" MODIFIED="1754464472655"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_77729875" CREATED="1754456943987" MODIFIED="1754464472655"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22814,7 +22814,7 @@ byte[] decrypt = rsa.decrypt(aByte, KeyType.PrivateKey);
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_12100935" CREATED="1754456943991" MODIFIED="1754464472656"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_12100935" CREATED="1754456943991" MODIFIED="1754464472656"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22873,7 +22873,7 @@ String decryptStr = StrUtil.utf8Str(ecies.decrypt(encryptStr, KeyType.PrivateKey
 </node>
 </node>
 </node>
-<node ID="ID_810315925" CREATED="1754454250820" MODIFIED="1754464472658"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_810315925" CREATED="1754454250820" MODIFIED="1754464472658"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22884,7 +22884,7 @@ String decryptStr = StrUtil.utf8Str(ecies.decrypt(encryptStr, KeyType.PrivateKey
   </body>
 </html>
 </richcontent>
-<node ID="ID_715692484" CREATED="1754454250823" MODIFIED="1754464472658" LINK="https://doc.hutool.cn/pages/dfa/index/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_715692484" CREATED="1754454250823" MODIFIED="1754464472658" LINK="https://doc.hutool.cn/pages/dfa/index/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22895,7 +22895,7 @@ String decryptStr = StrUtil.utf8Str(ecies.decrypt(encryptStr, KeyType.PrivateKey
   </body>
 </html>
 </richcontent>
-<node ID="ID_1803705645" CREATED="1754456948643" MODIFIED="1754464472658"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1803705645" CREATED="1754456948643" MODIFIED="1754464472658"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22983,7 +22983,7 @@ String decryptStr = StrUtil.utf8Str(ecies.decrypt(encryptStr, KeyType.PrivateKey
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1378084856" CREATED="1754454250826" MODIFIED="1754464472661" LINK="https://doc.hutool.cn/pages/dfa/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1378084856" CREATED="1754454250826" MODIFIED="1754464472661" LINK="https://doc.hutool.cn/pages/dfa/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22994,7 +22994,7 @@ String decryptStr = StrUtil.utf8Str(ecies.decrypt(encryptStr, KeyType.PrivateKey
   </body>
 </html>
 </richcontent>
-<node ID="ID_678774286" CREATED="1754456948650" MODIFIED="1754464472661"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_678774286" CREATED="1754456948650" MODIFIED="1754464472661"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23123,7 +23123,7 @@ Assert.assertEquals(matchAll.toString(), &quot;[大, 大土豆, 土豆, 刚出�
 </node>
 </node>
 </node>
-<node ID="ID_1655901114" CREATED="1754454250828" MODIFIED="1754464472663"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1655901114" CREATED="1754454250828" MODIFIED="1754464472663"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23134,7 +23134,7 @@ Assert.assertEquals(matchAll.toString(), &quot;[大, 大土豆, 土豆, 刚出�
   </body>
 </html>
 </richcontent>
-<node ID="ID_368265008" CREATED="1754454250831" MODIFIED="1754464472664" LINK="https://doc.hutool.cn/pages/db/index/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_368265008" CREATED="1754454250831" MODIFIED="1754464472664" LINK="https://doc.hutool.cn/pages/db/index/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23171,7 +23171,7 @@ Assert.assertEquals(matchAll.toString(), &quot;[大, 大土豆, 土豆, 刚出�
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_109110428" CREATED="1754456952626" MODIFIED="1754464472664"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_109110428" CREATED="1754456952626" MODIFIED="1754464472664"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23304,7 +23304,7 @@ Assert.assertEquals(matchAll.toString(), &quot;[大, 大土豆, 土豆, 刚出�
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_400701480" CREATED="1754456952639" MODIFIED="1754464472667"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_400701480" CREATED="1754456952639" MODIFIED="1754464472667"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23382,7 +23382,7 @@ Log.info(&quot;{}&quot;, table);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1157054768" CREATED="1754454250834" MODIFIED="1754464472668" LINK="https://doc.hutool.cn/pages/SqlExecutor/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1157054768" CREATED="1754454250834" MODIFIED="1754464472668" LINK="https://doc.hutool.cn/pages/SqlExecutor/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23454,7 +23454,7 @@ try {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_995143351" CREATED="1754454250836" MODIFIED="1754464472670" LINK="https://doc.hutool.cn/pages/Session/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_995143351" CREATED="1754454250836" MODIFIED="1754464472670" LINK="https://doc.hutool.cn/pages/Session/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23465,7 +23465,7 @@ try {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1681804116" CREATED="1754456952652" MODIFIED="1754464472670"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1681804116" CREATED="1754456952652" MODIFIED="1754464472670"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23582,7 +23582,7 @@ try {
 </node>
 </node>
 </node>
-<node ID="ID_477559881" CREATED="1754454250839" MODIFIED="1754464472672" LINK="https://doc.hutool.cn/pages/Db/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_477559881" CREATED="1754454250839" MODIFIED="1754464472672" LINK="https://doc.hutool.cn/pages/Db/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23616,7 +23616,7 @@ try {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1706656246" CREATED="1754456952662" MODIFIED="1754464472673" LINK="https://doc.hutool.cn/pages/Db/#使用"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1706656246" CREATED="1754456952662" MODIFIED="1754464472673" LINK="https://doc.hutool.cn/pages/Db/#使用"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23707,7 +23707,7 @@ sqlLevel = debug</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_727606303" CREATED="1754456952672" MODIFIED="1754464472675" LINK="https://doc.hutool.cn/pages/Db/#_3、增删改查"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_727606303" CREATED="1754456952672" MODIFIED="1754464472675" LINK="https://doc.hutool.cn/pages/Db/#_3、增删改查"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23961,7 +23961,7 @@ Db.use().query(&quot;select * from table where id=@id and name = @name1 and nick
 </node>
 </node>
 </node>
-<node ID="ID_287276012" CREATED="1754454250842" MODIFIED="1754464472679" LINK="https://doc.hutool.cn/pages/DsFactory/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_287276012" CREATED="1754454250842" MODIFIED="1754464472679" LINK="https://doc.hutool.cn/pages/DsFactory/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24024,7 +24024,7 @@ Db.use().query(&quot;select * from table where id=@id and name = @name1 and nick
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_136742620" CREATED="1754456952686" MODIFIED="1754464472681"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_136742620" CREATED="1754456952686" MODIFIED="1754464472681"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24058,7 +24058,7 @@ Db.use().query(&quot;select * from table where id=@id and name = @name1 and nick
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_418861190" CREATED="1754456952690" MODIFIED="1754464472683"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_418861190" CREATED="1754456952690" MODIFIED="1754464472683"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24245,7 +24245,7 @@ ds2.setPassword(&quot;123456&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1527429184" CREATED="1754456952706" MODIFIED="1754464472688"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1527429184" CREATED="1754456952706" MODIFIED="1754464472688"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24313,7 +24313,7 @@ DataSource ds = DSFactory.create(setting).getDataSource();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_623776786" CREATED="1754456952711" MODIFIED="1754464472691"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_623776786" CREATED="1754456952711" MODIFIED="1754464472691"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24437,7 +24437,7 @@ DataSource ds2 = DSFactory.get(&quot;group_db2&quot;);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_761569006" CREATED="1754454250844" MODIFIED="1754464472695" LINK="https://doc.hutool.cn/pages/db/setting/example/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_761569006" CREATED="1754454250844" MODIFIED="1754464472695" LINK="https://doc.hutool.cn/pages/db/setting/example/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24736,7 +24736,7 @@ testWhileIdle = false</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1868421057" CREATED="1754454250847" MODIFIED="1754464472701" LINK="https://doc.hutool.cn/pages/blob/example/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1868421057" CREATED="1754454250847" MODIFIED="1754464472701" LINK="https://doc.hutool.cn/pages/blob/example/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24793,7 +24793,7 @@ testWhileIdle = false</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1470348676" CREATED="1754456952743" MODIFIED="1754464472702"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1470348676" CREATED="1754456952743" MODIFIED="1754464472702"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24871,7 +24871,7 @@ pass = test</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1352836798" CREATED="1754454250849" MODIFIED="1754464472705" LINK="https://doc.hutool.cn/pages/db/faq/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1352836798" CREATED="1754454250849" MODIFIED="1754464472705" LINK="https://doc.hutool.cn/pages/db/faq/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24913,7 +24913,7 @@ pass = test</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1582090820" CREATED="1754454250851" MODIFIED="1754464472707"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1582090820" CREATED="1754454250851" MODIFIED="1754464472707"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24924,7 +24924,7 @@ pass = test</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_431150628" CREATED="1754454250853" MODIFIED="1754464472707" LINK="https://doc.hutool.cn/pages/RedisDS/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_431150628" CREATED="1754454250853" MODIFIED="1754464472707" LINK="https://doc.hutool.cn/pages/RedisDS/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24958,7 +24958,7 @@ pass = test</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1416416276" CREATED="1754456956764" MODIFIED="1754464472708"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1416416276" CREATED="1754456956764" MODIFIED="1754464472708"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25097,7 +25097,7 @@ timeBetweenEvictionRunsMillis = -1</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1230623164" CREATED="1754454250855" MODIFIED="1754464472711" LINK="https://doc.hutool.cn/pages/MongoDS/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1230623164" CREATED="1754454250855" MODIFIED="1754464472711" LINK="https://doc.hutool.cn/pages/MongoDS/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25131,7 +25131,7 @@ timeBetweenEvictionRunsMillis = -1</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_200106475" CREATED="1754456956777" MODIFIED="1754464472712"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_200106475" CREATED="1754456956777" MODIFIED="1754464472712"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25234,7 +25234,7 @@ MongoDatabase db = MongoFactory.getDS(&quot;master&quot;, &quot;slave&quot;).get
 </node>
 </node>
 </node>
-<node ID="ID_954650210" CREATED="1754454250857" MODIFIED="1754464472714"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_954650210" CREATED="1754454250857" MODIFIED="1754464472714"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25245,7 +25245,7 @@ MongoDatabase db = MongoFactory.getDS(&quot;master&quot;, &quot;slave&quot;).get
   </body>
 </html>
 </richcontent>
-<node ID="ID_1232787088" CREATED="1754454250859" MODIFIED="1754464472714" LINK="https://doc.hutool.cn/pages/http/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1232787088" CREATED="1754454250859" MODIFIED="1754464472714" LINK="https://doc.hutool.cn/pages/http/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25279,7 +25279,7 @@ MongoDatabase db = MongoFactory.getDS(&quot;master&quot;, &quot;slave&quot;).get
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_238310408" CREATED="1754456961600" MODIFIED="1754464472715"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_238310408" CREATED="1754456961600" MODIFIED="1754464472715"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25415,7 +25415,7 @@ String result1 = HttpUtil.post(url, paramMap);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_973190279" CREATED="1754454250863" MODIFIED="1754464472719" LINK="https://doc.hutool.cn/pages/HttpUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_973190279" CREATED="1754454250863" MODIFIED="1754464472719" LINK="https://doc.hutool.cn/pages/HttpUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25452,7 +25452,7 @@ String result1 = HttpUtil.post(url, paramMap);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1060884895" CREATED="1754456961612" MODIFIED="1754464472719"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1060884895" CREATED="1754456961612" MODIFIED="1754464472719"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25680,7 +25680,7 @@ private static int timeout = -1;</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_75645151" CREATED="1754454250865" MODIFIED="1754464472725" LINK="https://doc.hutool.cn/pages/HtmlUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_75645151" CREATED="1754454250865" MODIFIED="1754464472725" LINK="https://doc.hutool.cn/pages/HtmlUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25717,7 +25717,7 @@ private static int timeout = -1;</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1238814864" CREATED="1754456961637" MODIFIED="1754464472726"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1238814864" CREATED="1754456961637" MODIFIED="1754464472726"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25952,7 +25952,7 @@ String filter = HtmlUtil.filter(html);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_93330645" CREATED="1754454250867" MODIFIED="1754464472732" LINK="https://doc.hutool.cn/pages/HttpResponse/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_93330645" CREATED="1754454250867" MODIFIED="1754464472732" LINK="https://doc.hutool.cn/pages/HttpResponse/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26003,7 +26003,7 @@ String filter = HtmlUtil.filter(html);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_877491505" CREATED="1754456961662" MODIFIED="1754464472732"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_877491505" CREATED="1754456961662" MODIFIED="1754464472732"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26074,7 +26074,7 @@ Console.log(res.header(&quot;Content-Disposition&quot;));</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_472327242" CREATED="1754454250869" MODIFIED="1754464472734" LINK="https://doc.hutool.cn/pages/HttpRequest/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_472327242" CREATED="1754454250869" MODIFIED="1754464472734" LINK="https://doc.hutool.cn/pages/HttpRequest/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26108,7 +26108,7 @@ Console.log(res.header(&quot;Content-Disposition&quot;));</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1342678312" CREATED="1754456961671" MODIFIED="1754464472735"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1342678312" CREATED="1754456961671" MODIFIED="1754464472735"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26277,7 +26277,7 @@ Authenticator.setDefault(
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_127606080" CREATED="1754454250871" MODIFIED="1754464472738" LINK="https://doc.hutool.cn/pages/UserAgentUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_127606080" CREATED="1754454250871" MODIFIED="1754464472738" LINK="https://doc.hutool.cn/pages/UserAgentUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26314,7 +26314,7 @@ Authenticator.setDefault(
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1383381830" CREATED="1754456961685" MODIFIED="1754464472739"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1383381830" CREATED="1754456961685" MODIFIED="1754464472739"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26390,7 +26390,7 @@ ua.getPlatform().toString();//Windows</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1450334076" CREATED="1754454250873" MODIFIED="1754464472741" LINK="https://doc.hutool.cn/pages/HttpStatus/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1450334076" CREATED="1754454250873" MODIFIED="1754464472741" LINK="https://doc.hutool.cn/pages/HttpStatus/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26432,7 +26432,7 @@ public static final int HTTP_OK = 200;</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_907327232" CREATED="1754454250875" MODIFIED="1754464472743" LINK="https://doc.hutool.cn/pages/http/example/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_907327232" CREATED="1754454250875" MODIFIED="1754464472743" LINK="https://doc.hutool.cn/pages/http/example/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26466,7 +26466,7 @@ public static final int HTTP_OK = 200;</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1250057325" CREATED="1754456961696" MODIFIED="1754464472743"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1250057325" CREATED="1754456961696" MODIFIED="1754464472743"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26673,7 +26673,7 @@ for (String title : titles) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1119171324" CREATED="1754454250877" MODIFIED="1754464472746" LINK="https://doc.hutool.cn/pages/http/faq/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1119171324" CREATED="1754454250877" MODIFIED="1754464472746" LINK="https://doc.hutool.cn/pages/http/faq/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26725,7 +26725,7 @@ for (String title : titles) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_387236139" CREATED="1754454250879" MODIFIED="1754464472747"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_387236139" CREATED="1754454250879" MODIFIED="1754464472747"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26736,7 +26736,7 @@ for (String title : titles) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_309431128" CREATED="1754454250882" MODIFIED="1754464472748" LINK="https://doc.hutool.cn/pages/SimpleServer/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_309431128" CREATED="1754454250882" MODIFIED="1754464472748" LINK="https://doc.hutool.cn/pages/SimpleServer/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26775,7 +26775,7 @@ for (String title : titles) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_502718621" CREATED="1754456965406" MODIFIED="1754464472750"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_502718621" CREATED="1754456965406" MODIFIED="1754464472750"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26932,7 +26932,7 @@ for (String title : titles) {
 </node>
 </node>
 </node>
-<node ID="ID_1594893954" CREATED="1754454250884" MODIFIED="1754464472752"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1594893954" CREATED="1754454250884" MODIFIED="1754464472752"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26943,7 +26943,7 @@ for (String title : titles) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_738796785" CREATED="1754454250886" MODIFIED="1754464472754" LINK="https://doc.hutool.cn/pages/SoapClient/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_738796785" CREATED="1754454250886" MODIFIED="1754464472754" LINK="https://doc.hutool.cn/pages/SoapClient/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27048,7 +27048,7 @@ SoapClient client = SoapClient.create(&quot;http://www.webxml.com.cn/WebServices
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_698576835" CREATED="1754456965423" MODIFIED="1754464472756"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_698576835" CREATED="1754456965423" MODIFIED="1754464472756"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27130,7 +27130,7 @@ Console.log(client.getMsgStr(true));</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1412510313" CREATED="1754454250888" MODIFIED="1754464472758"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1412510313" CREATED="1754454250888" MODIFIED="1754464472758"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27141,7 +27141,7 @@ Console.log(client.getMsgStr(true));</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1057669274" CREATED="1754454250890" MODIFIED="1754464472759" LINK="https://doc.hutool.cn/pages/cron/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1057669274" CREATED="1754454250890" MODIFIED="1754464472759" LINK="https://doc.hutool.cn/pages/cron/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27205,7 +27205,7 @@ Console.log(client.getMsgStr(true));</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1331353864" CREATED="1754454250893" MODIFIED="1754464472761" LINK="https://doc.hutool.cn/pages/CronUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1331353864" CREATED="1754454250893" MODIFIED="1754464472761" LINK="https://doc.hutool.cn/pages/CronUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27239,7 +27239,7 @@ Console.log(client.getMsgStr(true));</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_170723139" CREATED="1754456969672" MODIFIED="1754464472762"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_170723139" CREATED="1754456969672" MODIFIED="1754464472762"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27338,7 +27338,7 @@ CronUtil.start(true);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_241874250" CREATED="1754456969686" MODIFIED="1754464472765"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_241874250" CREATED="1754456969686" MODIFIED="1754464472765"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27412,7 +27412,7 @@ CronUtil.start();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_148760676" CREATED="1754454250898" MODIFIED="1754464472766"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_148760676" CREATED="1754454250898" MODIFIED="1754464472766"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27487,7 +27487,7 @@ CronUtil.start();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_71823300" CREATED="1754454250903" MODIFIED="1754464472768" LINK="https://doc.hutool.cn/pages/ServletUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_71823300" CREATED="1754454250903" MODIFIED="1754464472768" LINK="https://doc.hutool.cn/pages/ServletUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27524,7 +27524,7 @@ CronUtil.start();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_734404645" CREATED="1754456974685" MODIFIED="1754464472770"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_734404645" CREATED="1754456974685" MODIFIED="1754464472770"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27619,7 +27619,7 @@ CronUtil.start();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_913415518" CREATED="1754454250905" MODIFIED="1754464472772" LINK="https://doc.hutool.cn/pages/QrCodeUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_913415518" CREATED="1754454250905" MODIFIED="1754464472772" LINK="https://doc.hutool.cn/pages/QrCodeUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27653,7 +27653,7 @@ CronUtil.start();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_301916179" CREATED="1754456974695" MODIFIED="1754464472773"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_301916179" CREATED="1754456974695" MODIFIED="1754464472773"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27728,7 +27728,7 @@ QrCodeUtil.generate(&quot;https://hutool.cn/&quot;, 300, 300, FileUtil.file(&quo
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1196221689" CREATED="1754456974700" MODIFIED="1754464472775"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1196221689" CREATED="1754456974700" MODIFIED="1754464472775"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27954,7 +27954,7 @@ String asciiArt = QrCodeUtil.generateAsAsciiArt(&quot;https://hutool.cn/&quot;,q
 </node>
 </node>
 </node>
-<node ID="ID_297291352" CREATED="1754454250907" MODIFIED="1754464472780" LINK="https://doc.hutool.cn/pages/MailUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_297291352" CREATED="1754454250907" MODIFIED="1754464472780" LINK="https://doc.hutool.cn/pages/MailUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27988,7 +27988,7 @@ String asciiArt = QrCodeUtil.generateAsAsciiArt(&quot;https://hutool.cn/&quot;,q
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_762068957" CREATED="1754456974712" MODIFIED="1754464472781"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_762068957" CREATED="1754456974712" MODIFIED="1754464472781"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28081,7 +28081,7 @@ pass = q1w2e3</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_833579640" CREATED="1754456974717" MODIFIED="1754464472783"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_833579640" CREATED="1754456974717" MODIFIED="1754464472783"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28280,7 +28280,7 @@ Mail mail = Mail.create(mailAccount)
 </node>
 </node>
 </node>
-<node ID="ID_1835772571" CREATED="1754454250909" MODIFIED="1754464472785"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1835772571" CREATED="1754454250909" MODIFIED="1754464472785"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28291,7 +28291,7 @@ Mail mail = Mail.create(mailAccount)
   </body>
 </html>
 </richcontent>
-<node ID="ID_1813233360" CREATED="1754454250912" MODIFIED="1754464472785" LINK="https://doc.hutool.cn/pages/CglibUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1813233360" CREATED="1754454250912" MODIFIED="1754464472785" LINK="https://doc.hutool.cn/pages/CglibUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28328,7 +28328,7 @@ Mail mail = Mail.create(mailAccount)
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_653128780" CREATED="1754456974725" MODIFIED="1754464472786"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_653128780" CREATED="1754456974725" MODIFIED="1754464472786"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28445,7 +28445,7 @@ otherBean.getValue();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1157152346" CREATED="1754454250914" MODIFIED="1754464472788"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1157152346" CREATED="1754454250914" MODIFIED="1754464472788"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28456,7 +28456,7 @@ otherBean.getValue();</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_97970821" CREATED="1754454250915" MODIFIED="1754470363121" LINK="https://doc.hutool.cn/pages/EmojiUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_97970821" CREATED="1754454250915" MODIFIED="1754470363121" LINK="https://doc.hutool.cn/pages/EmojiUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28495,7 +28495,7 @@ otherBean.getValue();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_828535911" CREATED="1754456978897" MODIFIED="1754470363143"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_828535911" CREATED="1754456978897" MODIFIED="1754470363143"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28578,7 +28578,7 @@ otherBean.getValue();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1498216346" CREATED="1754454250917" MODIFIED="1754464472792"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1498216346" CREATED="1754454250917" MODIFIED="1754464472792"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28589,7 +28589,7 @@ otherBean.getValue();</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_548943718" CREATED="1754454250919" MODIFIED="1754464472792" LINK="https://doc.hutool.cn/pages/Ftp/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_548943718" CREATED="1754454250919" MODIFIED="1754464472792" LINK="https://doc.hutool.cn/pages/Ftp/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28623,7 +28623,7 @@ otherBean.getValue();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_349085863" CREATED="1754456982559" MODIFIED="1754464472793"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_349085863" CREATED="1754456982559" MODIFIED="1754464472793"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28740,7 +28740,7 @@ ftp.setMode(FtpMode.Passive);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1383808661" CREATED="1754454250921" MODIFIED="1754464472795" LINK="https://doc.hutool.cn/pages/SimpleFtpServer/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1383808661" CREATED="1754454250921" MODIFIED="1754464472795" LINK="https://doc.hutool.cn/pages/SimpleFtpServer/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28774,7 +28774,7 @@ ftp.setMode(FtpMode.Passive);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1963881811" CREATED="1754456982571" MODIFIED="1754464472797"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1963881811" CREATED="1754456982571" MODIFIED="1754464472797"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28860,7 +28860,7 @@ SimpleFtpServer
 </node>
 </node>
 </node>
-<node ID="ID_1250335089" CREATED="1754454250923" MODIFIED="1754464472800"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1250335089" CREATED="1754454250923" MODIFIED="1754464472800"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28871,7 +28871,7 @@ SimpleFtpServer
   </body>
 </html>
 </richcontent>
-<node ID="ID_1026935822" CREATED="1754454250927" MODIFIED="1754464472801" LINK="https://doc.hutool.cn/pages/Sftp/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1026935822" CREATED="1754454250927" MODIFIED="1754464472801" LINK="https://doc.hutool.cn/pages/Sftp/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28911,7 +28911,7 @@ SimpleFtpServer
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1667620547" CREATED="1754457004158" MODIFIED="1754464472802"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1667620547" CREATED="1754457004158" MODIFIED="1754464472802"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28978,7 +28978,7 @@ sftp.close();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1081977201" CREATED="1754454250929" MODIFIED="1754464472804" LINK="https://doc.hutool.cn/pages/JschUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1081977201" CREATED="1754454250929" MODIFIED="1754464472804" LINK="https://doc.hutool.cn/pages/JschUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29012,7 +29012,7 @@ sftp.close();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1861847279" CREATED="1754457004168" MODIFIED="1754464472805"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1861847279" CREATED="1754457004168" MODIFIED="1754464472805"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29136,7 +29136,7 @@ JschUtil.bindPort(session, &quot;172.20.12.123&quot;, 8080, 8080);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_618208956" CREATED="1754454250931" MODIFIED="1754464472809"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_618208956" CREATED="1754454250931" MODIFIED="1754464472809"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29147,7 +29147,7 @@ JschUtil.bindPort(session, &quot;172.20.12.123&quot;, 8080, 8080);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_218466361" CREATED="1754454250933" MODIFIED="1754464472810" LINK="https://doc.hutool.cn/pages/SpringUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_218466361" CREATED="1754454250933" MODIFIED="1754464472810" LINK="https://doc.hutool.cn/pages/SpringUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29181,7 +29181,7 @@ JschUtil.bindPort(session, &quot;172.20.12.123&quot;, 8080, 8080);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1980330535" CREATED="1754457008038" MODIFIED="1754464472811"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1980330535" CREATED="1754457008038" MODIFIED="1754464472811"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29271,7 +29271,7 @@ public static class Demo2{
 </node>
 </node>
 </node>
-<node ID="ID_1334199479" CREATED="1754454250934" MODIFIED="1754464472812"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1334199479" CREATED="1754454250934" MODIFIED="1754464472812"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29282,7 +29282,7 @@ public static class Demo2{
   </body>
 </html>
 </richcontent>
-<node ID="ID_1094157154" CREATED="1754454250936" MODIFIED="1754464768965" LINK="https://doc.hutool.cn/pages/TokenizerUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1094157154" CREATED="1754454250936" MODIFIED="1754464768965" LINK="https://doc.hutool.cn/pages/TokenizerUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29397,7 +29397,7 @@ public static class Demo2{
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_428646303" CREATED="1754464768981" MODIFIED="1754464768981"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_428646303" CREATED="1754464768981" MODIFIED="1754464768981"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29479,7 +29479,7 @@ String resultStr = CollUtil.join((Iterator&lt;Word&gt;)result, &quot; &quot;);</
 </node>
 </node>
 </node>
-<node ID="ID_822803055" CREATED="1754454250939" MODIFIED="1754464472815"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_822803055" CREATED="1754454250939" MODIFIED="1754464472815"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29490,7 +29490,7 @@ String resultStr = CollUtil.join((Iterator&lt;Word&gt;)result, &quot; &quot;);</
   </body>
 </html>
 </richcontent>
-<node ID="ID_1938747961" CREATED="1754454250941" MODIFIED="1754464472815" LINK="https://doc.hutool.cn/pages/CompressUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1938747961" CREATED="1754454250941" MODIFIED="1754464472815" LINK="https://doc.hutool.cn/pages/CompressUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29593,7 +29593,7 @@ String resultStr = CollUtil.join((Iterator&lt;Word&gt;)result, &quot; &quot;);</
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_300909616" CREATED="1754457022366" MODIFIED="1754464472816"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_300909616" CREATED="1754457022366" MODIFIED="1754464472816"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29695,7 +29695,7 @@ extractor.extract(FileUtil.file(&quot;d:/test/compress/test2/&quot;));</code></p
 </node>
 </node>
 </node>
-<node ID="ID_1288723889" CREATED="1754454250944" MODIFIED="1754464472818"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1288723889" CREATED="1754454250944" MODIFIED="1754464472818"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29706,7 +29706,7 @@ extractor.extract(FileUtil.file(&quot;d:/test/compress/test2/&quot;));</code></p
   </body>
 </html>
 </richcontent>
-<node ID="ID_1184917054" CREATED="1754454250946" MODIFIED="1754464472819" LINK="https://doc.hutool.cn/pages/PinyinUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1184917054" CREATED="1754454250946" MODIFIED="1754464472819" LINK="https://doc.hutool.cn/pages/PinyinUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29757,7 +29757,7 @@ extractor.extract(FileUtil.file(&quot;d:/test/compress/test2/&quot;));</code></p
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1195744514" CREATED="1754457025738" MODIFIED="1754464472820"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1195744514" CREATED="1754457025738" MODIFIED="1754464472820"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29854,7 +29854,7 @@ String pinyin = engine.getPinyin(&quot;你好h&quot;, &quot; &quot;);</code></pr
 </node>
 </node>
 </node>
-<node ID="ID_1424419001" CREATED="1754454250949" MODIFIED="1754464472821"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1424419001" CREATED="1754454250949" MODIFIED="1754464472821"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29865,7 +29865,7 @@ String pinyin = engine.getPinyin(&quot;你好h&quot;, &quot; &quot;);</code></pr
   </body>
 </html>
 </richcontent>
-<node ID="ID_457370283" CREATED="1754454250951" MODIFIED="1754464472823" LINK="https://doc.hutool.cn/pages/ExpressionUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_457370283" CREATED="1754454250951" MODIFIED="1754464472823" LINK="https://doc.hutool.cn/pages/ExpressionUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29919,7 +29919,7 @@ String pinyin = engine.getPinyin(&quot;你好h&quot;, &quot; &quot;);</code></pr
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_333135594" CREATED="1754457029356" MODIFIED="1754464472824"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_333135594" CREATED="1754457029356" MODIFIED="1754464472824"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30035,7 +30035,7 @@ final Object eval = engine.eval(&quot;a-(b-c)&quot;, dict);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1452045090" CREATED="1754454321987" MODIFIED="1754464472827"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1452045090" CREATED="1754454321987" MODIFIED="1754464472827"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30046,7 +30046,7 @@ final Object eval = engine.eval(&quot;a-(b-c)&quot;, dict);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1316634668" CREATED="1754454321991" MODIFIED="1754464472828" LINK="https://doc.hutool.cn/pages/bloomFilter/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1316634668" CREATED="1754454321991" MODIFIED="1754464472828" LINK="https://doc.hutool.cn/pages/bloomFilter/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30115,7 +30115,7 @@ filter.contains(&quot;abc&quot;)</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1148182688" CREATED="1754454321994" MODIFIED="1754464472829"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1148182688" CREATED="1754454321994" MODIFIED="1754464472829"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30340,7 +30340,7 @@ Method [cn.hutool.aop.test.AopTest$Dog.eat] execute spend [13]ms</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1449770129" CREATED="1754454322003" MODIFIED="1754464472832"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1449770129" CREATED="1754454322003" MODIFIED="1754464472832"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30449,7 +30449,7 @@ try {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1291360765" CREATED="1754454322010" MODIFIED="1754464472834"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1291360765" CREATED="1754454322010" MODIFIED="1754464472834"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30665,7 +30665,7 @@ ExcelUtil.readBySax(&quot;aaa.xlsx&quot;, 0, createRowHandler());</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1618710119" CREATED="1754454322019" MODIFIED="1754470992721" LINK="https://doc.hutool.cn/pages/ExcelWriter/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1618710119" CREATED="1754454322019" MODIFIED="1754470992721" LINK="https://doc.hutool.cn/pages/ExcelWriter/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30729,7 +30729,7 @@ ExcelUtil.readBySax(&quot;aaa.xlsx&quot;, 0, createRowHandler());</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_749485902" CREATED="1754470992729" MODIFIED="1754470992729"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_749485902" CREATED="1754470992729" MODIFIED="1754470992729"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31140,7 +31140,7 @@ IoUtil.close(out);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_892630114" CREATED="1754470992752" MODIFIED="1754470992752"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_892630114" CREATED="1754470992752" MODIFIED="1754470992752"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31331,7 +31331,7 @@ writer.close();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_41013151" CREATED="1754454322022" MODIFIED="1754471316413" LINK="https://doc.hutool.cn/pages/BigExcelWriter/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_41013151" CREATED="1754454322022" MODIFIED="1754471316413" LINK="https://doc.hutool.cn/pages/BigExcelWriter/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31401,7 +31401,7 @@ writer.close();</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_872694995" CREATED="1754454322024" MODIFIED="1754471307264" LINK="https://doc.hutool.cn/pages/ExcelReader/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_872694995" CREATED="1754454322024" MODIFIED="1754471307264" LINK="https://doc.hutool.cn/pages/ExcelReader/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31481,7 +31481,7 @@ List&lt;Person&gt; all = reader.readAll(Person.class);</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1674469029" CREATED="1754454322026" MODIFIED="1754471007017" LINK="https://doc.hutool.cn/pages/Word07Writer/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1674469029" CREATED="1754454322026" MODIFIED="1754471007017" LINK="https://doc.hutool.cn/pages/Word07Writer/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31574,7 +31574,7 @@ writer.close();</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1532817124" CREATED="1754454322028" MODIFIED="1754471004509" LINK="https://doc.hutool.cn/pages/Excel03SaxReader/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1532817124" CREATED="1754454322028" MODIFIED="1754471004509" LINK="https://doc.hutool.cn/pages/Excel03SaxReader/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31613,7 +31613,7 @@ writer.close();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_182409165" CREATED="1754471004515" MODIFIED="1754471004515"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_182409165" CREATED="1754471004515" MODIFIED="1754471004515"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31711,7 +31711,7 @@ reader.read(&quot;aaa.xls&quot;, 0);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1878443485" CREATED="1754454322031" MODIFIED="1754471012149" LINK="https://doc.hutool.cn/pages/Excel07SaxReader/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1878443485" CREATED="1754454322031" MODIFIED="1754471012149" LINK="https://doc.hutool.cn/pages/Excel07SaxReader/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31750,7 +31750,7 @@ reader.read(&quot;aaa.xls&quot;, 0);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1455302156" CREATED="1754471012154" MODIFIED="1754471012154"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1455302156" CREATED="1754471012154" MODIFIED="1754471012154"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31849,7 +31849,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1980883767" CREATED="1754454322038" MODIFIED="1754464472846"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1980883767" CREATED="1754454322038" MODIFIED="1754464472846"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31860,7 +31860,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1052063624" CREATED="1754454322040" MODIFIED="1754464472846" LINK="https://doc.hutool.cn/pages/SystemUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1052063624" CREATED="1754454322040" MODIFIED="1754464472846" LINK="https://doc.hutool.cn/pages/SystemUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31871,7 +31871,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1074730253" CREATED="1754457050731" MODIFIED="1754464472847"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1074730253" CREATED="1754457050731" MODIFIED="1754464472847"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31893,7 +31893,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_372557380" CREATED="1754457050734" MODIFIED="1754471364265" STYLE="fork"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_372557380" CREATED="1754457050734" MODIFIED="1754471364265" STYLE="fork"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31921,7 +31921,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
 <font SIZE="10"/>
 </node>
 </node>
-<node ID="ID_1189283758" CREATED="1754457050736" MODIFIED="1754471364266" STYLE="fork"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1189283758" CREATED="1754457050736" MODIFIED="1754471364266" STYLE="fork"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31949,7 +31949,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
 <font SIZE="10"/>
 </node>
 </node>
-<node ID="ID_877596791" CREATED="1754457050739" MODIFIED="1754471364267" STYLE="fork"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_877596791" CREATED="1754457050739" MODIFIED="1754471364267" STYLE="fork"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31977,7 +31977,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
 <font SIZE="10"/>
 </node>
 </node>
-<node ID="ID_897684688" CREATED="1754457050740" MODIFIED="1754471364268" STYLE="fork"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_897684688" CREATED="1754457050740" MODIFIED="1754471364268" STYLE="fork"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32005,7 +32005,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
 <font SIZE="10"/>
 </node>
 </node>
-<node ID="ID_1453974202" CREATED="1754457050744" MODIFIED="1754471364269" STYLE="fork"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1453974202" CREATED="1754457050744" MODIFIED="1754471364269" STYLE="fork"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32033,7 +32033,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
 <font SIZE="10"/>
 </node>
 </node>
-<node ID="ID_866232451" CREATED="1754457050746" MODIFIED="1754471364269" STYLE="fork"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_866232451" CREATED="1754457050746" MODIFIED="1754471364269" STYLE="fork"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32061,7 +32061,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
 <font SIZE="10"/>
 </node>
 </node>
-<node ID="ID_1385012524" CREATED="1754457050748" MODIFIED="1754471364271" STYLE="fork"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1385012524" CREATED="1754457050748" MODIFIED="1754471364271" STYLE="fork"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32089,7 +32089,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
 <font SIZE="10"/>
 </node>
 </node>
-<node ID="ID_1714660965" CREATED="1754457050750" MODIFIED="1754471364273" STYLE="fork"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1714660965" CREATED="1754457050750" MODIFIED="1754471364273" STYLE="fork"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32117,7 +32117,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
 <font SIZE="10"/>
 </node>
 </node>
-<node ID="ID_1905555559" CREATED="1754457050752" MODIFIED="1754471364274" STYLE="fork"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1905555559" CREATED="1754457050752" MODIFIED="1754471364274" STYLE="fork"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32147,7 +32147,7 @@ reader.read(&quot;d:/text.xlsx&quot;, 0);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_39359978" CREATED="1754454322044" MODIFIED="1754464472853" LINK="https://doc.hutool.cn/pages/OshiUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_39359978" CREATED="1754454322044" MODIFIED="1754464472853" LINK="https://doc.hutool.cn/pages/OshiUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32283,7 +32283,7 @@ Microarchitecture: unknown'}</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1390523208" CREATED="1754454322047" MODIFIED="1754464472856"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1390523208" CREATED="1754454322047" MODIFIED="1754464472856"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32294,7 +32294,7 @@ Microarchitecture: unknown'}</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_308820527" CREATED="1754454322049" MODIFIED="1754464472856" LINK="https://doc.hutool.cn/pages/captcha/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_308820527" CREATED="1754454322049" MODIFIED="1754464472856" LINK="https://doc.hutool.cn/pages/captcha/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32371,7 +32371,7 @@ Microarchitecture: unknown'}</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1754185617" CREATED="1754457055990" MODIFIED="1754464472858"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1754185617" CREATED="1754457055990" MODIFIED="1754464472858"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32555,7 +32555,7 @@ captcha.createCode();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_673329542" CREATED="1754454322051" MODIFIED="1754464472864"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_673329542" CREATED="1754454322051" MODIFIED="1754464472864"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32566,7 +32566,7 @@ captcha.createCode();</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1464491838" CREATED="1754454322053" MODIFIED="1754464472864" LINK="https://doc.hutool.cn/pages/socket/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1464491838" CREATED="1754454322053" MODIFIED="1754464472864" LINK="https://doc.hutool.cn/pages/socket/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32577,7 +32577,7 @@ captcha.createCode();</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_434730482" CREATED="1754457058961" MODIFIED="1754464472865"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_434730482" CREATED="1754457058961" MODIFIED="1754464472865"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32678,7 +32678,7 @@ captcha.createCode();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1727842130" CREATED="1754454322055" MODIFIED="1754464472867" LINK="https://doc.hutool.cn/pages/AioServer/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1727842130" CREATED="1754454322055" MODIFIED="1754464472867" LINK="https://doc.hutool.cn/pages/AioServer/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32712,7 +32712,7 @@ captcha.createCode();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_541462100" CREATED="1754457058971" MODIFIED="1754464472868"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_541462100" CREATED="1754457058971" MODIFIED="1754464472868"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32824,7 +32824,7 @@ client.close();</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1241949173" CREATED="1754454322057" MODIFIED="1754464472871" LINK="https://doc.hutool.cn/pages/NioServer/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1241949173" CREATED="1754454322057" MODIFIED="1754464472871" LINK="https://doc.hutool.cn/pages/NioServer/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32858,7 +32858,7 @@ client.close();</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1193623346" CREATED="1754457058986" MODIFIED="1754464472872"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1193623346" CREATED="1754457058986" MODIFIED="1754464472872"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32975,7 +32975,7 @@ while (scanner.hasNextLine()) {
 </node>
 </node>
 </node>
-<node ID="ID_1677713923" CREATED="1754454322059" MODIFIED="1754464472874"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1677713923" CREATED="1754454322059" MODIFIED="1754464472874"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32986,7 +32986,7 @@ while (scanner.hasNextLine()) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1894329519" CREATED="1754454322065" MODIFIED="1754464472874" LINK="https://doc.hutool.cn/pages/jwt/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1894329519" CREATED="1754454322065" MODIFIED="1754464472874" LINK="https://doc.hutool.cn/pages/jwt/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33020,7 +33020,7 @@ while (scanner.hasNextLine()) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1360484162" CREATED="1754457062179" MODIFIED="1754464472876"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1360484162" CREATED="1754457062179" MODIFIED="1754464472876"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33078,7 +33078,7 @@ while (scanner.hasNextLine()) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1020295212" CREATED="1754457062182" MODIFIED="1754464472877"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1020295212" CREATED="1754457062182" MODIFIED="1754464472877"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33275,7 +33275,7 @@ boolean validate = JWT.of(token).setKey(key).validate(0);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_377138754" CREATED="1754454322068" MODIFIED="1754464472880" LINK="https://doc.hutool.cn/pages/JWTUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_377138754" CREATED="1754454322068" MODIFIED="1754464472880" LINK="https://doc.hutool.cn/pages/JWTUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33374,7 +33374,7 @@ JWTUtil.verify(token, &quot;123456&quot;.getBytes());</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_607068559" CREATED="1754454322069" MODIFIED="1754464472881" LINK="https://doc.hutool.cn/pages/JWTSignerUtil/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_607068559" CREATED="1754454322069" MODIFIED="1754464472881" LINK="https://doc.hutool.cn/pages/JWTSignerUtil/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33385,7 +33385,7 @@ JWTUtil.verify(token, &quot;123456&quot;.getBytes());</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1242973332" CREATED="1754457062201" MODIFIED="1754464472882"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1242973332" CREATED="1754457062201" MODIFIED="1754464472882"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33522,7 +33522,7 @@ JWTUtil.verify(token, &quot;123456&quot;.getBytes());</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_790279216" CREATED="1754457062210" MODIFIED="1754464472884"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_790279216" CREATED="1754457062210" MODIFIED="1754464472884"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33617,7 +33617,7 @@ JWT jwt = JWT.create().setSigner(signer);</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1679908116" CREATED="1754454322071" MODIFIED="1754464472886" LINK="https://doc.hutool.cn/pages/JWTValidator/"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1679908116" CREATED="1754454322071" MODIFIED="1754464472886" LINK="https://doc.hutool.cn/pages/JWTValidator/"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33651,7 +33651,7 @@ JWT jwt = JWT.create().setSigner(signer);</code></pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_407448066" CREATED="1754457062223" MODIFIED="1754464472887"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_407448066" CREATED="1754457062223" MODIFIED="1754464472887"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33757,7 +33757,7 @@ JWTValidator.of(token).validateDate(DateUtil.date());</code></pre>
 </node>
 </node>
 <node TEXT="api" POSITION="top_or_left" ID="ID_1514325373" CREATED="1754462270716" MODIFIED="1754464676338">
-<node ID="ID_460520456" CREATED="1754279124408" MODIFIED="1754464472890"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_460520456" CREATED="1754279124408" MODIFIED="1754464472890"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33768,7 +33768,7 @@ JWTValidator.of(token).validateDate(DateUtil.date());</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_391550779" CREATED="1754279124571" MODIFIED="1754464472890"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_391550779" CREATED="1754279124571" MODIFIED="1754464472890"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33779,7 +33779,7 @@ JWTValidator.of(token).validateDate(DateUtil.date());</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1010130173" CREATED="1754273811337" MODIFIED="1754464472890" LINK="https://plus.hutool.cn/apidocs/cn/hutool/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1010130173" CREATED="1754273811337" MODIFIED="1754464472890" LINK="https://plus.hutool.cn/apidocs/cn/hutool/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33790,7 +33790,7 @@ JWTValidator.of(token).validateDate(DateUtil.date());</code></pre>
   </body>
 </html>
 </richcontent>
-<node POSITION="bottom_or_right" ID="ID_1431145293" CREATED="1754279153991" MODIFIED="1754464472891" LINK="https://plus.hutool.cn/apidocs/cn/hutool/Hutool.html"><richcontent TYPE="NODE">
+<node FOLDED="true" POSITION="bottom_or_right" ID="ID_1431145293" CREATED="1754279153991" MODIFIED="1754464472891" LINK="https://plus.hutool.cn/apidocs/cn/hutool/Hutool.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33840,7 +33840,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_698189041" CREATED="1754458647795" MODIFIED="1754464472892"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_698189041" CREATED="1754458647795" MODIFIED="1754464472892"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33910,7 +33910,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1958845555" CREATED="1754458647798" MODIFIED="1754464472894"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1958845555" CREATED="1754458647798" MODIFIED="1754464472894"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34071,7 +34071,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_842347439" CREATED="1754279124716" MODIFIED="1754464472898"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_842347439" CREATED="1754279124716" MODIFIED="1754464472898"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34082,7 +34082,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1856587776" CREATED="1754273811342" MODIFIED="1754464472898" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1856587776" CREATED="1754273811342" MODIFIED="1754464472898" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34093,7 +34093,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1759427673" CREATED="1754273826139" MODIFIED="1754464472899" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1759427673" CREATED="1754273826139" MODIFIED="1754464472899" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34106,7 +34106,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1943488398" CREATED="1754273830503" MODIFIED="1754464472899" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/AIServiceFactory.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1943488398" CREATED="1754273830503" MODIFIED="1754464472899" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/AIServiceFactory.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34168,7 +34168,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1061708873" CREATED="1754458624978" MODIFIED="1754464472900"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1061708873" CREATED="1754458624978" MODIFIED="1754464472900"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34212,7 +34212,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_191001230" CREATED="1754458624981" MODIFIED="1754464472902"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_191001230" CREATED="1754458624981" MODIFIED="1754464472902"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34427,7 +34427,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_1325191039" CREATED="1754273830507" MODIFIED="1754464472908" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/AIUtil.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1325191039" CREATED="1754273830507" MODIFIED="1754464472908" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/AIUtil.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34489,7 +34489,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_794474019" CREATED="1754458625162" MODIFIED="1754464472909"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_794474019" CREATED="1754458625162" MODIFIED="1754464472909"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34533,7 +34533,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_145503084" CREATED="1754458625164" MODIFIED="1754464472911"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_145503084" CREATED="1754458625164" MODIFIED="1754464472911"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35272,7 +35272,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_202806226" CREATED="1754273830511" MODIFIED="1754464472927" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_202806226" CREATED="1754273830511" MODIFIED="1754464472927" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35404,7 +35404,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html></richcontent>
 </node>
-<node STYLE_REF="code" ID="ID_488162406" CREATED="1754458625414" MODIFIED="1754464472929"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_488162406" CREATED="1754458625414" MODIFIED="1754464472929"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35448,7 +35448,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1580406680" CREATED="1754458625416" MODIFIED="1754464472930"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1580406680" CREATED="1754458625416" MODIFIED="1754464472930"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35485,7 +35485,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_262186460" CREATED="1754273826142" MODIFIED="1754464472931"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_262186460" CREATED="1754273826142" MODIFIED="1754464472931"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35498,7 +35498,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_576858456" CREATED="1754278737354" MODIFIED="1754464472932" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/ModelName.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_576858456" CREATED="1754278737354" MODIFIED="1754464472932" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/ModelName.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35570,7 +35570,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_586241708" CREATED="1754458664017" MODIFIED="1754464472933"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_586241708" CREATED="1754458664017" MODIFIED="1754464472933"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35792,7 +35792,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1072028546" CREATED="1754458664020" MODIFIED="1754464472940"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1072028546" CREATED="1754458664020" MODIFIED="1754464472940"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36035,7 +36035,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_1415156970" CREATED="1754278737357" MODIFIED="1754464472947" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.DeepSeek.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1415156970" CREATED="1754278737357" MODIFIED="1754464472947" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.DeepSeek.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36079,7 +36079,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1928193490" CREATED="1754458664260" MODIFIED="1754464472948"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1928193490" CREATED="1754458664260" MODIFIED="1754464472948"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36140,7 +36140,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_719180013" CREATED="1754458664263" MODIFIED="1754464472949"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_719180013" CREATED="1754458664263" MODIFIED="1754464472949"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36349,7 +36349,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_837923766" CREATED="1754278737360" MODIFIED="1754464472955" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.Doubao.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_837923766" CREATED="1754278737360" MODIFIED="1754464472955" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.Doubao.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36393,7 +36393,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_707188609" CREATED="1754458664445" MODIFIED="1754464472956"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_707188609" CREATED="1754458664445" MODIFIED="1754464472956"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -37083,7 +37083,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1907005643" CREATED="1754458664449" MODIFIED="1754464472974"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1907005643" CREATED="1754458664449" MODIFIED="1754464472974"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -37292,7 +37292,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_3936534" CREATED="1754278737364" MODIFIED="1754464472979" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.Grok.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_3936534" CREATED="1754278737364" MODIFIED="1754464472979" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.Grok.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -37336,7 +37336,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_599315220" CREATED="1754458665081" MODIFIED="1754464472979"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_599315220" CREATED="1754458665081" MODIFIED="1754464472979"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -37720,7 +37720,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1703898842" CREATED="1754458665084" MODIFIED="1754464472989"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1703898842" CREATED="1754458665084" MODIFIED="1754464472989"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -37929,7 +37929,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_1627304496" CREATED="1754278737366" MODIFIED="1754464472994" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.Hutool.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1627304496" CREATED="1754278737366" MODIFIED="1754464472994" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.Hutool.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -37973,7 +37973,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1921736222" CREATED="1754458665778" MODIFIED="1754464472994"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1921736222" CREATED="1754458665778" MODIFIED="1754464472994"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -38017,7 +38017,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1792048448" CREATED="1754458665780" MODIFIED="1754464472996"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1792048448" CREATED="1754458665780" MODIFIED="1754464472996"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -38226,7 +38226,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_1101981904" CREATED="1754278737369" MODIFIED="1754470922187" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.Openai.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1101981904" CREATED="1754278737369" MODIFIED="1754470922187" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/Models.Openai.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -38270,7 +38270,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node TEXT="Enum Constant" STYLE_REF="code" ID="ID_840677831" CREATED="1754470922189" MODIFIED="1754470922477"><richcontent TYPE="NOTE">
+<node TEXT="Enum Constant" STYLE_REF="code" FOLDED="true" ID="ID_840677831" CREATED="1754470922189" MODIFIED="1754470922477"><richcontent TYPE="NOTE">
 <html>
   <head>
     
@@ -38864,7 +38864,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node TEXT="Method" STYLE_REF="code" ID="ID_1731654313" CREATED="1754470922196" MODIFIED="1754470922477"><richcontent TYPE="NOTE">
+<node TEXT="Method" STYLE_REF="code" FOLDED="true" ID="ID_1731654313" CREATED="1754470922196" MODIFIED="1754470922477"><richcontent TYPE="NOTE">
 <html>
   <head>
     
@@ -39063,7 +39063,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_1134143265" CREATED="1754273826145" MODIFIED="1754464473022" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1134143265" CREATED="1754273826145" MODIFIED="1754464473022" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39076,7 +39076,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_107791823" CREATED="1754278767948" MODIFIED="1754464473023" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/AIException.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_107791823" CREATED="1754278767948" MODIFIED="1754464473023" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/AIException.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39140,7 +39140,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1775532791" CREATED="1754458765676" MODIFIED="1754464473024"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1775532791" CREATED="1754458765676" MODIFIED="1754464473024"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39428,7 +39428,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1443939257" CREATED="1754458765681" MODIFIED="1754464473030"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1443939257" CREATED="1754458765681" MODIFIED="1754464473030"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39489,7 +39489,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
 </node>
 </node>
 </node>
-<node ID="ID_1294633781" CREATED="1754273811346" MODIFIED="1754464473032" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1294633781" CREATED="1754273811346" MODIFIED="1754464473032" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39500,7 +39500,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
   </body>
 </html>
 </richcontent>
-<node ID="ID_316950245" CREATED="1754279264831" MODIFIED="1754464473032" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_316950245" CREATED="1754279264831" MODIFIED="1754464473032" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39653,7 +39653,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_685592125" CREATED="1754279264833" MODIFIED="1754464473034" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_685592125" CREATED="1754279264833" MODIFIED="1754464473034" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39666,7 +39666,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
   </body>
 </html>
 </richcontent>
-<node ID="ID_1693339357" CREATED="1754279281076" MODIFIED="1754464473034" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIConfig.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1693339357" CREATED="1754279281076" MODIFIED="1754464473034" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIConfig.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39735,7 +39735,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_479428478" CREATED="1754458841707" MODIFIED="1754464473035"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_479428478" CREATED="1754458841707" MODIFIED="1754464473035"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -40675,7 +40675,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
 </node>
 </node>
 </node>
-<node ID="ID_1754449681" CREATED="1754279281079" MODIFIED="1754464473054" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1754449681" CREATED="1754279281079" MODIFIED="1754464473054" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -40752,7 +40752,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1344433478" CREATED="1754458842088" MODIFIED="1754464473055"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1344433478" CREATED="1754458842088" MODIFIED="1754464473055"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41065,7 +41065,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
 </node>
 </node>
 </node>
-<node ID="ID_1130641144" CREATED="1754279281081" MODIFIED="1754464473061" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServiceProvider.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1130641144" CREATED="1754279281081" MODIFIED="1754464473061" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServiceProvider.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41134,7 +41134,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1870487497" CREATED="1754458842261" MODIFIED="1754464473062"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1870487497" CREATED="1754458842261" MODIFIED="1754464473062"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41314,7 +41314,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
 </node>
 </node>
 </node>
-<node ID="ID_77170931" CREATED="1754279264836" MODIFIED="1754464473065" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_77170931" CREATED="1754279264836" MODIFIED="1754464473065" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41327,7 +41327,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/RuntimeExce
   </body>
 </html>
 </richcontent>
-<node ID="ID_1517343480" CREATED="1754279282251" MODIFIED="1754464473065" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIConfigBuilder.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1517343480" CREATED="1754279282251" MODIFIED="1754464473065" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIConfigBuilder.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41387,7 +41387,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1611309356" CREATED="1754458850448" MODIFIED="1754464473066"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1611309356" CREATED="1754458850448" MODIFIED="1754464473066"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41454,7 +41454,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_607094032" CREATED="1754458850451" MODIFIED="1754464473067"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_607094032" CREATED="1754458850451" MODIFIED="1754464473067"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42019,7 +42019,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_1236911446" CREATED="1754279282255" MODIFIED="1754464473079" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIConfigRegistry.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1236911446" CREATED="1754279282255" MODIFIED="1754464473079" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIConfigRegistry.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42079,7 +42079,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1375721369" CREATED="1754458850970" MODIFIED="1754464473080"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1375721369" CREATED="1754458850970" MODIFIED="1754464473080"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42123,7 +42123,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1554391465" CREATED="1754458850972" MODIFIED="1754464473081"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1554391465" CREATED="1754458850972" MODIFIED="1754464473081"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42241,7 +42241,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_1620956084" CREATED="1754279282259" MODIFIED="1754719844397" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseAIService.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1620956084" CREATED="1754279282259" MODIFIED="1754719844397" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseAIService.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42313,7 +42313,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1201617716" CREATED="1754458851198" MODIFIED="1754464473085"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1201617716" CREATED="1754458851198" MODIFIED="1754464473085"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42363,7 +42363,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1733400653" CREATED="1754458851200" MODIFIED="1754464473086"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1733400653" CREATED="1754458851200" MODIFIED="1754464473086"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42441,7 +42441,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1264693962" CREATED="1754458851202" MODIFIED="1754464473089"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1264693962" CREATED="1754458851202" MODIFIED="1754464473089"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42796,7 +42796,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_1197643016" CREATED="1754279282261" MODIFIED="1754464473097" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1197643016" CREATED="1754279282261" MODIFIED="1754464473097" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42877,7 +42877,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIConfig.ht
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1272924812" CREATED="1754458851370" MODIFIED="1754464473098"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1272924812" CREATED="1754458851370" MODIFIED="1754464473098"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -43027,7 +43027,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIConfig.ht
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1734681138" CREATED="1754458851373" MODIFIED="1754464473101"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1734681138" CREATED="1754458851373" MODIFIED="1754464473101"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -43071,7 +43071,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIConfig.ht
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1068540103" CREATED="1754458851374" MODIFIED="1754464473102"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1068540103" CREATED="1754458851374" MODIFIED="1754464473102"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44058,7 +44058,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIConfig.ht
 </node>
 </node>
 </node>
-<node ID="ID_602450220" CREATED="1754279282263" MODIFIED="1754464473124" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/Message.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_602450220" CREATED="1754279282263" MODIFIED="1754464473124" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/Message.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44118,7 +44118,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_491864564" CREATED="1754458851554" MODIFIED="1754464473125"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_491864564" CREATED="1754458851554" MODIFIED="1754464473125"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44188,7 +44188,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1335311345" CREATED="1754458851556" MODIFIED="1754464473126"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1335311345" CREATED="1754458851556" MODIFIED="1754464473126"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44353,7 +44353,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_1710230558" CREATED="1754279124841" MODIFIED="1754464473130"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1710230558" CREATED="1754279124841" MODIFIED="1754464473130"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44364,7 +44364,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_28952227" CREATED="1754273811350" MODIFIED="1754464473131" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_28952227" CREATED="1754273811350" MODIFIED="1754464473131" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44424,7 +44424,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1072246259" CREATED="1754273811356" MODIFIED="1754464473132" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1072246259" CREATED="1754273811356" MODIFIED="1754464473132" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44435,7 +44435,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_486782613" CREATED="1754279333982" MODIFIED="1754464473132" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_486782613" CREATED="1754279333982" MODIFIED="1754464473132" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44558,7 +44558,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_1896187589" CREATED="1754279333983" MODIFIED="1754464473134" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1896187589" CREATED="1754279333983" MODIFIED="1754464473134" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44571,7 +44571,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1962013677" CREATED="1754279355766" MODIFIED="1754464473134" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/DeepSeekService.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1962013677" CREATED="1754279355766" MODIFIED="1754464473134" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/DeepSeekService.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44649,7 +44649,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_263787881" CREATED="1754458871783" MODIFIED="1754464473136"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_263787881" CREATED="1754458871783" MODIFIED="1754464473136"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44973,7 +44973,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
 </node>
 </node>
 </node>
-<node ID="ID_1899803162" CREATED="1754279333986" MODIFIED="1754464473143" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1899803162" CREATED="1754279333986" MODIFIED="1754464473143" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44986,7 +44986,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1447691043" CREATED="1754279355770" MODIFIED="1754464473144" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/DeepSeekCommon.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1447691043" CREATED="1754279355770" MODIFIED="1754464473144" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/DeepSeekCommon.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45046,7 +45046,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_862561462" CREATED="1754458871909" MODIFIED="1754464473145"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_862561462" CREATED="1754458871909" MODIFIED="1754464473145"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45090,7 +45090,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_175312619" CREATED="1754458871911" MODIFIED="1754464473146"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_175312619" CREATED="1754458871911" MODIFIED="1754464473146"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45126,7 +45126,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_862111043" CREATED="1754279355773" MODIFIED="1754464473147" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/DeepSeekConfig.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_862111043" CREATED="1754279355773" MODIFIED="1754464473147" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/DeepSeekConfig.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45198,7 +45198,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_459549295" CREATED="1754458872024" MODIFIED="1754464473148"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_459549295" CREATED="1754458872024" MODIFIED="1754464473148"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45233,7 +45233,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_65382911" CREATED="1754458872027" MODIFIED="1754464473149"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_65382911" CREATED="1754458872027" MODIFIED="1754464473149"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45294,7 +45294,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_19309910" CREATED="1754458872030" MODIFIED="1754464473151"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_19309910" CREATED="1754458872030" MODIFIED="1754464473151"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45430,7 +45430,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </node>
 </node>
 </node>
-<node ID="ID_1636689937" CREATED="1754279355775" MODIFIED="1754464473154" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/DeepSeekProvider.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1636689937" CREATED="1754279355775" MODIFIED="1754464473154" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/DeepSeekProvider.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45503,7 +45503,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1468081811" CREATED="1754458872140" MODIFIED="1754464473155"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1468081811" CREATED="1754458872140" MODIFIED="1754464473155"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45547,7 +45547,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_135539754" CREATED="1754458872142" MODIFIED="1754464473156"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_135539754" CREATED="1754458872142" MODIFIED="1754464473156"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45749,7 +45749,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
 </node>
 </node>
 </node>
-<node ID="ID_1706034739" CREATED="1754279355783" MODIFIED="1754464473161" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/DeepSeekServiceImpl.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1706034739" CREATED="1754279355783" MODIFIED="1754464473161" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/DeepSeekServiceImpl.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45822,7 +45822,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/D
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_325827646" CREATED="1754458872275" MODIFIED="1754464473162"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_325827646" CREATED="1754458872275" MODIFIED="1754464473162"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45857,7 +45857,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/D
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1271617615" CREATED="1754458872279" MODIFIED="1754464473163"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1271617615" CREATED="1754458872279" MODIFIED="1754464473163"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45935,7 +45935,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/D
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1537548280" CREATED="1754458872281" MODIFIED="1754464473164"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1537548280" CREATED="1754458872281" MODIFIED="1754464473164"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46478,7 +46478,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/D
 </node>
 </node>
 </node>
-<node ID="ID_1764351597" CREATED="1754273811360" MODIFIED="1754464473175" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1764351597" CREATED="1754273811360" MODIFIED="1754464473175" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46489,7 +46489,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/D
   </body>
 </html>
 </richcontent>
-<node ID="ID_774733831" CREATED="1754279376579" MODIFIED="1754464473175" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_774733831" CREATED="1754279376579" MODIFIED="1754464473175" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46648,7 +46648,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/D
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_15001763" CREATED="1754279376581" MODIFIED="1754464473177" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_15001763" CREATED="1754279376581" MODIFIED="1754464473177" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46661,7 +46661,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/deepseek/D
   </body>
 </html>
 </richcontent>
-<node ID="ID_90918648" CREATED="1754279387714" MODIFIED="1754471468943" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoService.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_90918648" CREATED="1754279387714" MODIFIED="1754471468943" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoService.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46739,7 +46739,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1619441202" CREATED="1754458872478" MODIFIED="1754464473178"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1619441202" CREATED="1754458872478" MODIFIED="1754464473178"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48364,7 +48364,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
 </node>
 </node>
 </node>
-<node ID="ID_1799726343" CREATED="1754279376583" MODIFIED="1754464473230" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1799726343" CREATED="1754279376583" MODIFIED="1754464473230" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48377,7 +48377,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_230233742" CREATED="1754279387718" MODIFIED="1754464473230" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoCommon.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_230233742" CREATED="1754279387718" MODIFIED="1754464473230" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoCommon.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48491,7 +48491,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html></richcontent>
 </node>
-<node STYLE_REF="code" ID="ID_750634158" CREATED="1754458873028" MODIFIED="1754464473233"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_750634158" CREATED="1754458873028" MODIFIED="1754464473233"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48535,7 +48535,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_734160596" CREATED="1754458873030" MODIFIED="1754464473234"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_734160596" CREATED="1754458873030" MODIFIED="1754464473234"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48571,7 +48571,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_189744737" CREATED="1754279387721" MODIFIED="1754464473237" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoConfig.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_189744737" CREATED="1754279387721" MODIFIED="1754464473237" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoConfig.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48643,7 +48643,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_464724038" CREATED="1754458874624" MODIFIED="1754464473238"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_464724038" CREATED="1754458874624" MODIFIED="1754464473238"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48678,7 +48678,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1751294913" CREATED="1754458874628" MODIFIED="1754464473240"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1751294913" CREATED="1754458874628" MODIFIED="1754464473240"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48739,7 +48739,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1911410602" CREATED="1754458874630" MODIFIED="1754464473242"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1911410602" CREATED="1754458874630" MODIFIED="1754464473242"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48875,7 +48875,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </node>
 </node>
 </node>
-<node ID="ID_1668727119" CREATED="1754279387723" MODIFIED="1754464473250" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoProvider.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1668727119" CREATED="1754279387723" MODIFIED="1754464473250" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoProvider.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48948,7 +48948,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_469591084" CREATED="1754458874931" MODIFIED="1754464473252"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_469591084" CREATED="1754458874931" MODIFIED="1754464473252"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -48992,7 +48992,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_59461697" CREATED="1754458874934" MODIFIED="1754464473253"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_59461697" CREATED="1754458874934" MODIFIED="1754464473253"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -49194,7 +49194,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
 </node>
 </node>
 </node>
-<node ID="ID_1467146015" CREATED="1754279387725" MODIFIED="1754464473259" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoServiceImpl.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1467146015" CREATED="1754279387725" MODIFIED="1754464473259" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoServiceImpl.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -49267,7 +49267,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/Dou
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1067957776" CREATED="1754458875227" MODIFIED="1754464473260"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1067957776" CREATED="1754458875227" MODIFIED="1754464473260"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -49302,7 +49302,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/Dou
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_477103720" CREATED="1754458875233" MODIFIED="1754464473261"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_477103720" CREATED="1754458875233" MODIFIED="1754464473261"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -49346,7 +49346,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/Dou
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1313377841" CREATED="1754458875235" MODIFIED="1754464473262"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1313377841" CREATED="1754458875235" MODIFIED="1754464473262"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -50739,7 +50739,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/Dou
 </node>
 </node>
 </node>
-<node ID="ID_279059745" CREATED="1754279376586" MODIFIED="1754464473300" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_279059745" CREATED="1754279376586" MODIFIED="1754464473300" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -50752,7 +50752,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/Dou
   </body>
 </html>
 </richcontent>
-<node ID="ID_1174999275" CREATED="1754279387730" MODIFIED="1754464473300" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoCommon.DoubaoContext.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1174999275" CREATED="1754279387730" MODIFIED="1754464473300" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoCommon.DoubaoContext.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -50796,7 +50796,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_483750219" CREATED="1754458875528" MODIFIED="1754464473302"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_483750219" CREATED="1754458875528" MODIFIED="1754464473302"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -50857,7 +50857,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_149291663" CREATED="1754458875530" MODIFIED="1754464473305"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_149291663" CREATED="1754458875530" MODIFIED="1754464473305"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51066,7 +51066,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_195755769" CREATED="1754279387732" MODIFIED="1754464473310" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoCommon.DoubaoVideo.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_195755769" CREATED="1754279387732" MODIFIED="1754464473310" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoCommon.DoubaoVideo.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51108,7 +51108,7 @@ extends Enum&lt;DoubaoCommon.DoubaoVideo&gt;</code></pre>
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1212085529" CREATED="1754458875744" MODIFIED="1754464473311"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1212085529" CREATED="1754458875744" MODIFIED="1754464473311"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51339,7 +51339,7 @@ extends Enum&lt;DoubaoCommon.DoubaoVideo&gt;</code></pre>
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_238781815" CREATED="1754458875746" MODIFIED="1754464473317"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_238781815" CREATED="1754458875746" MODIFIED="1754464473317"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51568,7 +51568,7 @@ extends Enum&lt;DoubaoCommon.DoubaoVideo&gt;</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_920218007" CREATED="1754279387734" MODIFIED="1754464473322" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoCommon.DoubaoVision.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_920218007" CREATED="1754279387734" MODIFIED="1754464473322" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/doubao/DoubaoCommon.DoubaoVision.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51612,7 +51612,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_423399166" CREATED="1754458876656" MODIFIED="1754464473323"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_423399166" CREATED="1754458876656" MODIFIED="1754464473323"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51690,7 +51690,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_992753459" CREATED="1754458876658" MODIFIED="1754464473325"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_992753459" CREATED="1754458876658" MODIFIED="1754464473325"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51902,7 +51902,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_220369039" CREATED="1754273811363" MODIFIED="1754464473331" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_220369039" CREATED="1754273811363" MODIFIED="1754464473331" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51913,7 +51913,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_965061224" CREATED="1754279376589" MODIFIED="1754464473331" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_965061224" CREATED="1754279376589" MODIFIED="1754464473331" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -52056,7 +52056,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_1729339693" CREATED="1754279376591" MODIFIED="1754464473332" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1729339693" CREATED="1754279376591" MODIFIED="1754464473332" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -52069,7 +52069,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_62885612" CREATED="1754279387736" MODIFIED="1754464473333" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokService.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_62885612" CREATED="1754279387736" MODIFIED="1754464473333" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokService.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -52147,7 +52147,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_130892968" CREATED="1754458950582" MODIFIED="1754464473334"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_130892968" CREATED="1754458950582" MODIFIED="1754464473334"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53294,7 +53294,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
 </node>
 </node>
 </node>
-<node ID="ID_1850330904" CREATED="1754279376594" MODIFIED="1754464473362" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1850330904" CREATED="1754279376594" MODIFIED="1754464473362" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53307,7 +53307,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1644005646" CREATED="1754279387739" MODIFIED="1754464473363" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokCommon.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1644005646" CREATED="1754279387739" MODIFIED="1754464473363" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokCommon.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53405,7 +53405,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html></richcontent>
 </node>
-<node STYLE_REF="code" ID="ID_1447731844" CREATED="1754458950998" MODIFIED="1754464473366"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1447731844" CREATED="1754458950998" MODIFIED="1754464473366"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53449,7 +53449,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1094773482" CREATED="1754458951002" MODIFIED="1754464473368"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1094773482" CREATED="1754458951002" MODIFIED="1754464473368"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53485,7 +53485,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_1654044161" CREATED="1754279387741" MODIFIED="1754464473370" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokConfig.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1654044161" CREATED="1754279387741" MODIFIED="1754464473370" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokConfig.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53557,7 +53557,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1295029170" CREATED="1754458953512" MODIFIED="1754464473371"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1295029170" CREATED="1754458953512" MODIFIED="1754464473371"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53592,7 +53592,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1074647106" CREATED="1754458953516" MODIFIED="1754464473372"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1074647106" CREATED="1754458953516" MODIFIED="1754464473372"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53653,7 +53653,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1301069150" CREATED="1754458953519" MODIFIED="1754464473374"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1301069150" CREATED="1754458953519" MODIFIED="1754464473374"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53789,7 +53789,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </node>
 </node>
 </node>
-<node ID="ID_1394131480" CREATED="1754279387743" MODIFIED="1754464473379" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokProvider.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1394131480" CREATED="1754279387743" MODIFIED="1754464473379" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokProvider.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53862,7 +53862,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1516484459" CREATED="1754458954452" MODIFIED="1754464473380"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1516484459" CREATED="1754458954452" MODIFIED="1754464473380"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53906,7 +53906,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_876509022" CREATED="1754458954455" MODIFIED="1754464473381"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_876509022" CREATED="1754458954455" MODIFIED="1754464473381"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54108,7 +54108,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
 </node>
 </node>
 </node>
-<node ID="ID_1985838340" CREATED="1754279387744" MODIFIED="1754464473386" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokServiceImpl.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1985838340" CREATED="1754279387744" MODIFIED="1754464473386" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokServiceImpl.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54181,7 +54181,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokS
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1286175004" CREATED="1754458954660" MODIFIED="1754464473387"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1286175004" CREATED="1754458954660" MODIFIED="1754464473387"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54216,7 +54216,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokS
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1752760410" CREATED="1754458954665" MODIFIED="1754464473388"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1752760410" CREATED="1754458954665" MODIFIED="1754464473388"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54260,7 +54260,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokS
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1539219250" CREATED="1754458954668" MODIFIED="1754464473389"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1539219250" CREATED="1754458954668" MODIFIED="1754464473389"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55388,7 +55388,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokS
 </node>
 </node>
 </node>
-<node ID="ID_461280543" CREATED="1754279376596" MODIFIED="1754464473414" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_461280543" CREATED="1754279376596" MODIFIED="1754464473414" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55401,7 +55401,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokS
   </body>
 </html>
 </richcontent>
-<node ID="ID_1210324347" CREATED="1754279387747" MODIFIED="1754464473414" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokCommon.GrokVision.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1210324347" CREATED="1754279387747" MODIFIED="1754464473414" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/grok/GrokCommon.GrokVision.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55445,7 +55445,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_826122140" CREATED="1754458955238" MODIFIED="1754464473415"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_826122140" CREATED="1754458955238" MODIFIED="1754464473415"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55523,7 +55523,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_523369442" CREATED="1754458955240" MODIFIED="1754464473416"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_523369442" CREATED="1754458955240" MODIFIED="1754464473416"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55735,7 +55735,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_1222586896" CREATED="1754273811369" MODIFIED="1754464473420" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1222586896" CREATED="1754273811369" MODIFIED="1754464473420" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55746,7 +55746,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_348651179" CREATED="1754279376600" MODIFIED="1754464473420" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_348651179" CREATED="1754279376600" MODIFIED="1754464473420" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55905,7 +55905,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_1468964299" CREATED="1754279376602" MODIFIED="1754464473422" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1468964299" CREATED="1754279376602" MODIFIED="1754464473422" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55918,7 +55918,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_1523364329" CREATED="1754279387749" MODIFIED="1754464473422" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolService.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1523364329" CREATED="1754279387749" MODIFIED="1754464473422" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolService.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55996,7 +55996,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1648020158" CREATED="1754458955636" MODIFIED="1754464473423"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1648020158" CREATED="1754458955636" MODIFIED="1754464473423"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57032,7 +57032,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
 </node>
 </node>
 </node>
-<node ID="ID_588526206" CREATED="1754279376606" MODIFIED="1754464473444" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_588526206" CREATED="1754279376606" MODIFIED="1754464473444" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57045,7 +57045,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1687685194" CREATED="1754279387752" MODIFIED="1754464473444" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolCommon.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1687685194" CREATED="1754279387752" MODIFIED="1754464473444" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolCommon.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57159,7 +57159,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html></richcontent>
 </node>
-<node STYLE_REF="code" ID="ID_1902642088" CREATED="1754458956010" MODIFIED="1754464473447"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1902642088" CREATED="1754458956010" MODIFIED="1754464473447"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57203,7 +57203,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_762312449" CREATED="1754458956012" MODIFIED="1754464473448"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_762312449" CREATED="1754458956012" MODIFIED="1754464473448"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57239,7 +57239,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_655310106" CREATED="1754279387754" MODIFIED="1754464473450" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolConfig.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_655310106" CREATED="1754279387754" MODIFIED="1754464473450" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolConfig.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57311,7 +57311,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1313270291" CREATED="1754458956176" MODIFIED="1754464473450"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1313270291" CREATED="1754458956176" MODIFIED="1754464473450"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57346,7 +57346,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_228407427" CREATED="1754458956179" MODIFIED="1754464473452"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_228407427" CREATED="1754458956179" MODIFIED="1754464473452"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57407,7 +57407,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1659023598" CREATED="1754458956181" MODIFIED="1754464473453"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1659023598" CREATED="1754458956181" MODIFIED="1754464473453"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57543,7 +57543,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </node>
 </node>
 </node>
-<node ID="ID_90006721" CREATED="1754279387758" MODIFIED="1754464473457" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolProvider.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_90006721" CREATED="1754279387758" MODIFIED="1754464473457" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolProvider.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57616,7 +57616,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_155556926" CREATED="1754458957456" MODIFIED="1754464473458"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_155556926" CREATED="1754458957456" MODIFIED="1754464473458"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57660,7 +57660,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_890301373" CREATED="1754458957459" MODIFIED="1754464473459"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_890301373" CREATED="1754458957459" MODIFIED="1754464473459"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57862,7 +57862,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
 </node>
 </node>
 </node>
-<node ID="ID_1191534404" CREATED="1754279387760" MODIFIED="1754464473464" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolServiceImpl.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1191534404" CREATED="1754279387760" MODIFIED="1754464473464" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolServiceImpl.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57935,7 +57935,7 @@ implements HutoolService</code></pre>
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1390230689" CREATED="1754458957607" MODIFIED="1754464473464"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1390230689" CREATED="1754458957607" MODIFIED="1754464473464"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57970,7 +57970,7 @@ implements HutoolService</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_653293975" CREATED="1754458957613" MODIFIED="1754464473465"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_653293975" CREATED="1754458957613" MODIFIED="1754464473465"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -58014,7 +58014,7 @@ implements HutoolService</code></pre>
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_788065146" CREATED="1754458957615" MODIFIED="1754464473466"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_788065146" CREATED="1754458957615" MODIFIED="1754464473466"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59017,7 +59017,7 @@ implements HutoolService</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1535462822" CREATED="1754279376608" MODIFIED="1754464473485" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1535462822" CREATED="1754279376608" MODIFIED="1754464473485" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59030,7 +59030,7 @@ implements HutoolService</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_872245987" CREATED="1754279387763" MODIFIED="1754464473485" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolCommon.HutoolSpeech.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_872245987" CREATED="1754279387763" MODIFIED="1754464473485" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolCommon.HutoolSpeech.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59074,7 +59074,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1944692745" CREATED="1754458957880" MODIFIED="1754464473486"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1944692745" CREATED="1754458957880" MODIFIED="1754464473486"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59254,7 +59254,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1329852010" CREATED="1754458957882" MODIFIED="1754464473489"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1329852010" CREATED="1754458957882" MODIFIED="1754464473489"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59463,7 +59463,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_253490978" CREATED="1754279387765" MODIFIED="1754464473494" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolCommon.HutoolVideo.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_253490978" CREATED="1754279387765" MODIFIED="1754464473494" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolCommon.HutoolVideo.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59507,7 +59507,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_797573768" CREATED="1754458959936" MODIFIED="1754464473495"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_797573768" CREATED="1754458959936" MODIFIED="1754464473495"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59738,7 +59738,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_256818389" CREATED="1754458959938" MODIFIED="1754464473500"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_256818389" CREATED="1754458959938" MODIFIED="1754464473500"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59967,7 +59967,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_862108659" CREATED="1754279387767" MODIFIED="1754464473505" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolCommon.HutoolVision.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_862108659" CREATED="1754279387767" MODIFIED="1754464473505" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/hutool/HutoolCommon.HutoolVision.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60011,7 +60011,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_925656807" CREATED="1754458960447" MODIFIED="1754464473505"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_925656807" CREATED="1754458960447" MODIFIED="1754464473505"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60089,7 +60089,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_56793943" CREATED="1754458960451" MODIFIED="1754464473507"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_56793943" CREATED="1754458960451" MODIFIED="1754464473507"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60301,7 +60301,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_1624269660" CREATED="1754273811372" MODIFIED="1754464473512" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1624269660" CREATED="1754273811372" MODIFIED="1754464473512" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60312,7 +60312,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_1641921679" CREATED="1754279376612" MODIFIED="1754464473512" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1641921679" CREATED="1754279376612" MODIFIED="1754464473512" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60471,7 +60471,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_781532129" CREATED="1754279376613" MODIFIED="1754464473514" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_781532129" CREATED="1754279376613" MODIFIED="1754464473514" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60484,7 +60484,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_559183793" CREATED="1754279387769" MODIFIED="1754464473514" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiService.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_559183793" CREATED="1754279387769" MODIFIED="1754464473514" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiService.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60562,7 +60562,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_432522058" CREATED="1754458975753" MODIFIED="1754464473515"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_432522058" CREATED="1754458975753" MODIFIED="1754464473515"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62248,7 +62248,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
 </node>
 </node>
 </node>
-<node ID="ID_175669270" CREATED="1754279376619" MODIFIED="1754464473550" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_175669270" CREATED="1754279376619" MODIFIED="1754464473550" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62261,7 +62261,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIService.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1464849136" CREATED="1754279387771" MODIFIED="1754464473550" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiCommon.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1464849136" CREATED="1754279387771" MODIFIED="1754464473550" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiCommon.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62375,7 +62375,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html></richcontent>
 </node>
-<node STYLE_REF="code" ID="ID_406537793" CREATED="1754458976668" MODIFIED="1754464473552"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_406537793" CREATED="1754458976668" MODIFIED="1754464473552"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62419,7 +62419,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1330053893" CREATED="1754458976669" MODIFIED="1754464473554"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1330053893" CREATED="1754458976669" MODIFIED="1754464473554"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62455,7 +62455,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_651010334" CREATED="1754279387773" MODIFIED="1754464473556" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiConfig.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_651010334" CREATED="1754279387773" MODIFIED="1754464473556" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiConfig.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62527,7 +62527,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_857046596" CREATED="1754458976957" MODIFIED="1754464473557"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_857046596" CREATED="1754458976957" MODIFIED="1754464473557"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62562,7 +62562,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_923989699" CREATED="1754458976961" MODIFIED="1754464473558"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_923989699" CREATED="1754458976961" MODIFIED="1754464473558"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62623,7 +62623,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_125763771" CREATED="1754458976963" MODIFIED="1754464473560"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_125763771" CREATED="1754458976963" MODIFIED="1754464473560"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62759,7 +62759,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/BaseConfig.htm
 </node>
 </node>
 </node>
-<node ID="ID_1150507398" CREATED="1754279387775" MODIFIED="1754464473564" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiProvider.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1150507398" CREATED="1754279387775" MODIFIED="1754464473564" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiProvider.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62832,7 +62832,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1072849295" CREATED="1754458977863" MODIFIED="1754464473565"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1072849295" CREATED="1754458977863" MODIFIED="1754464473565"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62876,7 +62876,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1391123493" CREATED="1754458977864" MODIFIED="1754464473566"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1391123493" CREATED="1754458977864" MODIFIED="1754464473566"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63078,7 +63078,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/core/AIServicePr
 </node>
 </node>
 </node>
-<node ID="ID_968538873" CREATED="1754279387777" MODIFIED="1754464473571" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiServiceImpl.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_968538873" CREATED="1754279387777" MODIFIED="1754464473571" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiServiceImpl.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63151,7 +63151,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/Ope
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1891001546" CREATED="1754458978299" MODIFIED="1754464473572"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1891001546" CREATED="1754458978299" MODIFIED="1754464473572"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63186,7 +63186,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/Ope
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1640581652" CREATED="1754458978302" MODIFIED="1754464473573"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1640581652" CREATED="1754458978302" MODIFIED="1754464473573"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63230,7 +63230,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/Ope
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_292166737" CREATED="1754458978304" MODIFIED="1754464473575"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_292166737" CREATED="1754458978304" MODIFIED="1754464473575"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64390,7 +64390,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/Ope
 </node>
 </node>
 </node>
-<node ID="ID_34592504" CREATED="1754279376621" MODIFIED="1754464473597" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_34592504" CREATED="1754279376621" MODIFIED="1754464473597" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64403,7 +64403,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/Ope
   </body>
 </html>
 </richcontent>
-<node ID="ID_324816849" CREATED="1754279387779" MODIFIED="1754464473597" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiCommon.OpenaiReasoning.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_324816849" CREATED="1754279387779" MODIFIED="1754464473597" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiCommon.OpenaiReasoning.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64447,7 +64447,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1928482682" CREATED="1754458990819" MODIFIED="1754464473598"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1928482682" CREATED="1754458990819" MODIFIED="1754464473598"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64525,7 +64525,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_484594479" CREATED="1754458990821" MODIFIED="1754464473600"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_484594479" CREATED="1754458990821" MODIFIED="1754464473600"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64734,7 +64734,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_1827264274" CREATED="1754279387780" MODIFIED="1754464473605" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiCommon.OpenaiSpeech.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1827264274" CREATED="1754279387780" MODIFIED="1754464473605" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiCommon.OpenaiSpeech.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64778,7 +64778,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1572018683" CREATED="1754458991223" MODIFIED="1754464473605"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1572018683" CREATED="1754458991223" MODIFIED="1754464473605"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64958,7 +64958,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1231732785" CREATED="1754458991226" MODIFIED="1754464473609"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1231732785" CREATED="1754458991226" MODIFIED="1754464473609"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65167,7 +65167,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_862402781" CREATED="1754279387782" MODIFIED="1754464473614" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiCommon.OpenaiVision.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_862402781" CREATED="1754279387782" MODIFIED="1754464473614" LINK="https://plus.hutool.cn/apidocs/cn/hutool/ai/model/openai/OpenaiCommon.OpenaiVision.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65211,7 +65211,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1922457416" CREATED="1754458991774" MODIFIED="1754464473616"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1922457416" CREATED="1754458991774" MODIFIED="1754464473616"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65289,7 +65289,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1008400389" CREATED="1754458991776" MODIFIED="1754464473618"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1008400389" CREATED="1754458991776" MODIFIED="1754464473618"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65503,7 +65503,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_897190213" CREATED="1754279124711" MODIFIED="1754464473622"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_897190213" CREATED="1754279124711" MODIFIED="1754464473622"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65514,7 +65514,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_699001986" CREATED="1754273811376" MODIFIED="1754464473623" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_699001986" CREATED="1754273811376" MODIFIED="1754464473623" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65525,7 +65525,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_1436894258" CREATED="1754279407405" MODIFIED="1754464473623" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1436894258" CREATED="1754279407405" MODIFIED="1754464473623" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65538,7 +65538,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_983784877" CREATED="1754279407408" MODIFIED="1754464473623" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_983784877" CREATED="1754279407408" MODIFIED="1754464473623" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65551,7 +65551,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_1462734997" CREATED="1754279461773" MODIFIED="1754464473624" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/ProxyUtil.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1462734997" CREATED="1754279461773" MODIFIED="1754464473624" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/ProxyUtil.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65601,7 +65601,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_908165826" CREATED="1754459003702" MODIFIED="1754464473624"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_908165826" CREATED="1754459003702" MODIFIED="1754464473624"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65645,7 +65645,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1159131032" CREATED="1754459003704" MODIFIED="1754464473625"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1159131032" CREATED="1754459003704" MODIFIED="1754464473625"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66013,7 +66013,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_933449070" CREATED="1754273811379" MODIFIED="1754464473632" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_933449070" CREATED="1754273811379" MODIFIED="1754464473632" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66024,7 +66024,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1885856775" CREATED="1754279409696" MODIFIED="1754464473632" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1885856775" CREATED="1754279409696" MODIFIED="1754464473632" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66037,7 +66037,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_997116947" CREATED="1754279409698" MODIFIED="1754464473633" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_997116947" CREATED="1754279409698" MODIFIED="1754464473633" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66050,7 +66050,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1896230685" CREATED="1754279478229" MODIFIED="1754464473633" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/Aspect.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1896230685" CREATED="1754279478229" MODIFIED="1754464473633" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/Aspect.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66119,7 +66119,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_954741111" CREATED="1754459004129" MODIFIED="1754464473634"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_954741111" CREATED="1754459004129" MODIFIED="1754464473634"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66367,7 +66367,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_367772073" CREATED="1754279409700" MODIFIED="1754464473638" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_367772073" CREATED="1754279409700" MODIFIED="1754464473638" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66380,7 +66380,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1427276461" CREATED="1754279479432" MODIFIED="1754464473639" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/SimpleAspect.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1427276461" CREATED="1754279479432" MODIFIED="1754464473639" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/SimpleAspect.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66461,7 +66461,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/Aspect.
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1163544433" CREATED="1754459004277" MODIFIED="1754464473640"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1163544433" CREATED="1754459004277" MODIFIED="1754464473640"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66505,7 +66505,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/Aspect.
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_346174830" CREATED="1754459004279" MODIFIED="1754464473641"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_346174830" CREATED="1754459004279" MODIFIED="1754464473641"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66822,7 +66822,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/Aspect.
 </node>
 </node>
 </node>
-<node ID="ID_423068983" CREATED="1754279479434" MODIFIED="1754464473647" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/TimeIntervalAspect.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_423068983" CREATED="1754279479434" MODIFIED="1754464473647" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/TimeIntervalAspect.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66894,7 +66894,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/SimpleAspe
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1294307811" CREATED="1754459005629" MODIFIED="1754464473648"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1294307811" CREATED="1754459005629" MODIFIED="1754464473648"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66938,7 +66938,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/SimpleAspe
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1244787666" CREATED="1754459005631" MODIFIED="1754464473649"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1244787666" CREATED="1754459005631" MODIFIED="1754464473649"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67211,7 +67211,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/SimpleAspe
 </node>
 </node>
 </node>
-<node ID="ID_1288144050" CREATED="1754273811386" MODIFIED="1754464473654" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/interceptor/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1288144050" CREATED="1754273811386" MODIFIED="1754464473654" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/interceptor/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67222,7 +67222,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/SimpleAspe
   </body>
 </html>
 </richcontent>
-<node ID="ID_1059520550" CREATED="1754279409703" MODIFIED="1754464473654" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/interceptor/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1059520550" CREATED="1754279409703" MODIFIED="1754464473654" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/interceptor/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67235,7 +67235,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/SimpleAspe
   </body>
 </html>
 </richcontent>
-<node ID="ID_1346818567" CREATED="1754279409705" MODIFIED="1754464473654" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1346818567" CREATED="1754279409705" MODIFIED="1754464473654" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67248,7 +67248,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/aspects/SimpleAspe
   </body>
 </html>
 </richcontent>
-<node ID="ID_744292066" CREATED="1754279492592" MODIFIED="1754464473655" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/interceptor/CglibInterceptor.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_744292066" CREATED="1754279492592" MODIFIED="1754464473655" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/interceptor/CglibInterceptor.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67321,7 +67321,7 @@ implements net.sf.cglib.proxy.MethodInterceptor, <a href="https://docs.oracle.co
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_385571854" CREATED="1754459005768" MODIFIED="1754464473656"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_385571854" CREATED="1754459005768" MODIFIED="1754464473656"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67391,7 +67391,7 @@ implements net.sf.cglib.proxy.MethodInterceptor, <a href="https://docs.oracle.co
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1531968282" CREATED="1754459005770" MODIFIED="1754464473658"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1531968282" CREATED="1754459005770" MODIFIED="1754464473658"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67515,7 +67515,7 @@ implements net.sf.cglib.proxy.MethodInterceptor, <a href="https://docs.oracle.co
 </node>
 </node>
 </node>
-<node ID="ID_1254826375" CREATED="1754279492596" MODIFIED="1754464473661" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/interceptor/JdkInterceptor.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1254826375" CREATED="1754279492596" MODIFIED="1754464473661" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/interceptor/JdkInterceptor.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67588,7 +67588,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1717720829" CREATED="1754459006152" MODIFIED="1754464473662"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1717720829" CREATED="1754459006152" MODIFIED="1754464473662"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67658,7 +67658,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1749510145" CREATED="1754459006156" MODIFIED="1754464473665"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1749510145" CREATED="1754459006156" MODIFIED="1754464473665"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67782,7 +67782,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/reflect/
 </node>
 </node>
 </node>
-<node ID="ID_163144522" CREATED="1754279492598" MODIFIED="1754464473668" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/interceptor/SpringCglibInterceptor.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_163144522" CREATED="1754279492598" MODIFIED="1754464473668" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/interceptor/SpringCglibInterceptor.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67855,7 +67855,7 @@ implements org.springframework.cglib.proxy.MethodInterceptor, <a href="https://d
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_148451596" CREATED="1754459007437" MODIFIED="1754464473668"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_148451596" CREATED="1754459007437" MODIFIED="1754464473668"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67925,7 +67925,7 @@ implements org.springframework.cglib.proxy.MethodInterceptor, <a href="https://d
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_238064662" CREATED="1754459007439" MODIFIED="1754464473670"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_238064662" CREATED="1754459007439" MODIFIED="1754464473670"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68086,7 +68086,7 @@ implements org.springframework.cglib.proxy.MethodInterceptor, <a href="https://d
 </node>
 </node>
 </node>
-<node ID="ID_815035255" CREATED="1754273811390" MODIFIED="1754464473673" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_815035255" CREATED="1754273811390" MODIFIED="1754464473673" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68097,7 +68097,7 @@ implements org.springframework.cglib.proxy.MethodInterceptor, <a href="https://d
   </body>
 </html>
 </richcontent>
-<node ID="ID_1770042082" CREATED="1754279409708" MODIFIED="1754464473673" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1770042082" CREATED="1754279409708" MODIFIED="1754464473673" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68110,7 +68110,7 @@ implements org.springframework.cglib.proxy.MethodInterceptor, <a href="https://d
   </body>
 </html>
 </richcontent>
-<node ID="ID_1575727620" CREATED="1754279409710" MODIFIED="1754464473674" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1575727620" CREATED="1754279409710" MODIFIED="1754464473674" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68123,7 +68123,7 @@ implements org.springframework.cglib.proxy.MethodInterceptor, <a href="https://d
   </body>
 </html>
 </richcontent>
-<node ID="ID_1131735657" CREATED="1754279498900" MODIFIED="1754464473674" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/CglibProxyFactory.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1131735657" CREATED="1754279498900" MODIFIED="1754464473674" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/CglibProxyFactory.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68195,7 +68195,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1701831043" CREATED="1754459007647" MODIFIED="1754464473675"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1701831043" CREATED="1754459007647" MODIFIED="1754464473675"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68239,7 +68239,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_917147346" CREATED="1754459007649" MODIFIED="1754464473676"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_917147346" CREATED="1754459007649" MODIFIED="1754464473676"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68408,7 +68408,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
 </node>
 </node>
 </node>
-<node ID="ID_1697710739" CREATED="1754279498902" MODIFIED="1754464473681" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/JdkProxyFactory.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1697710739" CREATED="1754279498902" MODIFIED="1754464473681" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/JdkProxyFactory.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68480,7 +68480,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_950578083" CREATED="1754459007788" MODIFIED="1754464473682"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_950578083" CREATED="1754459007788" MODIFIED="1754464473682"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68552,7 +68552,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_245613466" CREATED="1754459007790" MODIFIED="1754464473684"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_245613466" CREATED="1754459007790" MODIFIED="1754464473684"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68596,7 +68596,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_783940619" CREATED="1754459007792" MODIFIED="1754464473685"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_783940619" CREATED="1754459007792" MODIFIED="1754464473685"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68765,7 +68765,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
 </node>
 </node>
 </node>
-<node ID="ID_1181524341" CREATED="1754279498904" MODIFIED="1754464473688" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1181524341" CREATED="1754279498904" MODIFIED="1754464473688" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68846,7 +68846,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1857883788" CREATED="1754459008161" MODIFIED="1754464473690"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1857883788" CREATED="1754459008161" MODIFIED="1754464473690"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68890,7 +68890,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1739634926" CREATED="1754459008163" MODIFIED="1754464473691"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1739634926" CREATED="1754459008163" MODIFIED="1754464473691"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69316,7 +69316,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
 </node>
 </node>
 </node>
-<node ID="ID_671543885" CREATED="1754279498906" MODIFIED="1754464473699" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/SpringCglibProxyFactory.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_671543885" CREATED="1754279498906" MODIFIED="1754464473699" LINK="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/SpringCglibProxyFactory.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69388,7 +69388,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1201404672" CREATED="1754459008326" MODIFIED="1754464473700"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1201404672" CREATED="1754459008326" MODIFIED="1754464473700"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69432,7 +69432,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_40429245" CREATED="1754459008329" MODIFIED="1754464473701"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_40429245" CREATED="1754459008329" MODIFIED="1754464473701"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69605,7 +69605,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
 </node>
 </node>
 </node>
-<node ID="ID_356319020" CREATED="1754279124728" MODIFIED="1754464473704"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_356319020" CREATED="1754279124728" MODIFIED="1754464473704"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69616,7 +69616,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
   </body>
 </html>
 </richcontent>
-<node ID="ID_238555859" CREATED="1754273811393" MODIFIED="1754464473704" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_238555859" CREATED="1754273811393" MODIFIED="1754464473704" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69627,7 +69627,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
   </body>
 </html>
 </richcontent>
-<node ID="ID_822826760" CREATED="1754279505805" MODIFIED="1754464473705" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_822826760" CREATED="1754279505805" MODIFIED="1754464473705" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69734,7 +69734,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_88941816" CREATED="1754279505807" MODIFIED="1754464473706" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_88941816" CREATED="1754279505807" MODIFIED="1754464473706" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69747,7 +69747,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/aop/proxy/ProxyFactory
   </body>
 </html>
 </richcontent>
-<node ID="ID_654479263" CREATED="1754279523236" MODIFIED="1754464473706" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_654479263" CREATED="1754279523236" MODIFIED="1754464473706" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69805,7 +69805,7 @@ extends Serializable</code></pre>
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_296173942" CREATED="1754459009459" MODIFIED="1754464473707"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_296173942" CREATED="1754459009459" MODIFIED="1754464473707"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69951,7 +69951,7 @@ extends Serializable</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1161726638" CREATED="1754279505810" MODIFIED="1754464473710" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1161726638" CREATED="1754279505810" MODIFIED="1754464473710" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69964,7 +69964,7 @@ extends Serializable</code></pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1621376958" CREATED="1754279523240" MODIFIED="1754464473710" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BitMapBloomFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1621376958" CREATED="1754279523240" MODIFIED="1754464473710" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BitMapBloomFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70041,7 +70041,7 @@ implements BloomFilter</code></pre>
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_778341971" CREATED="1754459009619" MODIFIED="1754464473711"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_778341971" CREATED="1754459009619" MODIFIED="1754464473711"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70173,7 +70173,7 @@ implements BloomFilter</code></pre>
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_845522542" CREATED="1754459009621" MODIFIED="1754464473714"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_845522542" CREATED="1754459009621" MODIFIED="1754464473714"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70375,7 +70375,7 @@ implements BloomFilter</code></pre>
 </node>
 </node>
 </node>
-<node ID="ID_1761023921" CREATED="1754279523241" MODIFIED="1754464473718" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BitSetBloomFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1761023921" CREATED="1754279523241" MODIFIED="1754464473718" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BitSetBloomFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70448,7 +70448,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFi
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1310019968" CREATED="1754459010072" MODIFIED="1754464473719"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1310019968" CREATED="1754459010072" MODIFIED="1754464473719"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70532,7 +70532,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFi
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_412370162" CREATED="1754459010074" MODIFIED="1754464473721"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_412370162" CREATED="1754459010074" MODIFIED="1754464473721"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71074,7 +71074,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFi
 </node>
 </node>
 </node>
-<node ID="ID_300221378" CREATED="1754279523243" MODIFIED="1754464473730" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFilterUtil.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_300221378" CREATED="1754279523243" MODIFIED="1754464473730" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFilterUtil.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71134,7 +71134,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1031498787" CREATED="1754459010279" MODIFIED="1754464473731"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1031498787" CREATED="1754459010279" MODIFIED="1754464473731"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71178,7 +71178,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_743539737" CREATED="1754459010282" MODIFIED="1754464473732"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_743539737" CREATED="1754459010282" MODIFIED="1754464473732"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71369,7 +71369,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_1490052571" CREATED="1754273811396" MODIFIED="1754464473736" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1490052571" CREATED="1754273811396" MODIFIED="1754464473736" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71380,7 +71380,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_336214067" CREATED="1754279507822" MODIFIED="1754464473736" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_336214067" CREATED="1754279507822" MODIFIED="1754464473736" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71477,7 +71477,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_1711742304" CREATED="1754279507825" MODIFIED="1754464473737" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1711742304" CREATED="1754279507825" MODIFIED="1754464473737" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71490,7 +71490,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1904982794" CREATED="1754279523246" MODIFIED="1754464473738" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/BitMap.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1904982794" CREATED="1754279523246" MODIFIED="1754464473738" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/BitMap.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71549,7 +71549,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1211026383" CREATED="1754459029991" MODIFIED="1754464473738"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1211026383" CREATED="1754459029991" MODIFIED="1754464473738"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71659,7 +71659,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_765844430" CREATED="1754459029995" MODIFIED="1754464473740"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_765844430" CREATED="1754459029995" MODIFIED="1754464473740"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71863,7 +71863,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_998734644" CREATED="1754279507827" MODIFIED="1754464473744" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_998734644" CREATED="1754279507827" MODIFIED="1754464473744" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71876,7 +71876,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_534536646" CREATED="1754279523248" MODIFIED="1754464473744" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/IntMap.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_534536646" CREATED="1754279523248" MODIFIED="1754464473744" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/IntMap.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71949,7 +71949,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1626306789" CREATED="1754459030255" MODIFIED="1754464473745"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1626306789" CREATED="1754459030255" MODIFIED="1754464473745"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71984,7 +71984,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_141599657" CREATED="1754459030262" MODIFIED="1754464473746"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_141599657" CREATED="1754459030262" MODIFIED="1754464473746"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72079,7 +72079,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_473965313" CREATED="1754459030264" MODIFIED="1754464473748"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_473965313" CREATED="1754459030264" MODIFIED="1754464473748"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72350,7 +72350,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
 </node>
 </node>
 </node>
-<node ID="ID_1660713349" CREATED="1754279523249" MODIFIED="1754464473753" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/LongMap.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1660713349" CREATED="1754279523249" MODIFIED="1754464473753" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/LongMap.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72423,7 +72423,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_873904463" CREATED="1754459030710" MODIFIED="1754464473754"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_873904463" CREATED="1754459030710" MODIFIED="1754464473754"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72458,7 +72458,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_220136177" CREATED="1754459030714" MODIFIED="1754464473755"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_220136177" CREATED="1754459030714" MODIFIED="1754464473755"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72553,7 +72553,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_35048911" CREATED="1754459030717" MODIFIED="1754464473757"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_35048911" CREATED="1754459030717" MODIFIED="1754464473757"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72827,7 +72827,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
 </node>
 </node>
 </node>
-<node ID="ID_382806152" CREATED="1754273811399" MODIFIED="1754464473762" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_382806152" CREATED="1754273811399" MODIFIED="1754464473762" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72838,7 +72838,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
   </body>
 </html>
 </richcontent>
-<node ID="ID_406864416" CREATED="1754279507830" MODIFIED="1754464473762" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_406864416" CREATED="1754279507830" MODIFIED="1754464473762" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72995,7 +72995,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_467354587" CREATED="1754279507832" MODIFIED="1754464473764" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_467354587" CREATED="1754279507832" MODIFIED="1754464473764" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73008,7 +73008,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/bitMap/
   </body>
 </html>
 </richcontent>
-<node ID="ID_1458384618" CREATED="1754279523252" MODIFIED="1754464473765" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/AbstractFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1458384618" CREATED="1754279523252" MODIFIED="1754464473765" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/AbstractFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73089,7 +73089,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFi
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_732230825" CREATED="1754459031184" MODIFIED="1754464473765"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_732230825" CREATED="1754459031184" MODIFIED="1754464473765"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73159,7 +73159,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFi
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1235630805" CREATED="1754459031187" MODIFIED="1754464473767"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1235630805" CREATED="1754459031187" MODIFIED="1754464473767"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73280,7 +73280,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFi
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1429030653" CREATED="1754459031188" MODIFIED="1754464473770"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1429030653" CREATED="1754459031188" MODIFIED="1754464473770"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73594,7 +73594,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/BloomFi
 </node>
 </node>
 </node>
-<node ID="ID_1237611358" CREATED="1754279523254" MODIFIED="1754464473776" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/DefaultFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1237611358" CREATED="1754279523254" MODIFIED="1754464473776" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/DefaultFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73666,7 +73666,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1371058600" CREATED="1754459031392" MODIFIED="1754464473777"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1371058600" CREATED="1754459031392" MODIFIED="1754464473777"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73701,7 +73701,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1950704424" CREATED="1754459031405" MODIFIED="1754464473778"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1950704424" CREATED="1754459031405" MODIFIED="1754464473778"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73762,7 +73762,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_310983307" CREATED="1754459031407" MODIFIED="1754464473780"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_310983307" CREATED="1754459031407" MODIFIED="1754464473780"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73844,7 +73844,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </node>
 </node>
 </node>
-<node ID="ID_282930063" CREATED="1754279523258" MODIFIED="1754464473782" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/ELFFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_282930063" CREATED="1754279523258" MODIFIED="1754464473782" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/ELFFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73892,7 +73892,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_801449197" CREATED="1754459031571" MODIFIED="1754464473783"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_801449197" CREATED="1754459031571" MODIFIED="1754464473783"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73927,7 +73927,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_839037081" CREATED="1754459031576" MODIFIED="1754464473785"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_839037081" CREATED="1754459031576" MODIFIED="1754464473785"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73988,7 +73988,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1926543266" CREATED="1754459031578" MODIFIED="1754464473786"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1926543266" CREATED="1754459031578" MODIFIED="1754464473786"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74070,7 +74070,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </node>
 </node>
 </node>
-<node ID="ID_842280136" CREATED="1754279523260" MODIFIED="1754464473789" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/FNVFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_842280136" CREATED="1754279523260" MODIFIED="1754464473789" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/FNVFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74118,7 +74118,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1055945269" CREATED="1754459031737" MODIFIED="1754464473789"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1055945269" CREATED="1754459031737" MODIFIED="1754464473789"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74153,7 +74153,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1250967811" CREATED="1754459031741" MODIFIED="1754464473790"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1250967811" CREATED="1754459031741" MODIFIED="1754464473790"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74214,7 +74214,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1435192852" CREATED="1754459031743" MODIFIED="1754464473792"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1435192852" CREATED="1754459031743" MODIFIED="1754464473792"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74296,7 +74296,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </node>
 </node>
 </node>
-<node ID="ID_204322351" CREATED="1754279523262" MODIFIED="1754464473794" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/FuncFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_204322351" CREATED="1754279523262" MODIFIED="1754464473794" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/FuncFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74386,7 +74386,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Abs
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_228382678" CREATED="1754459032443" MODIFIED="1754464473795"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_228382678" CREATED="1754459032443" MODIFIED="1754464473795"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74421,7 +74421,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Abs
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_894954335" CREATED="1754459032447" MODIFIED="1754464473796"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_894954335" CREATED="1754459032447" MODIFIED="1754464473796"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74534,7 +74534,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Abs
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1443790912" CREATED="1754459032448" MODIFIED="1754464473798"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1443790912" CREATED="1754459032448" MODIFIED="1754464473798"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74690,7 +74690,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Abs
 </node>
 </node>
 </node>
-<node ID="ID_1172321039" CREATED="1754279523264" MODIFIED="1754464473803" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/HfFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1172321039" CREATED="1754279523264" MODIFIED="1754464473803" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/HfFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74738,7 +74738,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1019119079" CREATED="1754459032848" MODIFIED="1754464473804"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1019119079" CREATED="1754459032848" MODIFIED="1754464473804"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74773,7 +74773,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_366549441" CREATED="1754459032852" MODIFIED="1754464473805"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_366549441" CREATED="1754459032852" MODIFIED="1754464473805"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74834,7 +74834,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1015144198" CREATED="1754459032853" MODIFIED="1754464473807"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1015144198" CREATED="1754459032853" MODIFIED="1754464473807"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74916,7 +74916,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </node>
 </node>
 </node>
-<node ID="ID_1398690163" CREATED="1754279523265" MODIFIED="1754464473809" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/HfIpFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1398690163" CREATED="1754279523265" MODIFIED="1754464473809" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/HfIpFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74964,7 +74964,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_586666913" CREATED="1754459033166" MODIFIED="1754464473811"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_586666913" CREATED="1754459033166" MODIFIED="1754464473811"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74999,7 +74999,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_576562248" CREATED="1754459033169" MODIFIED="1754464473812"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_576562248" CREATED="1754459033169" MODIFIED="1754464473812"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75060,7 +75060,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_113285117" CREATED="1754459033172" MODIFIED="1754464473813"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_113285117" CREATED="1754459033172" MODIFIED="1754464473813"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75142,7 +75142,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </node>
 </node>
 </node>
-<node ID="ID_1618607204" CREATED="1754279523267" MODIFIED="1754464473817" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/JSFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1618607204" CREATED="1754279523267" MODIFIED="1754464473817" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/JSFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75190,7 +75190,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1448853354" CREATED="1754459033303" MODIFIED="1754464473818"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1448853354" CREATED="1754459033303" MODIFIED="1754464473818"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75225,7 +75225,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1923697917" CREATED="1754459033306" MODIFIED="1754464473819"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1923697917" CREATED="1754459033306" MODIFIED="1754464473819"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75286,7 +75286,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1149289076" CREATED="1754459033308" MODIFIED="1754464473820"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1149289076" CREATED="1754459033308" MODIFIED="1754464473820"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75368,7 +75368,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </node>
 </node>
 </node>
-<node ID="ID_1748567569" CREATED="1754279523269" MODIFIED="1754464473823" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/PJWFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1748567569" CREATED="1754279523269" MODIFIED="1754464473823" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/PJWFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75416,7 +75416,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_691410192" CREATED="1754459034867" MODIFIED="1754464473824"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_691410192" CREATED="1754459034867" MODIFIED="1754464473824"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75451,7 +75451,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_287567328" CREATED="1754459034871" MODIFIED="1754464473824"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_287567328" CREATED="1754459034871" MODIFIED="1754464473824"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75512,7 +75512,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1280041814" CREATED="1754459034873" MODIFIED="1754464473826"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1280041814" CREATED="1754459034873" MODIFIED="1754464473826"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75594,7 +75594,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </node>
 </node>
 </node>
-<node ID="ID_170337272" CREATED="1754279523271" MODIFIED="1754464473828" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/RSFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_170337272" CREATED="1754279523271" MODIFIED="1754464473828" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/RSFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75642,7 +75642,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_336928154" CREATED="1754459035398" MODIFIED="1754464473829"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_336928154" CREATED="1754459035398" MODIFIED="1754464473829"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75677,7 +75677,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1273282939" CREATED="1754459035402" MODIFIED="1754464473830"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1273282939" CREATED="1754459035402" MODIFIED="1754464473830"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75738,7 +75738,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_191115504" CREATED="1754459035403" MODIFIED="1754464473831"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_191115504" CREATED="1754459035403" MODIFIED="1754464473831"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75820,7 +75820,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </node>
 </node>
 </node>
-<node ID="ID_1628835124" CREATED="1754279523273" MODIFIED="1754464473834" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/SDBMFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1628835124" CREATED="1754279523273" MODIFIED="1754464473834" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/SDBMFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75868,7 +75868,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_886752659" CREATED="1754459036146" MODIFIED="1754464473835"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_886752659" CREATED="1754459036146" MODIFIED="1754464473835"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75903,7 +75903,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1408082749" CREATED="1754459036149" MODIFIED="1754464473836"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1408082749" CREATED="1754459036149" MODIFIED="1754464473836"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75964,7 +75964,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1670165678" CREATED="1754459036151" MODIFIED="1754464473837"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1670165678" CREATED="1754459036151" MODIFIED="1754464473837"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76046,7 +76046,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </node>
 </node>
 </node>
-<node ID="ID_1582976527" CREATED="1754279523276" MODIFIED="1754464473839" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/TianlFilter.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1582976527" CREATED="1754279523276" MODIFIED="1754464473839" LINK="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/TianlFilter.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76094,7 +76094,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     <br/>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1614298179" CREATED="1754459036282" MODIFIED="1754464473840"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1614298179" CREATED="1754459036282" MODIFIED="1754464473840"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76129,7 +76129,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1810377186" CREATED="1754459036286" MODIFIED="1754464473841"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1810377186" CREATED="1754459036286" MODIFIED="1754464473841"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76190,7 +76190,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1649093276" CREATED="1754459036288" MODIFIED="1754464473842"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1649093276" CREATED="1754459036288" MODIFIED="1754464473842"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76276,7 +76276,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
 </node>
 </node>
 </node>
-<node ID="ID_556939176" CREATED="1754279124706" MODIFIED="1754464473844"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_556939176" CREATED="1754279124706" MODIFIED="1754464473844"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76287,7 +76287,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
   </body>
 </html>
 </richcontent>
-<node ID="ID_995651449" CREATED="1754273811402" MODIFIED="1754464473844" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_995651449" CREATED="1754273811402" MODIFIED="1754464473844" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76298,7 +76298,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
   </body>
 </html>
 </richcontent>
-<node ID="ID_1086745074" CREATED="1754279536533" MODIFIED="1754464473845" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1086745074" CREATED="1754279536533" MODIFIED="1754464473845" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76417,7 +76417,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_149415323" CREATED="1754279536535" MODIFIED="1754464473847" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_149415323" CREATED="1754279536535" MODIFIED="1754464473847" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76430,7 +76430,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/bloomfilter/filter/Fun
   </body>
 </html>
 </richcontent>
-<node ID="ID_228662309" CREATED="1754279541231" MODIFIED="1754464473847" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/Cache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_228662309" CREATED="1754279541231" MODIFIED="1754464473847" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/Cache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76513,7 +76513,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.ht
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_862474926" CREATED="1754459049756" MODIFIED="1754464473848"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_862474926" CREATED="1754459049756" MODIFIED="1754464473848"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77702,7 +77702,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.ht
 </node>
 </node>
 </node>
-<node ID="ID_1806140694" CREATED="1754279541233" MODIFIED="1754464473871" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/CacheListener.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1806140694" CREATED="1754279541233" MODIFIED="1754464473871" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/CacheListener.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77778,7 +77778,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.ht
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_976618705" CREATED="1754459049948" MODIFIED="1754464473871"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_976618705" CREATED="1754459049948" MODIFIED="1754464473871"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77867,7 +77867,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.ht
 </node>
 </node>
 </node>
-<node ID="ID_817034081" CREATED="1754279536537" MODIFIED="1754464473873" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_817034081" CREATED="1754279536537" MODIFIED="1754464473873" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77880,7 +77880,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Iterable.ht
   </body>
 </html>
 </richcontent>
-<node ID="ID_1579654345" CREATED="1754279541237" MODIFIED="1754464473874" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/CacheUtil.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1579654345" CREATED="1754279541237" MODIFIED="1754464473874" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/CacheUtil.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77940,7 +77940,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1214738206" CREATED="1754459050329" MODIFIED="1754464473875"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1214738206" CREATED="1754459050329" MODIFIED="1754464473875"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77984,7 +77984,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1694641445" CREATED="1754459050330" MODIFIED="1754464473876"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1694641445" CREATED="1754459050330" MODIFIED="1754464473876"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -78831,7 +78831,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_1240724574" CREATED="1754279536539" MODIFIED="1754464473889" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1240724574" CREATED="1754279536539" MODIFIED="1754464473889" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -78844,7 +78844,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
   </body>
 </html>
 </richcontent>
-<node ID="ID_1042824961" CREATED="1754279541239" MODIFIED="1754464473889" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/GlobalPruneTimer.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1042824961" CREATED="1754279541239" MODIFIED="1754464473889" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/GlobalPruneTimer.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -78906,7 +78906,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_496936074" CREATED="1754459050540" MODIFIED="1754464473890"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_496936074" CREATED="1754459050540" MODIFIED="1754464473890"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -78972,7 +78972,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1938285074" CREATED="1754459050541" MODIFIED="1754464473891"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1938285074" CREATED="1754459050541" MODIFIED="1754464473891"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79369,7 +79369,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
 </node>
 </node>
 </node>
-<node ID="ID_855634103" CREATED="1754273811405" MODIFIED="1754464473900" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_855634103" CREATED="1754273811405" MODIFIED="1754464473900" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79380,7 +79380,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_925875378" CREATED="1754279536542" MODIFIED="1754464473900" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_925875378" CREATED="1754279536542" MODIFIED="1754464473900" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79465,7 +79465,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_1448470954" CREATED="1754279536543" MODIFIED="1754464473901" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1448470954" CREATED="1754279536543" MODIFIED="1754464473901" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79478,7 +79478,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Enum.html?i
   </body>
 </html>
 </richcontent>
-<node ID="ID_1911313899" CREATED="1754279541241" MODIFIED="1754464473902" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFileCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1911313899" CREATED="1754279541241" MODIFIED="1754464473902" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFileCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79559,7 +79559,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_531252989" CREATED="1754459050885" MODIFIED="1754464473903"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_531252989" CREATED="1754459050885" MODIFIED="1754464473903"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79799,7 +79799,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1100421479" CREATED="1754459050886" MODIFIED="1754464473908"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1100421479" CREATED="1754459050886" MODIFIED="1754464473908"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79872,7 +79872,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_188323930" CREATED="1754459050887" MODIFIED="1754464473909"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_188323930" CREATED="1754459050887" MODIFIED="1754464473909"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80370,7 +80370,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
 </node>
 </node>
 </node>
-<node ID="ID_930288026" CREATED="1754279541245" MODIFIED="1754464473918" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/LFUFileCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_930288026" CREATED="1754279541245" MODIFIED="1754464473918" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/LFUFileCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80442,7 +80442,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1365196907" CREATED="1754459051074" MODIFIED="1754464473919"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1365196907" CREATED="1754459051074" MODIFIED="1754464473919"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80477,7 +80477,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_153469610" CREATED="1754459051076" MODIFIED="1754464473920"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_153469610" CREATED="1754459051076" MODIFIED="1754464473920"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80655,7 +80655,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_774424787" CREATED="1754459051077" MODIFIED="1754464473924"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_774424787" CREATED="1754459051077" MODIFIED="1754464473924"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80801,7 +80801,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
 </node>
 </node>
 </node>
-<node ID="ID_1378666566" CREATED="1754279541247" MODIFIED="1754464473928" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/LRUFileCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1378666566" CREATED="1754279541247" MODIFIED="1754464473928" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/LRUFileCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80873,7 +80873,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_928490790" CREATED="1754459051679" MODIFIED="1754464473929"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_928490790" CREATED="1754459051679" MODIFIED="1754464473929"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80908,7 +80908,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_360831624" CREATED="1754459051680" MODIFIED="1754464473930"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_360831624" CREATED="1754459051680" MODIFIED="1754464473930"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81086,7 +81086,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1313854139" CREATED="1754459051681" MODIFIED="1754464473934"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1313854139" CREATED="1754459051681" MODIFIED="1754464473934"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81235,7 +81235,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
 </node>
 </node>
 </node>
-<node ID="ID_238960848" CREATED="1754273811409" MODIFIED="1754464473938" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_238960848" CREATED="1754273811409" MODIFIED="1754464473938" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81246,7 +81246,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
   </body>
 </html>
 </richcontent>
-<node ID="ID_1290981879" CREATED="1754279536546" MODIFIED="1754464473938" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1290981879" CREATED="1754279536546" MODIFIED="1754464473938" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81423,7 +81423,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_1142704104" CREATED="1754279536548" MODIFIED="1754464473939" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1142704104" CREATED="1754279536548" MODIFIED="1754464473939" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81436,7 +81436,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/file/AbstractFil
   </body>
 </html>
 </richcontent>
-<node ID="ID_1466065266" CREATED="1754279541249" MODIFIED="1754464473940" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/AbstractCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1466065266" CREATED="1754279541249" MODIFIED="1754464473940" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/AbstractCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81532,7 +81532,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/Cache.html" t
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1028214956" CREATED="1754459052352" MODIFIED="1754464473941"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1028214956" CREATED="1754459052352" MODIFIED="1754464473941"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81876,7 +81876,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/Cache.html" t
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_178079100" CREATED="1754459052354" MODIFIED="1754464473948"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_178079100" CREATED="1754459052354" MODIFIED="1754464473948"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81920,7 +81920,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/Cache.html" t
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_728336643" CREATED="1754459052355" MODIFIED="1754464473949"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_728336643" CREATED="1754459052355" MODIFIED="1754464473949"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -83379,7 +83379,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/Cache.html" t
 </node>
 </node>
 </node>
-<node ID="ID_1019892913" CREATED="1754279541251" MODIFIED="1754464473975" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/CacheObj.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1019892913" CREATED="1754279541251" MODIFIED="1754464473975" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/CacheObj.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -83467,7 +83467,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_762028726" CREATED="1754459052609" MODIFIED="1754464473976"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_762028726" CREATED="1754459052609" MODIFIED="1754464473976"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -83663,7 +83663,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_76173612" CREATED="1754459052610" MODIFIED="1754464473980"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_76173612" CREATED="1754459052610" MODIFIED="1754464473980"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -83742,7 +83742,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1157732324" CREATED="1754459052611" MODIFIED="1754464473982"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1157732324" CREATED="1754459052611" MODIFIED="1754464473982"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -84284,7 +84284,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializab
 </node>
 </node>
 </node>
-<node ID="ID_87511883" CREATED="1754279541253" MODIFIED="1754464473992" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/CacheObjIterator.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_87511883" CREATED="1754279541253" MODIFIED="1754464473992" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/CacheObjIterator.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -84382,7 +84382,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Iterator
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_3867459" CREATED="1754459052804" MODIFIED="1754464473993"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_3867459" CREATED="1754459052804" MODIFIED="1754464473993"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -84613,7 +84613,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Iterator
 </node>
 </node>
 </node>
-<node ID="ID_1474103738" CREATED="1754279541257" MODIFIED="1754464473998" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/CacheValuesIterator.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1474103738" CREATED="1754279541257" MODIFIED="1754464473998" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/CacheValuesIterator.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -84698,7 +84698,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Iterator
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1603569639" CREATED="1754459053204" MODIFIED="1754464473999"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1603569639" CREATED="1754459053204" MODIFIED="1754464473999"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -84929,7 +84929,7 @@ implements <a href="https://docs.oracle.com/javase/8/docs/api/java/util/Iterator
 </node>
 </node>
 </node>
-<node ID="ID_945115500" CREATED="1754279541260" MODIFIED="1754464474004" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/FIFOCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_945115500" CREATED="1754279541260" MODIFIED="1754464474004" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/FIFOCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85020,7 +85020,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1479535117" CREATED="1754459053597" MODIFIED="1754464474005"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1479535117" CREATED="1754459053597" MODIFIED="1754464474005"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85078,7 +85078,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_681357262" CREATED="1754459053600" MODIFIED="1754464474006"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_681357262" CREATED="1754459053600" MODIFIED="1754464474006"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85199,7 +85199,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_131442361" CREATED="1754459053601" MODIFIED="1754464474009"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_131442361" CREATED="1754459053601" MODIFIED="1754464474009"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85409,7 +85409,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </node>
 </node>
 </node>
-<node ID="ID_1049739090" CREATED="1754279541263" MODIFIED="1754464474014" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/LFUCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1049739090" CREATED="1754279541263" MODIFIED="1754464474014" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/LFUCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85496,7 +85496,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_412665957" CREATED="1754459053761" MODIFIED="1754464474015"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_412665957" CREATED="1754459053761" MODIFIED="1754464474015"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85554,7 +85554,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_299141071" CREATED="1754459053764" MODIFIED="1754464474017"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_299141071" CREATED="1754459053764" MODIFIED="1754464474017"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85664,7 +85664,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1931995275" CREATED="1754459053765" MODIFIED="1754464474019"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1931995275" CREATED="1754459053765" MODIFIED="1754464474019"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85874,7 +85874,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </node>
 </node>
 </node>
-<node ID="ID_441985913" CREATED="1754279541265" MODIFIED="1754464474026" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/LRUCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_441985913" CREATED="1754279541265" MODIFIED="1754464474026" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/LRUCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85961,7 +85961,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_480822773" CREATED="1754459053928" MODIFIED="1754464474027"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_480822773" CREATED="1754459053928" MODIFIED="1754464474027"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -86019,7 +86019,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_296715401" CREATED="1754459053932" MODIFIED="1754464474029"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_296715401" CREATED="1754459053932" MODIFIED="1754464474029"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -86140,7 +86140,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1958400760" CREATED="1754459053933" MODIFIED="1754464474031"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1958400760" CREATED="1754459053933" MODIFIED="1754464474031"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -86350,7 +86350,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </node>
 </node>
 </node>
-<node ID="ID_601197217" CREATED="1754279541266" MODIFIED="1754464474036" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/NoCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_601197217" CREATED="1754279541266" MODIFIED="1754464474036" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/NoCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -86438,7 +86438,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/Cache.html" t
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_759585861" CREATED="1754459054105" MODIFIED="1754464474037"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_759585861" CREATED="1754459054105" MODIFIED="1754464474037"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -86482,7 +86482,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/Cache.html" t
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_666098145" CREATED="1754459054106" MODIFIED="1754464474037"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_666098145" CREATED="1754459054106" MODIFIED="1754464474037"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -87930,7 +87930,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/Cache.html" t
 </node>
 </node>
 </node>
-<node ID="ID_1367584287" CREATED="1754279541269" MODIFIED="1754464474062" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1367584287" CREATED="1754279541269" MODIFIED="1754464474062" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88035,7 +88035,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/AbstractCac
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_936038158" CREATED="1754459054321" MODIFIED="1754464474064"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_936038158" CREATED="1754459054321" MODIFIED="1754464474064"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88108,7 +88108,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/AbstractCac
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1755402203" CREATED="1754459054323" MODIFIED="1754464474066"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1755402203" CREATED="1754459054323" MODIFIED="1754464474066"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88152,7 +88152,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/AbstractCac
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_628117205" CREATED="1754459054324" MODIFIED="1754464474066"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_628117205" CREATED="1754459054324" MODIFIED="1754464474066"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88752,7 +88752,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/AbstractCac
 </node>
 </node>
 </node>
-<node ID="ID_1207208099" CREATED="1754279541271" MODIFIED="1754464474079" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/StampedCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1207208099" CREATED="1754279541271" MODIFIED="1754464474079" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/StampedCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88856,7 +88856,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/AbstractCac
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_850292969" CREATED="1754459055038" MODIFIED="1754464474081"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_850292969" CREATED="1754459055038" MODIFIED="1754464474081"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88963,7 +88963,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/AbstractCac
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_700751223" CREATED="1754459055040" MODIFIED="1754464474083"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_700751223" CREATED="1754459055040" MODIFIED="1754464474083"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -89041,7 +89041,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/AbstractCac
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1413706249" CREATED="1754459055041" MODIFIED="1754464474085"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1413706249" CREATED="1754459055041" MODIFIED="1754464474085"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -89697,7 +89697,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/AbstractCac
 </node>
 </node>
 </node>
-<node ID="ID_1589871683" CREATED="1754279541273" MODIFIED="1754464474098" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/TimedCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1589871683" CREATED="1754279541273" MODIFIED="1754464474098" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/TimedCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -89792,7 +89792,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_862007325" CREATED="1754459055225" MODIFIED="1754464474099"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_862007325" CREATED="1754459055225" MODIFIED="1754464474099"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -89850,7 +89850,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1736945137" CREATED="1754459055228" MODIFIED="1754464474101"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1736945137" CREATED="1754459055228" MODIFIED="1754464474101"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -89960,7 +89960,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_100094390" CREATED="1754459055229" MODIFIED="1754464474104"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_100094390" CREATED="1754459055229" MODIFIED="1754464474104"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90266,7 +90266,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/ReentrantCa
 </node>
 </node>
 </node>
-<node ID="ID_299565353" CREATED="1754279541275" MODIFIED="1754464474111" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/WeakCache.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_299565353" CREATED="1754279541275" MODIFIED="1754464474111" LINK="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/WeakCache.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90369,7 +90369,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/TimedCache.
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_751044599" CREATED="1754459055390" MODIFIED="1754464474112"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_751044599" CREATED="1754459055390" MODIFIED="1754464474112"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90427,7 +90427,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/TimedCache.
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_802579638" CREATED="1754459055393" MODIFIED="1754464474113"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_802579638" CREATED="1754459055393" MODIFIED="1754464474113"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90494,7 +90494,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/TimedCache.
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1885292568" CREATED="1754459055394" MODIFIED="1754464474114"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1885292568" CREATED="1754459055394" MODIFIED="1754464474114"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90756,7 +90756,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/TimedCache.
 </node>
 </node>
 </node>
-<node ID="ID_1123948084" CREATED="1754273811413" MODIFIED="1754464474120" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/package-frame.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1123948084" CREATED="1754273811413" MODIFIED="1754464474120" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/package-frame.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90767,7 +90767,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/TimedCache.
   </body>
 </html>
 </richcontent>
-<node ID="ID_1291230563" CREATED="1754279553676" MODIFIED="1754464474120" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/package-summary.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1291230563" CREATED="1754279553676" MODIFIED="1754464474120" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/package-summary.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90904,7 +90904,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/TimedCache.
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_1857602506" CREATED="1754279553678" MODIFIED="1754464474122" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1857602506" CREATED="1754279553678" MODIFIED="1754464474122" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90917,7 +90917,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/cache/impl/TimedCache.
   </body>
 </html>
 </richcontent>
-<node ID="ID_575219350" CREATED="1754279557735" MODIFIED="1754464474122" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/ICaptcha.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_575219350" CREATED="1754279557735" MODIFIED="1754464474122" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/ICaptcha.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90985,7 +90985,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializable.
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_348932275" CREATED="1754459095803" MODIFIED="1754464474123"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_348932275" CREATED="1754459095803" MODIFIED="1754464474123"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91231,7 +91231,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializable.
 </node>
 </node>
 </node>
-<node ID="ID_580605972" CREATED="1754279553680" MODIFIED="1754464474128" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_580605972" CREATED="1754279553680" MODIFIED="1754464474128" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91244,7 +91244,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/io/Serializable.
   </body>
 </html>
 </richcontent>
-<node ID="ID_1840922060" CREATED="1754279557740" MODIFIED="1754464474128" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptcha.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1840922060" CREATED="1754279557740" MODIFIED="1754464474128" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptcha.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91328,7 +91328,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/ICaptcha.ht
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_537685136" CREATED="1754459097533" MODIFIED="1754464474129"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_537685136" CREATED="1754459097533" MODIFIED="1754464474129"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91736,7 +91736,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/ICaptcha.ht
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1033081040" CREATED="1754459097535" MODIFIED="1754464474139"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1033081040" CREATED="1754459097535" MODIFIED="1754464474139"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91924,7 +91924,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/ICaptcha.ht
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_946267313" CREATED="1754459097537" MODIFIED="1754464474142"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_946267313" CREATED="1754459097537" MODIFIED="1754464474142"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -93036,7 +93036,7 @@ implements <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/ICaptcha.ht
 </node>
 </node>
 </node>
-<node ID="ID_650806243" CREATED="1754279557742" MODIFIED="1754464474162" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/CaptchaUtil.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_650806243" CREATED="1754279557742" MODIFIED="1754464474162" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/CaptchaUtil.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -93096,7 +93096,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1402881230" CREATED="1754459097750" MODIFIED="1754464474163"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1402881230" CREATED="1754459097750" MODIFIED="1754464474163"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -93140,7 +93140,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_656998152" CREATED="1754459097751" MODIFIED="1754464474164"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_656998152" CREATED="1754459097751" MODIFIED="1754464474164"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94387,7 +94387,7 @@ extends <a href="https://docs.oracle.com/javase/8/docs/api/java/lang/Object.html
 </node>
 </node>
 </node>
-<node ID="ID_924740105" CREATED="1754279557744" MODIFIED="1754464474185" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/CircleCaptcha.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_924740105" CREATED="1754279557744" MODIFIED="1754464474185" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/CircleCaptcha.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94469,7 +94469,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1140671135" CREATED="1754459098162" MODIFIED="1754464474185"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1140671135" CREATED="1754459098162" MODIFIED="1754464474185"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94504,7 +94504,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1740909077" CREATED="1754459098164" MODIFIED="1754464474186"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1740909077" CREATED="1754459098164" MODIFIED="1754464474186"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94770,7 +94770,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_143529023" CREATED="1754459098165" MODIFIED="1754464474192"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_143529023" CREATED="1754459098165" MODIFIED="1754464474192"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94938,7 +94938,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
 </html>
 </richcontent>
 </node>
-<node ID="ID_1423179743" CREATED="1754279557749" MODIFIED="1754464474196" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/LineCaptcha.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1423179743" CREATED="1754279557749" MODIFIED="1754464474196" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/LineCaptcha.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -95020,7 +95020,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_1185647360" CREATED="1754459103559" MODIFIED="1754464474197"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1185647360" CREATED="1754459103559" MODIFIED="1754464474197"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -95055,7 +95055,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_765142932" CREATED="1754459103561" MODIFIED="1754464474198"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_765142932" CREATED="1754459103561" MODIFIED="1754464474198"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -95286,7 +95286,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_493976300" CREATED="1754459103562" MODIFIED="1754464474202"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_493976300" CREATED="1754459103562" MODIFIED="1754464474202"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -95442,7 +95442,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
 </node>
 </node>
 </node>
-<node ID="ID_791626180" CREATED="1754279557751" MODIFIED="1754464474207" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/ShearCaptcha.html"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_791626180" CREATED="1754279557751" MODIFIED="1754464474207" LINK="https://plus.hutool.cn/apidocs/cn/hutool/captcha/ShearCaptcha.html"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -95524,7 +95524,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
     </p>
   </body>
 </html></richcontent>
-<node STYLE_REF="code" ID="ID_380188972" CREATED="1754459103871" MODIFIED="1754464474208"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_380188972" CREATED="1754459103871" MODIFIED="1754464474208"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -95559,7 +95559,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_58929986" CREATED="1754459103873" MODIFIED="1754464474209"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_58929986" CREATED="1754459103873" MODIFIED="1754464474209"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -95825,7 +95825,7 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
 </html></richcontent>
 </node>
 </node>
-<node STYLE_REF="code" ID="ID_1846978726" CREATED="1754459103874" MODIFIED="1754464474213"><richcontent TYPE="NODE">
+<node STYLE_REF="code" FOLDED="true" ID="ID_1846978726" CREATED="1754459103874" MODIFIED="1754464474213"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -95987,6 +95987,6 @@ extends <a href="https://plus.hutool.cn/apidocs/cn/hutool/captcha/AbstractCaptch
 </node>
 </node>
 </node>
-<node TEXT="" POSITION="top_or_left" ID="ID_629483894" CREATED="1754734959674" MODIFIED="1754734959674"/>
+<node TEXT="脑图作者：极客脑图" STYLE_REF="note" POSITION="top_or_left" ID="ID_1030027422" CREATED="1754794768488" MODIFIED="1754794768497" LINK="https://github.com/ThrowPeterInvalidException/geekmap-cs" TAGS="geekmap"/>
 </node>
 </map>

@@ -79867,7 +79867,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1431883861" CREATED="1754227687578" MODIFIED="1754229769511"><richcontent TYPE="NODE">
+<node ID="ID_1431883861" CREATED="1754227687578" MODIFIED="1754793062989"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79896,14 +79896,14 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
       <span class="ne-text">也可以写动作使用模块删除，具体参见下模块文档。</span>
     </p>
     <p class="ne-p">
-      <img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2023/png/272392/1697875099035-9fd3bf33-e39e-4a29-83f9-da3f6aefb3d5.png" width="287" class="ne-image"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2023/png/272392/1697875099035-9fd3bf33-e39e-4a29-83f9-da3f6aefb3d5.png" class="ne-image" width="222" height="305" style="width: 222px; height: 305px;"/>
       
     </p>
     <p class="ne-p">
-      <span class="ne-text">2）通过动作删除：设置指定状态名称对应的内容为<code class="ne-code">*NULL*</code></span>
+      <span class="ne-text">2）通过动作删除：设置指定状态名称对应的内容为</span><code>*NULL*</code>
     </p>
     <p class="ne-p">
-      <img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2023/png/272392/1697875129985-338e88a1-e446-4058-a602-b404c9a97476.png" width="1063" class="ne-image"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2023/png/272392/1697875129985-338e88a1-e446-4058-a602-b404c9a97476.png" class="ne-image" width="728" height="452" style="width: 728px; height: 452px;"/>
     </p>
   </body>
 </html></richcontent>
