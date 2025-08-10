@@ -12,7 +12,7 @@ geekmap-cs 是一个专注于计算机科学领域的开源思维导图知识库
 
 - 每份脑图需标注来源（如官方文档、GitHub 仓库），确保可追溯性。  
 - 文件格式为`.mm`（开源思维导图软件freeplane） 、 `.xmind`。
-  - freeplane 下载：[Download Freeplane-Setup-1.12.12.exe (Freeplane)](https://sourceforge.net/projects/freeplane/files/freeplane stable/Freeplane-Setup-1.12.12.exe/download)
+  - freeplane 下载：[Download Freeplane-Setup-1.12.12.exe](https://sourceforge.net/projects/freeplane/files/freeplane%20stable/Freeplane-Setup-1.12.12.exe/download)
 
 - 按技术领域分类，保持目录清晰。  
 
