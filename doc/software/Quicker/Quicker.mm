@@ -4,7 +4,17 @@
 <bookmarks>
     <bookmark nodeId="ID_20240928140957816" name="Root" opensAsRoot="true"/>
 </bookmarks>
-<node TEXT="Quicker" ID="ID_20240928140957816" CREATED="1609150826839" MODIFIED="1754490551265" TAGS="geekmap&#xa;软件&#xa;效率&#xa;c#">
+<node FOLDED="false" ID="ID_20240928140957816" CREATED="1609150826839" MODIFIED="1754740391644" TAGS="geekmap&#xa;软件&#xa;效率&#xa;c#"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    Quicker
+  </body>
+</html>
+</richcontent>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <attribute_layout NAME_WIDTH="100 pt" VALUE_WIDTH="100 pt"/>
 <edge COLOR="#cccccc"/>
@@ -1103,20 +1113,6 @@ div.tag, div.details, div.note {
 </stylenode>
 </map_styles>
 </hook>
-<richcontent TYPE="DETAILS">
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <span class="keyword" style="font-size: 12px;">隶属于 <a href="https://zh.wikipedia.org/wiki/geekmap-cs">geekmap-cs</a>&#xa0;开源项目</span>
-    </p>
-    <p>
-      <span class="keyword" style="font-size: 12px;">作者：极客脑图&#xa0;&#xa0;QQ： 764672253</span>
-    </p>
-  </body>
-</html></richcontent>
 <node TEXT="官方文档" POSITION="bottom_or_right" ID="ID_1206028898" CREATED="1754203580138" MODIFIED="1754203584197">
 <node ID="ID_43219838" CREATED="1754203629853" MODIFIED="1754213378339" LINK="https://getquicker.net/KC/Manual"><richcontent TYPE="NODE">
 
@@ -1408,7 +1404,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1630968651" CREATED="1754214146034" MODIFIED="1754229861760"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1630968651" CREATED="1754214146034" MODIFIED="1754229861760"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1421,7 +1417,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node TEXT="请参考" ID="ID_13622089" CREATED="1754229861758" MODIFIED="1754229910569" LINK="https://getquicker.net/KC/Kb/Article/913">
+<node TEXT="请参考" FOLDED="true" ID="ID_13622089" CREATED="1754229861758" MODIFIED="1754229910569" LINK="https://getquicker.net/KC/Kb/Article/913">
 <node ID="ID_136953217" CREATED="1754229910570" MODIFIED="1754229910574"><richcontent TYPE="NODE">
 
 <html>
@@ -1537,7 +1533,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1077436058" CREATED="1754214146038" MODIFIED="1754215383594"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1077436058" CREATED="1754214146038" MODIFIED="1754215383594"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1668,7 +1664,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1958175541" CREATED="1754214146047" MODIFIED="1754215383596"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1958175541" CREATED="1754214146047" MODIFIED="1754215383596"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -1681,7 +1677,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1546549371" CREATED="1754214146048" MODIFIED="1754215383597"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1546549371" CREATED="1754214146048" MODIFIED="1754215383597"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -2375,7 +2371,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_659420216" CREATED="1754213710564" MODIFIED="1754215383606"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_659420216" CREATED="1754213710564" MODIFIED="1754215383606"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3152,7 +3148,7 @@ div.tag, div.details, div.note {
     因软件更新较快，部分文档内容与软件最新版本有所出入，请知悉。
   </body>
 </html></richcontent>
-<node ID="ID_1134569028" CREATED="1754214185237" MODIFIED="1754214185239"><richcontent TYPE="NODE">
+<node ID="ID_1134569028" CREATED="1754214185237" MODIFIED="1754790915030"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3171,18 +3167,18 @@ div.tag, div.details, div.note {
     
   </head>
   <body>
-    <p data-lake-id="448212cd195ee29fff6df0c679a47905">
+    <p>
       在需要的时候弹开，选择动作，完成操作。
     </p>
-    <p data-lake-id="83183b675629ea01bbf5b22d107a170f">
-      <span data-card-type="inline" data-lake-card="image" class="lake-card-margin-top lake-card-margin-bottom"><img loading="lazy" data-role="image" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2021/gif/272392/1616460026960-b27ee026-6bba-49bc-a236-4f209fb512f8.gif" data-raw-src="" class="image lake-drag-image" alt="面板窗口3.gif" title="面板窗口3.gif" data-height="512px"/>
+    <p>
+      <span class="lake-card-margin-top lake-card-margin-bottom"><img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2021/gif/272392/1616460026960-b27ee026-6bba-49bc-a236-4f209fb512f8.gif" class="image lake-drag-image" alt="面板窗口3.gif" width="712" height="401" style="width: 712px; height: 401px;"/>
       </span>
     </p>
-    <p data-lake-id="fb5e133b77b2dbe450bad1a490d4554c">
+    <p>
       💡 详细说明请参考<a href="https://www.yuque.com/quicker/manual/panel-window">面板窗口章节</a>。
     </p>
-    <p data-lake-id="1a6acb76df1b1460a099ca99ff1a5ddf">
-      💡 可以设置多种弹出面板的<a href="https://www.yuque.com/quicker/manual/activate" data-href="activate">触发方式</a>。
+    <p>
+      💡 可以设置多种弹出面板的<a href="https://www.yuque.com/quicker/manual/activate">触发方式</a>。
     </p>
   </body>
 </html></richcontent>
@@ -3280,7 +3276,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1076874626" CREATED="1754213378382" MODIFIED="1754230243307" LINK="https://getquicker.net/KC/Manual/Doc/panel-window"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1076874626" CREATED="1754213378382" MODIFIED="1754230243307" LINK="https://getquicker.net/KC/Manual/Doc/panel-window"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3348,7 +3344,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1401865484" CREATED="1754214185248" MODIFIED="1754215383611"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1401865484" CREATED="1754214185248" MODIFIED="1754215383611"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3407,7 +3403,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1174141584" CREATED="1754214185252" MODIFIED="1754215383612"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1174141584" CREATED="1754214185252" MODIFIED="1754215383612"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3527,7 +3523,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_256850763" CREATED="1754214185259" MODIFIED="1754231240434"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_256850763" CREATED="1754214185259" MODIFIED="1754231240434"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -3915,7 +3911,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_3953603" CREATED="1754213378386" MODIFIED="1754231265081" LINK="https://getquicker.net/KC/Manual/Doc/tray-icon"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_3953603" CREATED="1754213378386" MODIFIED="1754231265081" LINK="https://getquicker.net/KC/Manual/Doc/tray-icon"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4056,7 +4052,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1558415929" CREATED="1754213378389" MODIFIED="1754230398304" LINK="https://getquicker.net/KC/Manual/Doc/settings-window"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1558415929" CREATED="1754213378389" MODIFIED="1754230398304" LINK="https://getquicker.net/KC/Manual/Doc/settings-window"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4197,7 +4193,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_32021317" CREATED="1754214185292" MODIFIED="1754215383620"><richcontent TYPE="NODE">
+<node ID="ID_32021317" CREATED="1754214185292" MODIFIED="1754790584017"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4220,14 +4216,14 @@ div.tag, div.details, div.note {
       <span class="ne-text">方法1：点击面板菜单项；</span>
     </p>
     <p class="ne-p">
-      <img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2021/gif/272392/1616590287232-2f8f9f9f-3610-412e-9490-4629936be6b3.gif" width="480" class="ne-image"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2021/gif/272392/1616590287232-2f8f9f9f-3610-412e-9490-4629936be6b3.gif" class="ne-image" width="669" height="383" style="width: 669px; height: 383px;"/>
       
     </p>
     <p class="ne-p">
       <span class="ne-text">方法2：点击上下文动作页的名称标签（或图标）；</span>
     </p>
     <p class="ne-p">
-      <img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2021/gif/272392/1616594981318-4f925685-0087-4d65-bfe1-2d62f566f3bc.gif" width="480" class="ne-image"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2021/gif/272392/1616594981318-4f925685-0087-4d65-bfe1-2d62f566f3bc.gif" class="ne-image" width="680" height="390" style="width: 680px; height: 390px;"/>
     </p>
   </body>
 </html></richcontent>
@@ -4700,7 +4696,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1994433489" CREATED="1754214185317" MODIFIED="1754231321137"><richcontent TYPE="NODE">
+<node ID="ID_1994433489" CREATED="1754214185317" MODIFIED="1754748733890"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4737,7 +4733,7 @@ div.tag, div.details, div.note {
       </li>
     </ul>
     <p class="ne-p">
-      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2021/gif/272392/1616668637343-430f0bb8-e15c-42c9-90a9-b8e01b1bfac5.gif" class="ne-image" width="850" height="444" style="width: 850px; height: 444px;"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2021/gif/272392/1616668637343-430f0bb8-e15c-42c9-90a9-b8e01b1bfac5.gif" class="ne-image" width="719" height="376" style="width: 719px; height: 376px;"/>
     </p>
   </body>
 </html></richcontent>
@@ -4891,7 +4887,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_216522177" CREATED="1754214185326" MODIFIED="1754214185327"><richcontent TYPE="NODE">
+<node ID="ID_216522177" CREATED="1754214185326" MODIFIED="1754748620567"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -4910,14 +4906,14 @@ div.tag, div.details, div.note {
     
   </head>
   <body>
-    <p data-lake-id="7a8589c089caad76031864ad702eb333">
+    <p>
       动作页翻页后，通常会停留在此页，以便后续继续使用此页的动作。
     </p>
-    <p data-lake-id="9926b494eabdc18d3ba457586e4b2b5f">
+    <p>
       如果把最常用的动作放在第一页，其他页面都是临时使用，这时候可以选择自动返回第一页。
     </p>
-    <p data-lake-id="2f1ec867afa96e91ed47df88cef56f66">
-      <span data-card-type="inline" data-lake-card="image" class="lake-card-margin-top lake-card-margin-bottom"><img loading="lazy" data-role="image" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2021/png/272392/1616676858777-fc4c0782-756f-4f0a-a1f0-0ac6b6b2c5b4.png" data-raw-src="" class="image lake-drag-image" alt="image.png" title="image.png" data-height="136px"/>
+    <p>
+      <span class="lake-card-margin-top lake-card-margin-bottom"><img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2021/png/272392/1616676858777-fc4c0782-756f-4f0a-a1f0-0ac6b6b2c5b4.png" class="image lake-drag-image" alt="image.png" width="723" height="181" style="width: 723px; height: 181px;"/>
 </span>    </p>
   </body>
 </html></richcontent>
@@ -5176,7 +5172,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_201324061" CREATED="1754213378395" MODIFIED="1754214185342" LINK="https://getquicker.net/KC/Manual/Doc/create-edit-actions"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_201324061" CREATED="1754213378395" MODIFIED="1754214185342" LINK="https://getquicker.net/KC/Manual/Doc/create-edit-actions"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -5351,7 +5347,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_631471877" CREATED="1754213378397" MODIFIED="1754214185353" LINK="https://getquicker.net/KC/Manual/Doc/install-action"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_631471877" CREATED="1754213378397" MODIFIED="1754214185353" LINK="https://getquicker.net/KC/Manual/Doc/install-action"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -5440,7 +5436,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_782425485" CREATED="1754214185357" MODIFIED="1754215383630"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_782425485" CREATED="1754214185357" MODIFIED="1754215383630"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -5670,7 +5666,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1703058356" CREATED="1754214185366" MODIFIED="1754215383632"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1703058356" CREATED="1754214185366" MODIFIED="1754215383632"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -5772,7 +5768,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_889893483" CREATED="1754213378400" MODIFIED="1754214201611" LINK="https://getquicker.net/KC/Manual/Doc/share-action"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_889893483" CREATED="1754213378400" MODIFIED="1754214201611" LINK="https://getquicker.net/KC/Manual/Doc/share-action"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -5809,7 +5805,7 @@ div.tag, div.details, div.note {
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1014495973" CREATED="1754214201612" MODIFIED="1754215383634"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1014495973" CREATED="1754214201612" MODIFIED="1754215383634"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -5822,7 +5818,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_847463757" CREATED="1754214201614" MODIFIED="1754215383634"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_847463757" CREATED="1754214201614" MODIFIED="1754215383634"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6034,7 +6030,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1575695667" CREATED="1754214201625" MODIFIED="1754215383636"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1575695667" CREATED="1754214201625" MODIFIED="1754215383636"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6201,7 +6197,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1729906957" CREATED="1754214201641" MODIFIED="1754215383638"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1729906957" CREATED="1754214201641" MODIFIED="1754215383638"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6343,7 +6339,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1609344338" CREATED="1754213378402" MODIFIED="1754214206680" LINK="https://getquicker.net/KC/Manual/Doc/sharebase-202408"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1609344338" CREATED="1754213378402" MODIFIED="1754214206680" LINK="https://getquicker.net/KC/Manual/Doc/sharebase-202408"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6468,7 +6464,7 @@ div.tag, div.details, div.note {
     </table>
   </body>
 </html></richcontent>
-<node ID="ID_1480333643" CREATED="1754214206682" MODIFIED="1754215383640"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1480333643" CREATED="1754214206682" MODIFIED="1754215383640"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -6731,7 +6727,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_111521936" CREATED="1754213378404" MODIFIED="1754214206694" LINK="https://getquicker.net/KC/Manual/Doc/share-to-lib"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_111521936" CREATED="1754213378404" MODIFIED="1754214206694" LINK="https://getquicker.net/KC/Manual/Doc/share-to-lib"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7095,7 +7091,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1932117456" CREATED="1754213378407" MODIFIED="1754214219750" LINK="https://getquicker.net/KC/Manual/Doc/data-sync"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1932117456" CREATED="1754213378407" MODIFIED="1754214219750" LINK="https://getquicker.net/KC/Manual/Doc/data-sync"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7310,7 +7306,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_268668996" CREATED="1754214219761" MODIFIED="1754215383646"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_268668996" CREATED="1754214219761" MODIFIED="1754215383646"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7729,7 +7725,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1325955358" CREATED="1754213378413" MODIFIED="1754214215550" LINK="https://getquicker.net/KC/Manual/Doc/how2buy"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1325955358" CREATED="1754213378413" MODIFIED="1754214215550" LINK="https://getquicker.net/KC/Manual/Doc/how2buy"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7826,7 +7822,7 @@ div.tag, div.details, div.note {
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_515779248" CREATED="1754213378415" MODIFIED="1754214245004" LINK="https://getquicker.net/KC/Manual/Doc/recommend-code"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_515779248" CREATED="1754213378415" MODIFIED="1754214245004" LINK="https://getquicker.net/KC/Manual/Doc/recommend-code"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -7969,7 +7965,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_870549382" CREATED="1754214245018" MODIFIED="1754215383652"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_870549382" CREATED="1754214245018" MODIFIED="1754215383652"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8092,7 +8088,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1517704398" CREATED="1754213378418" MODIFIED="1754214238690" LINK="https://getquicker.net/KC/Manual/Doc/pro-version"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1517704398" CREATED="1754213378418" MODIFIED="1754214238690" LINK="https://getquicker.net/KC/Manual/Doc/pro-version"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8114,7 +8110,7 @@ div.tag, div.details, div.note {
     因软件更新较快，部分文档内容与软件最新版本有所出入，请知悉。
   </body>
 </html></richcontent>
-<node ID="ID_806837000" CREATED="1754214238692" MODIFIED="1754214238692"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_806837000" CREATED="1754214238692" MODIFIED="1754214238692"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8431,7 +8427,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1939310806" CREATED="1754214238721" MODIFIED="1754214238722"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1939310806" CREATED="1754214238721" MODIFIED="1754214238722"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8805,7 +8801,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_790827073" CREATED="1754213378420" MODIFIED="1754213378420"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_790827073" CREATED="1754213378420" MODIFIED="1754213378420"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -8818,7 +8814,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_10034701" CREATED="1754213378421" MODIFIED="1754214283189" LINK="https://getquicker.net/KC/Manual/Doc/settings-basicinfo"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_10034701" CREATED="1754213378421" MODIFIED="1754214283189" LINK="https://getquicker.net/KC/Manual/Doc/settings-basicinfo"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9168,7 +9164,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_160137733" CREATED="1754213378424" MODIFIED="1754214283210" LINK="https://getquicker.net/KC/Manual/Doc/settings-panelpopupsettings"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_160137733" CREATED="1754213378424" MODIFIED="1754214283210" LINK="https://getquicker.net/KC/Manual/Doc/settings-panelpopupsettings"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9197,7 +9193,7 @@ div.tag, div.details, div.note {
 </span>    </p>
   </body>
 </html></richcontent>
-<node ID="ID_823533701" CREATED="1754214283211" MODIFIED="1754214283212"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_823533701" CREATED="1754214283211" MODIFIED="1754214283212"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9502,7 +9498,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1472312222" CREATED="1754213378430" MODIFIED="1754214283223" LINK="https://getquicker.net/KC/Manual/Doc/settings-blacklistsettings"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1472312222" CREATED="1754213378430" MODIFIED="1754214283223" LINK="https://getquicker.net/KC/Manual/Doc/settings-blacklistsettings"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9606,7 +9602,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1563702552" CREATED="1754213378432" MODIFIED="1754214283231" LINK="https://getquicker.net/KC/Manual/Doc/settings-uisettingspage"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1563702552" CREATED="1754213378432" MODIFIED="1754214283231" LINK="https://getquicker.net/KC/Manual/Doc/settings-uisettingspage"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9639,7 +9635,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1581075600" CREATED="1754214283232" MODIFIED="1754215383655"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1581075600" CREATED="1754214283232" MODIFIED="1754215383655"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -9998,7 +9994,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_800042931" CREATED="1754214283257" MODIFIED="1754215383659"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_800042931" CREATED="1754214283257" MODIFIED="1754215383659"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10191,7 +10187,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_125327295" CREATED="1754213378437" MODIFIED="1754214283265" LINK="https://getquicker.net/KC/Manual/Doc/settings-actiondesignersettingspage"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_125327295" CREATED="1754213378437" MODIFIED="1754214283265" LINK="https://getquicker.net/KC/Manual/Doc/settings-actiondesignersettingspage"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10445,7 +10441,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1601022003" CREATED="1754213378441" MODIFIED="1754214283277" LINK="https://getquicker.net/KC/Manual/Doc/settings-aboutsettingpage"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1601022003" CREATED="1754213378441" MODIFIED="1754214283277" LINK="https://getquicker.net/KC/Manual/Doc/settings-aboutsettingpage"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10538,7 +10534,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_453368909" CREATED="1754213378448" MODIFIED="1754548379063" LINK="https://getquicker.net/KC/Manual/Doc/theme"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_453368909" CREATED="1754213378448" MODIFIED="1754548379063" LINK="https://getquicker.net/KC/Manual/Doc/theme"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10744,7 +10740,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1279165331" CREATED="1754213378450" MODIFIED="1754213378451" LINK="https://getquicker.net/KC/Manual/Doc/simple-actions"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1279165331" CREATED="1754213378450" MODIFIED="1754213378451" LINK="https://getquicker.net/KC/Manual/Doc/simple-actions"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -10757,7 +10753,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1300704956" CREATED="1754213378452" MODIFIED="1754214300405" LINK="https://getquicker.net/KC/Manual/Doc/run-or-open"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1300704956" CREATED="1754213378452" MODIFIED="1754214300405" LINK="https://getquicker.net/KC/Manual/Doc/run-or-open"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11066,7 +11062,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1662626087" CREATED="1754213378453" MODIFIED="1754214300372" LINK="https://getquicker.net/KC/Manual/Doc/chh2pc"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1662626087" CREATED="1754213378453" MODIFIED="1754214300372" LINK="https://getquicker.net/KC/Manual/Doc/chh2pc"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11092,7 +11088,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1846387810" CREATED="1754214300374" MODIFIED="1754215383667"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1846387810" CREATED="1754214300374" MODIFIED="1754215383667"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11253,7 +11249,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_136612673" CREATED="1754213378455" MODIFIED="1754214300396" LINK="https://getquicker.net/KC/Manual/Doc/open-file"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_136612673" CREATED="1754213378455" MODIFIED="1754214300396" LINK="https://getquicker.net/KC/Manual/Doc/open-file"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11363,7 +11359,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1230112587" CREATED="1754213378458" MODIFIED="1754214300444" LINK="https://getquicker.net/KC/Manual/Doc/keyboard-input"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1230112587" CREATED="1754213378458" MODIFIED="1754214300444" LINK="https://getquicker.net/KC/Manual/Doc/keyboard-input"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11685,7 +11681,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_895907021" CREATED="1754213378461" MODIFIED="1754214300457" LINK="https://getquicker.net/KC/Manual/Doc/open-url"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_895907021" CREATED="1754213378461" MODIFIED="1754214300457" LINK="https://getquicker.net/KC/Manual/Doc/open-url"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11707,7 +11703,7 @@ div.tag, div.details, div.note {
     因软件更新较快，部分文档内容与软件最新版本有所出入，请知悉。
   </body>
 </html></richcontent>
-<node ID="ID_544556051" CREATED="1754214300458" MODIFIED="1754215383674"><richcontent TYPE="NODE">
+<node ID="ID_544556051" CREATED="1754214300458" MODIFIED="1754748261072"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11730,7 +11726,7 @@ div.tag, div.details, div.note {
       <span class="ne-text">此动作类型用于快速打开一个网页。</span>
     </p>
     <p class="ne-p">
-      <img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2022/webp/272392/1649301201906-c73e3fd0-0d06-4632-969f-ebc1b84797a8.webp" width="761.3333333333334" class="ne-image"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2022/webp/272392/1649301201906-c73e3fd0-0d06-4632-969f-ebc1b84797a8.webp" class="ne-image" width="672" height="335" style="width: 672px; height: 335px;"/>
       
     </p>
     <p class="ne-p">
@@ -11740,14 +11736,14 @@ div.tag, div.details, div.note {
       <span class="ne-text">如果是公共网站，可以点击“获取网站图标” 按钮尝试下载网站的favicon图标和主页标题。</span>
     </p>
     <p class="ne-p">
-      <img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2022/png/272392/1649300693697-4166c21b-d6ef-4ede-b135-f0249cf5be37.png" width="688" class="ne-image"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2022/png/272392/1649300693697-4166c21b-d6ef-4ede-b135-f0249cf5be37.png" class="ne-image" width="635" height="297" style="width: 635px; height: 297px;"/>
       
     </p>
     <p class="ne-p">
       <span class="ne-text">可以根据需要选择特定的浏览器打开网址：</span>
     </p>
     <p class="ne-p">
-      <img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2022/png/272392/1649301916929-698fd05d-d81f-4b8b-a73d-b5ca77a0cb59.png" width="304" class="ne-image"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2022/png/272392/1649301916929-698fd05d-d81f-4b8b-a73d-b5ca77a0cb59.png" class="ne-image"/>
       
     </p>
     <p class="ne-p">
@@ -11755,37 +11751,55 @@ div.tag, div.details, div.note {
     </p>
     <ul class="ne-ul">
       <li>
-        <span class="ne-text">系统默认浏览器：使用windows中设置的默认浏览器打开。</span>
+        <p>
+          <span class="ne-text">系统默认浏览器：使用windows中设置的默认浏览器打开。</span>
+        </p>
       </li>
       <li>
-        <span class="ne-text">IE浏览器 （在Win11下会自动使用微软Edge浏览器）。</span>
+        <p>
+          <span class="ne-text">IE浏览器 （在Win11下会自动使用微软Edge浏览器）。</span>
+        </p>
       </li>
       <li>
-        <span class="ne-text">Edge浏览器</span>
+        <p>
+          <span class="ne-text">Edge浏览器</span>
+        </p>
       </li>
       <li>
-        <span class="ne-text">Edge浏览器的APP模式。 APP模式是指一个没有地址栏的窗口。</span>
+        <p>
+          <span class="ne-text">Edge浏览器的APP模式。 APP模式是指一个没有地址栏的窗口。</span>
+        </p>
       </li>
       <li>
-        <span class="ne-text">Chrome浏览器。需要将chrome加入系统环境变量（正常安装chrome会自动加入，确保Win+R窗口中输入chrome可以正常打开）</span>
+        <p>
+          <span class="ne-text">Chrome浏览器。需要将chrome加入系统环境变量（正常安装chrome会自动加入，确保Win+R窗口中输入chrome可以正常打开）</span>
+        </p>
       </li>
       <li>
-        <span class="ne-text">Chrome浏览器的APP模式。</span>
+        <p>
+          <span class="ne-text">Chrome浏览器的APP模式。</span>
+        </p>
       </li>
       <li>
-        <span class="ne-text">本地浏览器窗口。用一个基于IE内核的浏览器窗口打开网址。</span>
+        <p>
+          <span class="ne-text">本地浏览器窗口。用一个基于IE内核的浏览器窗口打开网址。</span>
+        </p>
       </li>
       <li>
-        <span class="ne-text">自定义浏览器程序：使用自己指定的浏览器程序打开网址。 </span><img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2022/png/272392/1649302575951-3d1623ce-6cf3-42bd-a00e-4b51e3d974be.png" width="688" class="ne-image"/>
+        <p>
+          <span class="ne-text">自定义浏览器程序：使用自己指定的浏览器程序打开网址。 </span><img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2022/png/272392/1649302575951-3d1623ce-6cf3-42bd-a00e-4b51e3d974be.png" class="ne-image"/>
+        </p>
       </li>
       <li>
-        <span class="ne-text">前台浏览器程序：根据当前使用的浏览器打开网址。支持的浏览器进程名为：<code class="ne-code">firefox|chrome|msedge|vivaldi|iexplore|sogouexplorer|360se|360chrome|QQBrowser|360ChromeX </code></span>
+        <p>
+          <span class="ne-text">前台浏览器程序：根据当前使用的浏览器打开网址。支持的浏览器进程名为：</span><code>firefox|chrome|msedge|vivaldi|iexplore|sogouexplorer|360se|360chrome|QQBrowser|360ChromeX</code>
+        </p>
       </li>
     </ul>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1668362351" CREATED="1754214300460" MODIFIED="1754215383675"><richcontent TYPE="NODE">
+<node ID="ID_1668362351" CREATED="1754214300460" MODIFIED="1754748268266"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11811,7 +11825,7 @@ div.tag, div.details, div.note {
       <span class="ne-text">如下面的例子使用chrome的隐身模式打开网址。</span>
     </p>
     <p class="ne-p">
-      <img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2022/png/272392/1649303150120-8117ea6c-c314-4e36-998e-bc9341890bb4.png" width="688" class="ne-image"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2022/png/272392/1649303150120-8117ea6c-c314-4e36-998e-bc9341890bb4.png" class="ne-image" width="575" height="366" style="width: 575px; height: 366px;"/>
       
     </p>
     <p class="ne-p">
@@ -11824,7 +11838,7 @@ div.tag, div.details, div.note {
       <strong><span class="ne-text">（2）在组合动作中使用WebView2模块打开网址</span></strong>
     </p>
     <p class="ne-p">
-      <span class="ne-text">可以参考这里：<a href="https://getquicker.net/kc/help/doc/webview2" data-href="https://getquicker.net/kc/help/doc/webview2" target="_blank">https://getquicker.net/kc/help/doc/webview2</a></span>
+      <span class="ne-text">可以参考这里：<a href="https://getquicker.net/kc/help/doc/webview2">https://getquicker.net/kc/help/doc/webview2</a></span>
     </p>
     <p class="ne-p">
       <span class="ne-text">WebView2是基于微软Edge内核的一个浏览器组件。</span>
@@ -11836,13 +11850,13 @@ div.tag, div.details, div.note {
       <span class="ne-text">通过与浏览器扩展程序通信，使用浏览器API打开网址，可以进行更多控制。也可以返回标签页id信息，在后续步骤控制浏览器或网页。</span>
     </p>
     <p class="ne-p">
-      <span class="ne-text">参考文档：<a href="https://getquicker.net/kc/help/doc/chromecontrol" data-href="https://getquicker.net/kc/help/doc/chromecontrol" target="_blank">https://getquicker.net/kc/help/doc/chromecontrol</a></span>
+      <span class="ne-text">参考文档：<a href="https://getquicker.net/kc/help/doc/chromecontrol">https://getquicker.net/kc/help/doc/chromecontrol</a></span>
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1619796661" CREATED="1754213378462" MODIFIED="1754214300464" LINK="https://getquicker.net/KC/Manual/Doc/send-text"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1619796661" CREATED="1754213378462" MODIFIED="1754748285108" LINK="https://getquicker.net/KC/Manual/Doc/send-text"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11861,17 +11875,18 @@ div.tag, div.details, div.note {
     
   </head>
   <body>
-    因软件更新较快，部分文档内容与软件最新版本有所出入，请知悉。
-
+    <p>
+      因软件更新较快，部分文档内容与软件最新版本有所出入，请知悉。
+    </p>
     <p>
       Quicker可以预先创建一段事先编好的文本，在需要时激活面板直接发送，比如一些日常用语的自动回复。
     </p>
     <p>
-      <img loading="lazy" alt="创建动作_发送文本.gif" title="创建动作_发送文本.gif" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/gif/272392/1553082883276-f5e11a73-fa0c-4b00-9b59-5d1f67cf3d77.gif#align=left&amp;display=inline&amp;height=506&amp;name=%E5%88%9B%E5%BB%BA%E5%8A%A8%E4%BD%9C_%E5%8F%91%E9%80%81%E6%96%87%E6%9C%AC.gif&amp;originHeight=975&amp;originWidth=1438&amp;size=1514273&amp;status=done&amp;width=746"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/gif/272392/1553082883276-f5e11a73-fa0c-4b00-9b59-5d1f67cf3d77.gif#align=left&amp;display=inline&amp;height=506&amp;name=%E5%88%9B%E5%BB%BA%E5%8A%A8%E4%BD%9C_%E5%8F%91%E9%80%81%E6%96%87%E6%9C%AC.gif&amp;originHeight=975&amp;originWidth=1438&amp;size=1514273&amp;status=done&amp;width=746" alt="创建动作_发送文本.gif" width="692" height="469" style="width: 692px; height: 469px;"/>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_382255965" CREATED="1754214300465" MODIFIED="1754214300465"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_382255965" CREATED="1754214300465" MODIFIED="1754214300465"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -11977,7 +11992,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_679250871" CREATED="1754214300472" MODIFIED="1754214300474"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_679250871" CREATED="1754214300472" MODIFIED="1754214300474"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12004,7 +12019,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_110104039" CREATED="1754214300474" MODIFIED="1754214300476"><richcontent TYPE="NODE">
+<node ID="ID_110104039" CREATED="1754214300474" MODIFIED="1754748395616"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12027,12 +12042,12 @@ div.tag, div.details, div.note {
       在TIM/QQ的聊天窗口中，点开表情面板，将鼠标悬停在要查询的表情上方，稍过一会儿会显示提示文字。&#xa0;提示文字中 /&#xa0;开始的字符便是文字的编码。如下面截图，呲牙表情的编码为“/cy”。
     </p>
     <p>
-      <img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553084361911-c665035b-97a1-4920-859e-1fa5049810e5.png#align=left&amp;display=inline&amp;height=393&amp;originHeight=663&amp;originWidth=911&amp;size=0&amp;status=done&amp;width=540"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553084361911-c665035b-97a1-4920-859e-1fa5049810e5.png#align=left&amp;display=inline&amp;height=393&amp;originHeight=663&amp;originWidth=911&amp;size=0&amp;status=done&amp;width=540" width="517" height="376" style="width: 517px; height: 376px;"/>
     </p>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1245759011" CREATED="1754214300477" MODIFIED="1754214300479"><richcontent TYPE="NODE">
+<node ID="ID_1245759011" CREATED="1754214300477" MODIFIED="1754748390380"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12052,21 +12067,21 @@ div.tag, div.details, div.note {
   </head>
   <body>
     <p>
-      微信的编码格式为 “[表情]” 。如发送<img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553084361825-8d990368-1a10-4c5c-a5fe-14db6e1773f1.png#align=left&amp;display=inline&amp;height=28&amp;originHeight=28&amp;originWidth=28&amp;size=0&amp;status=done&amp;width=28"/>可以用“[微笑]”代替。&#xa0;要查询微信的表情对应文字，也可以将鼠标悬停在表情上方。
+      微信的编码格式为 “[表情]” 。如发送<img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553084361825-8d990368-1a10-4c5c-a5fe-14db6e1773f1.png#align=left&amp;display=inline&amp;height=28&amp;originHeight=28&amp;originWidth=28&amp;size=0&amp;status=done&amp;width=28"/>可以用“[微笑]”代替。&#xa0;要查询微信的表情对应文字，也可以将鼠标悬停在表情上方。
     </p>
     <p>
-      <img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553084361882-9f31e82f-4fe5-4a51-b211-9b2ca9d922a5.png#align=left&amp;display=inline&amp;height=377&amp;originHeight=609&amp;originWidth=1060&amp;size=0&amp;status=done&amp;width=656"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553084361882-9f31e82f-4fe5-4a51-b211-9b2ca9d922a5.png#align=left&amp;display=inline&amp;height=377&amp;originHeight=609&amp;originWidth=1060&amp;size=0&amp;status=done&amp;width=656" width="635" height="365" style="width: 635px; height: 365px;"/>
       
     </p>
     <p>
-      如上图，<img loading="lazy" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553084361815-d9f3524d-20df-4748-8822-630c3b31d85b.png#align=left&amp;display=inline&amp;height=36&amp;originHeight=36&amp;originWidth=37&amp;size=0&amp;status=done&amp;width=37"/>表情的文字编码为“[猪头]”。
+      如上图，<img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553084361815-d9f3524d-20df-4748-8822-630c3b31d85b.png#align=left&amp;display=inline&amp;height=36&amp;originHeight=36&amp;originWidth=37&amp;size=0&amp;status=done&amp;width=37"/>表情的文字编码为“[猪头]”。
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
 </node>
-<node ID="ID_596494531" CREATED="1754213378464" MODIFIED="1754214300480" LINK="https://getquicker.net/KC/Manual/Doc/run-script"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_596494531" CREATED="1754213378464" MODIFIED="1754214300480" LINK="https://getquicker.net/KC/Manual/Doc/run-script"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12095,7 +12110,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1847732254" CREATED="1754214300480" MODIFIED="1754214300482"><richcontent TYPE="NODE">
+<node ID="ID_1847732254" CREATED="1754214300480" MODIFIED="1754748426703"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12115,7 +12130,7 @@ div.tag, div.details, div.note {
   </head>
   <body>
     <p>
-      <img loading="lazy" alt="image.png" title="image.png" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553084660505-22794a08-08ed-458a-93ff-35e385dacc61.png#align=left&amp;display=inline&amp;height=432&amp;name=image.png&amp;originHeight=648&amp;originWidth=860&amp;size=88598&amp;status=done&amp;width=573"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553084660505-22794a08-08ed-458a-93ff-35e385dacc61.png#align=left&amp;display=inline&amp;height=432&amp;name=image.png&amp;originHeight=648&amp;originWidth=860&amp;size=88598&amp;status=done&amp;width=573" alt="image.png" width="539" height="406" style="width: 539px; height: 406px;"/>
       
     </p>
     <p>
@@ -12125,7 +12140,7 @@ div.tag, div.details, div.note {
       脚本类型：
     </p>
     <p>
-      <img loading="lazy" alt="image.png" title="image.png" src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553085103639-4ff63932-11c1-42e3-80f6-0b308dc582a4.png#align=left&amp;display=inline&amp;height=184&amp;name=image.png&amp;originHeight=276&amp;originWidth=444&amp;size=32915&amp;status=done&amp;width=296"/>
+      <img src="https://files.getquicker.net/_sitefiles/kc/yuque/0/2019/png/272392/1553085103639-4ff63932-11c1-42e3-80f6-0b308dc582a4.png#align=left&amp;display=inline&amp;height=184&amp;name=image.png&amp;originHeight=276&amp;originWidth=444&amp;size=32915&amp;status=done&amp;width=296" alt="image.png" width="273" height="170" style="width: 273px; height: 170px;"/>
       
     </p>
     <p>
@@ -12138,7 +12153,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1926766944" CREATED="1754213378466" MODIFIED="1754214300483" LINK="https://getquicker.net/KC/Manual/Doc/switch-profile"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1926766944" CREATED="1754213378466" MODIFIED="1754214300483" LINK="https://getquicker.net/KC/Manual/Doc/switch-profile"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12164,7 +12179,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1589228252" CREATED="1754214300483" MODIFIED="1754215383675"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1589228252" CREATED="1754214300483" MODIFIED="1754215383675"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12240,7 +12255,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1415928820" CREATED="1754213378468" MODIFIED="1754214300504" LINK="https://getquicker.net/KC/Manual/Doc/set-action-icon"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1415928820" CREATED="1754213378468" MODIFIED="1754214300504" LINK="https://getquicker.net/KC/Manual/Doc/set-action-icon"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12440,7 +12455,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1568656354" CREATED="1754213378469" MODIFIED="1754214300490" LINK="https://getquicker.net/KC/Manual/Doc/svg-icon"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1568656354" CREATED="1754213378469" MODIFIED="1754214300490" LINK="https://getquicker.net/KC/Manual/Doc/svg-icon"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12643,7 +12658,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1010795535" CREATED="1754213378471" MODIFIED="1754213378472" LINK="https://getquicker.net/KC/Manual/Doc/additionalfunctions"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1010795535" CREATED="1754213378471" MODIFIED="1754213378472" LINK="https://getquicker.net/KC/Manual/Doc/additionalfunctions"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12656,7 +12671,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1570773478" CREATED="1754213378473" MODIFIED="1754213378473"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1570773478" CREATED="1754213378473" MODIFIED="1754213378473"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12669,7 +12684,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_367869563" CREATED="1754213378475" MODIFIED="1754529986475" LINK="https://getquicker.net/KC/Manual/Doc/circle-menu"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_367869563" CREATED="1754213378475" MODIFIED="1754529986475" LINK="https://getquicker.net/KC/Manual/Doc/circle-menu"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12723,7 +12738,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1775098707" CREATED="1754214362989" MODIFIED="1754215383681"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1775098707" CREATED="1754214362989" MODIFIED="1754215383681"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12849,7 +12864,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1925932321" CREATED="1754214363001" MODIFIED="1754215383683"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1925932321" CREATED="1754214363001" MODIFIED="1754215383683"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -12982,7 +12997,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1120849522" CREATED="1754214363010" MODIFIED="1754215383685"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1120849522" CREATED="1754214363010" MODIFIED="1754215383685"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13039,7 +13054,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_675862518" CREATED="1754214363014" MODIFIED="1754215383686"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_675862518" CREATED="1754214363014" MODIFIED="1754215383686"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13094,7 +13109,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1482458345" CREATED="1754214363019" MODIFIED="1754465447796"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1482458345" CREATED="1754214363019" MODIFIED="1754465447796"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13328,7 +13343,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1000121589" CREATED="1754214363024" MODIFIED="1754215383687"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1000121589" CREATED="1754214363024" MODIFIED="1754215383687"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -13718,7 +13733,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_579557434" CREATED="1754214363038" MODIFIED="1754215383690"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_579557434" CREATED="1754214363038" MODIFIED="1754215383690"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14007,7 +14022,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_634050915" CREATED="1754213378477" MODIFIED="1754214362938" LINK="https://getquicker.net/KC/Manual/Doc/settings-circlemenusettingpage"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_634050915" CREATED="1754213378477" MODIFIED="1754214362938" LINK="https://getquicker.net/KC/Manual/Doc/settings-circlemenusettingpage"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14098,7 +14113,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_400859279" CREATED="1754214362944" MODIFIED="1754215383693"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_400859279" CREATED="1754214362944" MODIFIED="1754215383693"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14280,7 +14295,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1262654587" CREATED="1754213378480" MODIFIED="1754214362951" LINK="https://getquicker.net/KC/Manual/Doc/quick-actions"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1262654587" CREATED="1754213378480" MODIFIED="1754214362951" LINK="https://getquicker.net/KC/Manual/Doc/quick-actions"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14536,7 +14551,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1164520892" CREATED="1754214362955" MODIFIED="1754215383695"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1164520892" CREATED="1754214362955" MODIFIED="1754215383695"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -14848,7 +14863,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1391579668" CREATED="1754213378482" MODIFIED="1754214363077" LINK="https://getquicker.net/KC/Manual/Doc/gestures"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1391579668" CREATED="1754213378482" MODIFIED="1754214363077" LINK="https://getquicker.net/KC/Manual/Doc/gestures"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15041,7 +15056,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_6301880" CREATED="1754214363083" MODIFIED="1754215383700"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_6301880" CREATED="1754214363083" MODIFIED="1754215383700"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15054,7 +15069,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_879213916" CREATED="1754214363085" MODIFIED="1754215383700"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_879213916" CREATED="1754214363085" MODIFIED="1754215383700"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15410,7 +15425,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_844081784" CREATED="1754214363100" MODIFIED="1754215383704"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_844081784" CREATED="1754214363100" MODIFIED="1754215383704"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15508,7 +15523,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1750344945" CREATED="1754214363106" MODIFIED="1754530304709" VGAP_QUANTITY="2 pt" COMMON_HGAP_QUANTITY="20 pt"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1750344945" CREATED="1754214363106" MODIFIED="1754530304709" VGAP_QUANTITY="2 pt" COMMON_HGAP_QUANTITY="20 pt"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15697,7 +15712,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1046419524" CREATED="1754214363116" MODIFIED="1754215383707"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1046419524" CREATED="1754214363116" MODIFIED="1754215383707"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -15865,7 +15880,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1922271986" CREATED="1754214363122" MODIFIED="1754215383709"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1922271986" CREATED="1754214363122" MODIFIED="1754215383709"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16107,7 +16122,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1681715199" CREATED="1754214363132" MODIFIED="1754215383711"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1681715199" CREATED="1754214363132" MODIFIED="1754215383711"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16336,7 +16351,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1276801020" CREATED="1754213378488" MODIFIED="1754213378488"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1276801020" CREATED="1754213378488" MODIFIED="1754213378488"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16349,7 +16364,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1022754044" CREATED="1754213378489" MODIFIED="1754214363143" LINK="https://getquicker.net/KC/Manual/Doc/floating-button"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1022754044" CREATED="1754213378489" MODIFIED="1754214363143" LINK="https://getquicker.net/KC/Manual/Doc/floating-button"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16384,7 +16399,7 @@ div.tag, div.details, div.note {
 </span>    </p>
   </body>
 </html></richcontent>
-<node ID="ID_820407044" CREATED="1754214363144" MODIFIED="1754214363144"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_820407044" CREATED="1754214363144" MODIFIED="1754214363144"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16620,7 +16635,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1129970674" CREATED="1754213378491" MODIFIED="1754214363158" LINK="https://getquicker.net/KC/Manual/Doc/floating-page"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1129970674" CREATED="1754213378491" MODIFIED="1754214363158" LINK="https://getquicker.net/KC/Manual/Doc/floating-page"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16675,7 +16690,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_17460204" CREATED="1754214363160" MODIFIED="1754214363160"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_17460204" CREATED="1754214363160" MODIFIED="1754214363160"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16861,7 +16876,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1161786366" CREATED="1754213378493" MODIFIED="1754214363172" LINK="https://getquicker.net/KC/Manual/Doc/text-select-float-panel"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1161786366" CREATED="1754213378493" MODIFIED="1754214363172" LINK="https://getquicker.net/KC/Manual/Doc/text-select-float-panel"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -16905,7 +16920,7 @@ div.tag, div.details, div.note {
     此处为语雀视频卡片，点击链接查看：&#xa0;<a href="https://www.yuque.com/quicker/manual/text-select-float-panel#lPxx4">文本悬浮窗.mp4</a>
   </body>
 </html></richcontent>
-<node ID="ID_1038684853" CREATED="1754214363172" MODIFIED="1754215383714"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1038684853" CREATED="1754214363172" MODIFIED="1754215383714"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17041,7 +17056,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1537995040" CREATED="1754214363180" MODIFIED="1754215383716"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1537995040" CREATED="1754214363180" MODIFIED="1754215383716"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17260,7 +17275,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1101650662" CREATED="1754213378496" MODIFIED="1754214363194" LINK="https://getquicker.net/KC/Manual/Doc/float-trigger"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1101650662" CREATED="1754213378496" MODIFIED="1754214363194" LINK="https://getquicker.net/KC/Manual/Doc/float-trigger"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17295,7 +17310,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1614053963" CREATED="1754214363195" MODIFIED="1754214363195"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1614053963" CREATED="1754214363195" MODIFIED="1754214363195"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17456,7 +17471,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1629702093" CREATED="1754213378499" MODIFIED="1754214363205" LINK="https://getquicker.net/KC/Manual/Doc/quick-shot"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1629702093" CREATED="1754213378499" MODIFIED="1754214363205" LINK="https://getquicker.net/KC/Manual/Doc/quick-shot"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17623,7 +17638,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_150966096" CREATED="1754214363211" MODIFIED="1754215383720"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_150966096" CREATED="1754214363211" MODIFIED="1754215383720"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17753,7 +17768,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_823193078" CREATED="1754213378505" MODIFIED="1754213378505"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_823193078" CREATED="1754213378505" MODIFIED="1754213378505"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17766,7 +17781,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_846475180" CREATED="1754213378507" MODIFIED="1754214363219" LINK="https://getquicker.net/KC/Manual/Doc/action-hotkey"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_846475180" CREATED="1754213378507" MODIFIED="1754214363219" LINK="https://getquicker.net/KC/Manual/Doc/action-hotkey"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17924,7 +17939,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1284709864" CREATED="1754213378514" MODIFIED="1754214363264" LINK="https://getquicker.net/KC/Manual/Doc/searching"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1284709864" CREATED="1754213378514" MODIFIED="1754214363264" LINK="https://getquicker.net/KC/Manual/Doc/searching"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -17956,7 +17971,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_416220610" CREATED="1754214363265" MODIFIED="1754215383722"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_416220610" CREATED="1754214363265" MODIFIED="1754215383722"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18642,7 +18657,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1994962" CREATED="1754214363280" MODIFIED="1754215383726"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1994962" CREATED="1754214363280" MODIFIED="1754215383726"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18655,7 +18670,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1452102540" CREATED="1754214363282" MODIFIED="1754215383726"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1452102540" CREATED="1754214363282" MODIFIED="1754215383726"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -18942,7 +18957,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1782442118" CREATED="1754214363296" MODIFIED="1754215383730"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1782442118" CREATED="1754214363296" MODIFIED="1754215383730"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19018,7 +19033,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_912320261" CREATED="1754214363300" MODIFIED="1754215383731"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_912320261" CREATED="1754214363300" MODIFIED="1754215383731"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19308,7 +19323,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1815235069" CREATED="1754213378516" MODIFIED="1754214363226" LINK="https://getquicker.net/KC/Manual/Doc/settings-searchsettings"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1815235069" CREATED="1754213378516" MODIFIED="1754214363226" LINK="https://getquicker.net/KC/Manual/Doc/settings-searchsettings"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19353,7 +19368,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1987835374" CREATED="1754214363227" MODIFIED="1754215383734"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1987835374" CREATED="1754214363227" MODIFIED="1754215383734"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19563,7 +19578,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1791029701" CREATED="1754214363238" MODIFIED="1754215383737"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1791029701" CREATED="1754214363238" MODIFIED="1754215383737"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19632,7 +19647,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_240315749" CREATED="1754214363242" MODIFIED="1754215383738"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_240315749" CREATED="1754214363242" MODIFIED="1754215383738"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -19979,7 +19994,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_512698075" CREATED="1754214363255" MODIFIED="1754215383741"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_512698075" CREATED="1754214363255" MODIFIED="1754215383741"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20155,7 +20170,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_865954379" CREATED="1754213378518" MODIFIED="1754214363335" LINK="https://getquicker.net/KC/Manual/Doc/powerkeys"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_865954379" CREATED="1754213378518" MODIFIED="1754214363335" LINK="https://getquicker.net/KC/Manual/Doc/powerkeys"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20283,7 +20298,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_333903676" CREATED="1754214363338" MODIFIED="1754215383743"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_333903676" CREATED="1754214363338" MODIFIED="1754215383743"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20428,7 +20443,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_951357642" CREATED="1754214363343" MODIFIED="1754215383744"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_951357642" CREATED="1754214363343" MODIFIED="1754215383744"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20733,7 +20748,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1803959310" CREATED="1754214363358" MODIFIED="1754215383748"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1803959310" CREATED="1754214363358" MODIFIED="1754215383748"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -20868,7 +20883,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_672046446" CREATED="1754214363362" MODIFIED="1754215383749"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_672046446" CREATED="1754214363362" MODIFIED="1754215383749"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21111,7 +21126,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_719657463" CREATED="1754213378526" MODIFIED="1754214363381" LINK="https://getquicker.net/KC/Manual/Doc/textcommand"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_719657463" CREATED="1754213378526" MODIFIED="1754214363381" LINK="https://getquicker.net/KC/Manual/Doc/textcommand"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21203,7 +21218,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1498652451" CREATED="1754214363385" MODIFIED="1754215383752"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1498652451" CREATED="1754214363385" MODIFIED="1754215383752"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21279,7 +21294,7 @@ div.tag, div.details, div.note {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1448620275" CREATED="1754214363388" MODIFIED="1754215383752"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1448620275" CREATED="1754214363388" MODIFIED="1754215383752"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21571,7 +21586,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1227195706" CREATED="1754214363402" MODIFIED="1754215383754"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1227195706" CREATED="1754214363402" MODIFIED="1754215383754"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21717,7 +21732,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1550294688" CREATED="1754214363411" MODIFIED="1754215383756"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1550294688" CREATED="1754214363411" MODIFIED="1754215383756"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -21839,7 +21854,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_324025598" CREATED="1754213378532" MODIFIED="1754214363419" LINK="https://getquicker.net/KC/Manual/Doc/settings-keyactionmanagepage"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_324025598" CREATED="1754213378532" MODIFIED="1754214363419" LINK="https://getquicker.net/KC/Manual/Doc/settings-keyactionmanagepage"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22025,7 +22040,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1930015310" CREATED="1754213378534" MODIFIED="1754214363430" LINK="https://getquicker.net/KC/Manual/Doc/settings-hotkeywatchersettingspage"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1930015310" CREATED="1754213378534" MODIFIED="1754214363430" LINK="https://getquicker.net/KC/Manual/Doc/settings-hotkeywatchersettingspage"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22128,7 +22143,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_1287205013" CREATED="1754213378537" MODIFIED="1754213378537"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1287205013" CREATED="1754213378537" MODIFIED="1754213378537"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22141,7 +22156,7 @@ div.tag, div.details, div.note {
   </body>
 </html>
 </richcontent>
-<node ID="ID_859913593" CREATED="1754213378539" MODIFIED="1754214421660" LINK="https://getquicker.net/KC/Manual/Doc/leftbuttonplus"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_859913593" CREATED="1754213378539" MODIFIED="1754214421660" LINK="https://getquicker.net/KC/Manual/Doc/leftbuttonplus"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22293,7 +22308,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1862665933" CREATED="1754214421666" MODIFIED="1754215383761"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1862665933" CREATED="1754214421666" MODIFIED="1754215383761"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22402,7 +22417,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_620016891" CREATED="1754214421672" MODIFIED="1754215383762"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_620016891" CREATED="1754214421672" MODIFIED="1754215383762"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22558,7 +22573,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_155209282" CREATED="1754214421689" MODIFIED="1754215383764"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_155209282" CREATED="1754214421689" MODIFIED="1754215383764"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22692,7 +22707,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1034232987" CREATED="1754213378546" MODIFIED="1754214430387" LINK="https://getquicker.net/KC/Manual/Doc/adv-mouse-actions"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1034232987" CREATED="1754213378546" MODIFIED="1754214430387" LINK="https://getquicker.net/KC/Manual/Doc/adv-mouse-actions"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -22756,7 +22771,7 @@ div.tag, div.details, div.note {
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1622223455" CREATED="1754214430388" MODIFIED="1754215383765"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1622223455" CREATED="1754214430388" MODIFIED="1754215383765"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23144,7 +23159,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_711786154" CREATED="1754213378554" MODIFIED="1754469641673" LINK="https://getquicker.net/KC/Manual/Doc/content-contextmenu"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_711786154" CREATED="1754213378554" MODIFIED="1754469641673" LINK="https://getquicker.net/KC/Manual/Doc/content-contextmenu"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23218,7 +23233,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1044262560" CREATED="1754214550266" MODIFIED="1754215383769"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1044262560" CREATED="1754214550266" MODIFIED="1754215383769"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23263,7 +23278,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1984352448" CREATED="1754214550270" MODIFIED="1754215383770"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1984352448" CREATED="1754214550270" MODIFIED="1754215383770"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23352,7 +23367,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_511059231" CREATED="1754214550281" MODIFIED="1754215383772"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_511059231" CREATED="1754214550281" MODIFIED="1754215383772"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23433,7 +23448,7 @@ div.tag, div.details, div.note {
 </node>
 </node>
 </node>
-<node ID="ID_474820976" CREATED="1754214550289" MODIFIED="1754215383773"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_474820976" CREATED="1754214550289" MODIFIED="1754215383773"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23638,7 +23653,7 @@ div.tag, div.details, div.note {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_293269335" CREATED="1754213378558" MODIFIED="1754465591807" LINK="https://getquicker.net/KC/Manual/Doc/settings-textcontextmenusettings"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_293269335" CREATED="1754213378558" MODIFIED="1754465591807" LINK="https://getquicker.net/KC/Manual/Doc/settings-textcontextmenusettings"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -23887,7 +23902,7 @@ div.tag, div.details, div.note {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_500923199" CREATED="1754213378560" MODIFIED="1754465596429" LINK="https://getquicker.net/KC/Manual/Doc/settings-imagecontextmenusettings"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_500923199" CREATED="1754213378560" MODIFIED="1754465596429" LINK="https://getquicker.net/KC/Manual/Doc/settings-imagecontextmenusettings"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24029,7 +24044,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_416382970" CREATED="1754465596445" MODIFIED="1754465608743"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_416382970" CREATED="1754465596445" MODIFIED="1754465608743"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24112,7 +24127,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </node>
 </node>
 </node>
-<node ID="ID_1147834777" CREATED="1754213378564" MODIFIED="1754465602575" LINK="https://getquicker.net/KC/Manual/Doc/settings-filecontextmenusettings"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1147834777" CREATED="1754213378564" MODIFIED="1754465602575" LINK="https://getquicker.net/KC/Manual/Doc/settings-filecontextmenusettings"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24317,7 +24332,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </node>
 </node>
 </node>
-<node ID="ID_228558807" CREATED="1754213378566" MODIFIED="1754214592063" LINK="https://getquicker.net/KC/Manual/Doc/settings-autorunactions"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_228558807" CREATED="1754213378566" MODIFIED="1754214592063" LINK="https://getquicker.net/KC/Manual/Doc/settings-autorunactions"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24507,7 +24522,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1278131517" CREATED="1754213378569" MODIFIED="1754214592078" LINK="https://getquicker.net/KC/Manual/Doc/event-triggers"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1278131517" CREATED="1754213378569" MODIFIED="1754214592078" LINK="https://getquicker.net/KC/Manual/Doc/event-triggers"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24550,7 +24565,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_287686227" CREATED="1754214592079" MODIFIED="1754215383777"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_287686227" CREATED="1754214592079" MODIFIED="1754215383777"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24725,7 +24740,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1435775142" CREATED="1754214592089" MODIFIED="1754215383779"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1435775142" CREATED="1754214592089" MODIFIED="1754215383779"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24738,7 +24753,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
   </body>
 </html>
 </richcontent>
-<node ID="ID_1982383066" CREATED="1754214592091" MODIFIED="1754215383780"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1982383066" CREATED="1754214592091" MODIFIED="1754215383780"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24873,7 +24888,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1271295343" CREATED="1754214592102" MODIFIED="1754215383781"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1271295343" CREATED="1754214592102" MODIFIED="1754215383781"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -24947,7 +24962,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_395623055" CREATED="1754214592108" MODIFIED="1754215383783"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_395623055" CREATED="1754214592108" MODIFIED="1754215383783"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25088,7 +25103,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1090489369" CREATED="1754214592115" MODIFIED="1754215383784"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1090489369" CREATED="1754214592115" MODIFIED="1754215383784"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25356,7 +25371,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1790926743" CREATED="1754214592137" MODIFIED="1754215383788"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1790926743" CREATED="1754214592137" MODIFIED="1754215383788"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25424,7 +25439,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1248133089" CREATED="1754214592140" MODIFIED="1754215383789"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1248133089" CREATED="1754214592140" MODIFIED="1754215383789"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25531,7 +25546,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1580778690" CREATED="1754214592144" MODIFIED="1754215383790"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1580778690" CREATED="1754214592144" MODIFIED="1754215383790"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25611,7 +25626,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1648775494" CREATED="1754214592147" MODIFIED="1754215383791"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1648775494" CREATED="1754214592147" MODIFIED="1754215383791"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -25681,7 +25696,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1251814569" CREATED="1754214592150" MODIFIED="1754215383792"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1251814569" CREATED="1754214592150" MODIFIED="1754215383792"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26348,7 +26363,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_685303091" CREATED="1754214592169" MODIFIED="1754215383795"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_685303091" CREATED="1754214592169" MODIFIED="1754215383795"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26563,7 +26578,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1188548296" CREATED="1754213378571" MODIFIED="1754214592181" LINK="https://getquicker.net/KC/Manual/Doc/quicker-starter"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1188548296" CREATED="1754213378571" MODIFIED="1754214592181" LINK="https://getquicker.net/KC/Manual/Doc/quicker-starter"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26661,7 +26676,7 @@ Ascii2D|https://ascii2d.net/search/url/%s
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_614592230" CREATED="1754214592185" MODIFIED="1754215383798"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_614592230" CREATED="1754214592185" MODIFIED="1754215383798"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -26941,7 +26956,7 @@ process.execute(&quot;C:\Program Files\Quicker\QuickerStarter.exe&quot;,&quot;ru
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1624746051" CREATED="1754214592199" MODIFIED="1754215383802"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1624746051" CREATED="1754214592199" MODIFIED="1754215383802"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27205,7 +27220,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1873641553" CREATED="1754213378573" MODIFIED="1754214592222" LINK="https://getquicker.net/KC/Manual/Doc/connection"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1873641553" CREATED="1754213378573" MODIFIED="1754214592222" LINK="https://getquicker.net/KC/Manual/Doc/connection"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27227,7 +27242,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
     因软件更新较快，部分文档内容与软件最新版本有所出入，请知悉。
   </body>
 </html></richcontent>
-<node ID="ID_397481481" CREATED="1754214592223" MODIFIED="1754215383806"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_397481481" CREATED="1754214592223" MODIFIED="1754215383806"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27293,7 +27308,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
     </ol>
   </body>
 </html></richcontent>
-<node ID="ID_696049751" CREATED="1754214592225" MODIFIED="1754215383807"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_696049751" CREATED="1754214592225" MODIFIED="1754215383807"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27416,7 +27431,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_315810469" CREATED="1754214592233" MODIFIED="1754215383809"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_315810469" CREATED="1754214592233" MODIFIED="1754215383809"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27429,7 +27444,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
   </body>
 </html>
 </richcontent>
-<node ID="ID_437804894" CREATED="1754214592234" MODIFIED="1754215383809"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_437804894" CREATED="1754214592234" MODIFIED="1754215383809"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27767,7 +27782,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_280105662" CREATED="1754214592247" MODIFIED="1754215383812"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_280105662" CREATED="1754214592247" MODIFIED="1754215383812"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27953,7 +27968,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_767403298" CREATED="1754214592254" MODIFIED="1754215383814"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_767403298" CREATED="1754214592254" MODIFIED="1754215383814"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -27992,7 +28007,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_914283978" CREATED="1754214592256" MODIFIED="1754215383815"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_914283978" CREATED="1754214592256" MODIFIED="1754215383815"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28100,7 +28115,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1133487392" CREATED="1754213378575" MODIFIED="1754214592263" LINK="https://getquicker.net/KC/Manual/Doc/websocketservice"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1133487392" CREATED="1754213378575" MODIFIED="1754214592263" LINK="https://getquicker.net/KC/Manual/Doc/websocketservice"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28168,7 +28183,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1496891118" CREATED="1754214592265" MODIFIED="1754215383816"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1496891118" CREATED="1754214592265" MODIFIED="1754215383816"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28260,7 +28275,7 @@ os.system(&quot;start quicker:runaction:25d718df-0f37-43ae-9fac-58fca1888113?参
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_519837508" CREATED="1754214592269" MODIFIED="1754215383817"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_519837508" CREATED="1754214592269" MODIFIED="1754215383817"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28535,7 +28550,7 @@ socket.addEventListener('open', function(event) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_325949236" CREATED="1754214592278" MODIFIED="1754215383819"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_325949236" CREATED="1754214592278" MODIFIED="1754215383819"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -28816,7 +28831,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_257250403" CREATED="1754213378576" MODIFIED="1754494708216" LINK="https://getquicker.net/KC/Manual/Doc/mobile-app"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_257250403" CREATED="1754213378576" MODIFIED="1754494708216" LINK="https://getquicker.net/KC/Manual/Doc/mobile-app"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29155,7 +29170,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1226920441" CREATED="1754213378581" MODIFIED="1754213378581"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1226920441" CREATED="1754213378581" MODIFIED="1754213378581"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29512,7 +29527,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_1182606784" CREATED="1754213378592" MODIFIED="1754213378592"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1182606784" CREATED="1754213378592" MODIFIED="1754213378592"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29525,7 +29540,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1458977349" CREATED="1754213378594" MODIFIED="1754213378594"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1458977349" CREATED="1754213378594" MODIFIED="1754213378594"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -29538,7 +29553,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1455833122" CREATED="1754213378595" MODIFIED="1754214661222" LINK="https://getquicker.net/KC/Manual/Doc/faq"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1455833122" CREATED="1754213378595" MODIFIED="1754214661222" LINK="https://getquicker.net/KC/Manual/Doc/faq"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30033,7 +30048,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1810734493" CREATED="1754213378604" MODIFIED="1754214670892" LINK="https://getquicker.net/KC/Manual/Doc/cannot_open_panel"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1810734493" CREATED="1754213378604" MODIFIED="1754214670892" LINK="https://getquicker.net/KC/Manual/Doc/cannot_open_panel"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30083,7 +30098,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1130172770" CREATED="1754214670897" MODIFIED="1754214670900"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1130172770" CREATED="1754214670897" MODIFIED="1754214670900"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30180,7 +30195,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1347552131" CREATED="1754214670904" MODIFIED="1754214670904"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1347552131" CREATED="1754214670904" MODIFIED="1754214670904"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30312,7 +30327,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_1064859115" CREATED="1754213378606" MODIFIED="1754214689027" LINK="https://getquicker.net/KC/Manual/Doc/cannot_get_selected_text"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1064859115" CREATED="1754213378606" MODIFIED="1754214689027" LINK="https://getquicker.net/KC/Manual/Doc/cannot_get_selected_text"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30334,7 +30349,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     因软件更新较快，部分文档内容与软件最新版本有所出入，请知悉。
   </body>
 </html></richcontent>
-<node ID="ID_906409276" CREATED="1754214689028" MODIFIED="1754215383821"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_906409276" CREATED="1754214689028" MODIFIED="1754215383821"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30360,7 +30375,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </richcontent>
 </node>
 </node>
-<node ID="ID_867616058" CREATED="1754214689031" MODIFIED="1754215383822"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_867616058" CREATED="1754214689031" MODIFIED="1754215383822"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30602,7 +30617,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1794021232" CREATED="1754214689057" MODIFIED="1754215383826"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1794021232" CREATED="1754214689057" MODIFIED="1754215383826"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30673,7 +30688,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_100016176" CREATED="1754213378607" MODIFIED="1754214707842" LINK="https://getquicker.net/KC/Manual/Doc/menu-left-problem"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_100016176" CREATED="1754213378607" MODIFIED="1754214707842" LINK="https://getquicker.net/KC/Manual/Doc/menu-left-problem"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30757,7 +30772,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_311957545" CREATED="1754213378609" MODIFIED="1754214728693" LINK="https://getquicker.net/KC/Manual/Doc/error_0x80072ee4"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_311957545" CREATED="1754213378609" MODIFIED="1754214728693" LINK="https://getquicker.net/KC/Manual/Doc/error_0x80072ee4"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30789,7 +30804,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_113688806" CREATED="1754214728695" MODIFIED="1754214732026"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_113688806" CREATED="1754214728695" MODIFIED="1754214732026"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -30815,7 +30830,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </richcontent>
 </node>
 </node>
-<node ID="ID_416603663" CREATED="1754214728698" MODIFIED="1754214728701"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_416603663" CREATED="1754214728698" MODIFIED="1754214728701"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31098,7 +31113,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1121596492" CREATED="1754213378612" MODIFIED="1754214744832" LINK="https://getquicker.net/KC/Manual/Doc/getquicker_net"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1121596492" CREATED="1754213378612" MODIFIED="1754214744832" LINK="https://getquicker.net/KC/Manual/Doc/getquicker_net"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31441,7 +31456,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_418899133" CREATED="1754213378618" MODIFIED="1754214749291" LINK="https://getquicker.net/KC/Manual/Doc/links"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_418899133" CREATED="1754213378618" MODIFIED="1754214749291" LINK="https://getquicker.net/KC/Manual/Doc/links"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31463,7 +31478,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     因软件更新较快，部分文档内容与软件最新版本有所出入，请知悉。
   </body>
 </html></richcontent>
-<node ID="ID_1094176037" CREATED="1754214749292" MODIFIED="1754215383827" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1094176037" CREATED="1754214749292" MODIFIED="1754215383827" MAX_WIDTH="800 px"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31578,7 +31593,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_446332593" CREATED="1754213378619" MODIFIED="1754214786832" LINK="https://getquicker.net/KC/Manual/Doc/quick-operations"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_446332593" CREATED="1754213378619" MODIFIED="1754214786832" LINK="https://getquicker.net/KC/Manual/Doc/quick-operations"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31604,7 +31619,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_75963824" CREATED="1754214786833" MODIFIED="1754214786835"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_75963824" CREATED="1754214786833" MODIFIED="1754214786835"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31722,7 +31737,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_747462258" CREATED="1754214786841" MODIFIED="1754214786843"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_747462258" CREATED="1754214786841" MODIFIED="1754214786843"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31853,7 +31868,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1484964187" CREATED="1754213378621" MODIFIED="1754214791648" LINK="https://getquicker.net/KC/Manual/Doc/userpoints"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1484964187" CREATED="1754213378621" MODIFIED="1754214791648" LINK="https://getquicker.net/KC/Manual/Doc/userpoints"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -31890,7 +31905,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1188241897" CREATED="1754214791650" MODIFIED="1754215383831"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1188241897" CREATED="1754214791650" MODIFIED="1754215383831"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32041,7 +32056,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1886257714" CREATED="1754214791655" MODIFIED="1754215383833"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1886257714" CREATED="1754214791655" MODIFIED="1754215383833"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32215,7 +32230,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 <node TEXT="组合动作开发参考" ID="ID_1587767028" CREATED="1754227278685" MODIFIED="1754227287918" LINK="https://getquicker.net/KC/Help">
-<node ID="ID_1656583371" CREATED="1754227287933" MODIFIED="1754227535216" LINK="https://getquicker.net/KC/Help/Doc/how-to-learn"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1656583371" CREATED="1754227287933" MODIFIED="1754227535216" LINK="https://getquicker.net/KC/Help/Doc/how-to-learn"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32329,7 +32344,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1819914614" CREATED="1754227287933" MODIFIED="1754227538137" LINK="https://getquicker.net/KC/Help/Doc/xaction-intro"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1819914614" CREATED="1754227287933" MODIFIED="1754227538137" LINK="https://getquicker.net/KC/Help/Doc/xaction-intro"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32435,7 +32450,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_282982890" CREATED="1754227287933" MODIFIED="1754227550038" LINK="https://getquicker.net/KC/Help/Doc/helloworld"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_282982890" CREATED="1754227287933" MODIFIED="1754227550038" LINK="https://getquicker.net/KC/Help/Doc/helloworld"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32776,7 +32791,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1114053154" CREATED="1754227287949" MODIFIED="1754227550079" LINK="https://getquicker.net/KC/Help/Doc/xaction-editor"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1114053154" CREATED="1754227287949" MODIFIED="1754227550079" LINK="https://getquicker.net/KC/Help/Doc/xaction-editor"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32846,7 +32861,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1949626918" CREATED="1754227550084" MODIFIED="1754229769190"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1949626918" CREATED="1754227550084" MODIFIED="1754229769190"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -32982,7 +32997,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1167850358" CREATED="1754227550100" MODIFIED="1754229769193"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1167850358" CREATED="1754227550100" MODIFIED="1754229769193"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33145,7 +33160,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1722356377" CREATED="1754227550114" MODIFIED="1754229769196"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1722356377" CREATED="1754227550114" MODIFIED="1754229769196"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33429,7 +33444,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_990272908" CREATED="1754227550146" MODIFIED="1754229769199"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_990272908" CREATED="1754227550146" MODIFIED="1754229769199"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -33707,7 +33722,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_48308581" CREATED="1754227550169" MODIFIED="1754229769204"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_48308581" CREATED="1754227550169" MODIFIED="1754229769204"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34097,7 +34112,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_892880291" CREATED="1754227287953" MODIFIED="1754227550200" LINK="https://getquicker.net/KC/Help/Doc/basic"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_892880291" CREATED="1754227287953" MODIFIED="1754227550200" LINK="https://getquicker.net/KC/Help/Doc/basic"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34141,7 +34156,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1363505692" CREATED="1754227550200" MODIFIED="1754229769209"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1363505692" CREATED="1754227550200" MODIFIED="1754229769209"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34311,7 +34326,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1911386805" CREATED="1754227287953" MODIFIED="1754227550442" LINK="https://getquicker.net/KC/Help/Doc/edit-step-param"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1911386805" CREATED="1754227287953" MODIFIED="1754227550442" LINK="https://getquicker.net/KC/Help/Doc/edit-step-param"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34370,7 +34385,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_1449321077" CREATED="1754227287953" MODIFIED="1754227550219" LINK="https://getquicker.net/KC/Help/Doc/variables"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1449321077" CREATED="1754227287953" MODIFIED="1754227550219" LINK="https://getquicker.net/KC/Help/Doc/variables"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34383,7 +34398,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_485434201" CREATED="1754227550219" MODIFIED="1754229769214"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_485434201" CREATED="1754227550219" MODIFIED="1754229769214"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34483,7 +34498,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1622491798" CREATED="1754227550234" MODIFIED="1754229769214"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1622491798" CREATED="1754227550234" MODIFIED="1754229769214"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34554,7 +34569,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_965843892" CREATED="1754227550234" MODIFIED="1754229769216"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_965843892" CREATED="1754227550234" MODIFIED="1754229769216"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -34632,7 +34647,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1416295337" CREATED="1754227550234" MODIFIED="1754229769216"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1416295337" CREATED="1754227550234" MODIFIED="1754229769216"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35038,7 +35053,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_361876208" CREATED="1754227287969" MODIFIED="1754227550458" LINK="https://getquicker.net/KC/Help/Doc/var-dict"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_361876208" CREATED="1754227287969" MODIFIED="1754227550458" LINK="https://getquicker.net/KC/Help/Doc/var-dict"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35074,7 +35089,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1226146173" CREATED="1754227550458" MODIFIED="1754229769216"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1226146173" CREATED="1754227550458" MODIFIED="1754229769216"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35137,7 +35152,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_580002512" CREATED="1754227550458" MODIFIED="1754229769221"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_580002512" CREATED="1754227550458" MODIFIED="1754229769221"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35212,7 +35227,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_534951829" CREATED="1754227287970" MODIFIED="1754227550458" LINK="https://getquicker.net/KC/Help/Doc/var-list"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_534951829" CREATED="1754227287970" MODIFIED="1754227550458" LINK="https://getquicker.net/KC/Help/Doc/var-list"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35274,7 +35289,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_712531879" CREATED="1754227550474" MODIFIED="1754229769221"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_712531879" CREATED="1754227550474" MODIFIED="1754229769221"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35483,7 +35498,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_462609041" CREATED="1754227287970" MODIFIED="1754227550490" LINK="https://getquicker.net/KC/Help/Doc/tablevar"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_462609041" CREATED="1754227287970" MODIFIED="1754227550490" LINK="https://getquicker.net/KC/Help/Doc/tablevar"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35537,7 +35552,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1374982376" CREATED="1754227550490" MODIFIED="1754229769226"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1374982376" CREATED="1754227550490" MODIFIED="1754229769226"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35647,7 +35662,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1177709407" CREATED="1754227550490" MODIFIED="1754229769226"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1177709407" CREATED="1754227550490" MODIFIED="1754229769226"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35831,7 +35846,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_778788314" CREATED="1754227287970" MODIFIED="1754227550266" LINK="https://getquicker.net/KC/Help/Doc/parameters"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_778788314" CREATED="1754227287970" MODIFIED="1754227550266" LINK="https://getquicker.net/KC/Help/Doc/parameters"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -35865,7 +35880,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </span>    </p>
   </body>
 </html></richcontent>
-<node ID="ID_1003110365" CREATED="1754227550266" MODIFIED="1754227550266"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1003110365" CREATED="1754227550266" MODIFIED="1754227550266"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36000,7 +36015,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1129000324" CREATED="1754227287970" MODIFIED="1754227550266" LINK="https://getquicker.net/KC/Help/Doc/interpolation"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1129000324" CREATED="1754227287970" MODIFIED="1754227550266" LINK="https://getquicker.net/KC/Help/Doc/interpolation"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36013,7 +36028,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1654136706" CREATED="1754227550266" MODIFIED="1754229769226"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1654136706" CREATED="1754227550266" MODIFIED="1754229769226"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36256,7 +36271,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_748263934" CREATED="1754227287983" MODIFIED="1754227550282" LINK="https://getquicker.net/KC/Help/Doc/expression"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_748263934" CREATED="1754227287983" MODIFIED="1754227550282" LINK="https://getquicker.net/KC/Help/Doc/expression"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36318,7 +36333,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_136724470" CREATED="1754227550298" MODIFIED="1754229769231"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_136724470" CREATED="1754227550298" MODIFIED="1754229769231"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36359,7 +36374,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1834863005" CREATED="1754227550298" MODIFIED="1754229769231"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1834863005" CREATED="1754227550298" MODIFIED="1754229769231"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36758,7 +36773,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_449528491" CREATED="1754227550313" MODIFIED="1754229769236"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_449528491" CREATED="1754227550313" MODIFIED="1754229769236"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -36771,7 +36786,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1104958161" CREATED="1754227550313" MODIFIED="1754229769236"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1104958161" CREATED="1754227550313" MODIFIED="1754229769236"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -37420,7 +37435,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1743054673" CREATED="1754227550347" MODIFIED="1754229769236"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1743054673" CREATED="1754227550347" MODIFIED="1754229769236"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -38679,7 +38694,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1345258412" CREATED="1754227287983" MODIFIED="1754227550395" LINK="https://getquicker.net/KC/Help/Doc/text-process"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1345258412" CREATED="1754227287983" MODIFIED="1754227550395" LINK="https://getquicker.net/KC/Help/Doc/text-process"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -38824,7 +38839,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1562259039" CREATED="1754227287983" MODIFIED="1754227550395" LINK="https://getquicker.net/KC/Help/Doc/date-time-process"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1562259039" CREATED="1754227287983" MODIFIED="1754227550395" LINK="https://getquicker.net/KC/Help/Doc/date-time-process"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39097,7 +39112,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_994715587" CREATED="1754227287983" MODIFIED="1754227550410" LINK="https://getquicker.net/KC/Help/Doc/debug"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_994715587" CREATED="1754227287983" MODIFIED="1754227550410" LINK="https://getquicker.net/KC/Help/Doc/debug"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39139,7 +39154,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_33089509" CREATED="1754227550410" MODIFIED="1754229769246"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_33089509" CREATED="1754227550410" MODIFIED="1754229769246"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39282,7 +39297,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_546765927" CREATED="1754227550426" MODIFIED="1754229769246"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_546765927" CREATED="1754227550426" MODIFIED="1754229769246"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39366,7 +39381,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_588941305" CREATED="1754227550426" MODIFIED="1754229769251"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_588941305" CREATED="1754227550426" MODIFIED="1754229769251"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39585,7 +39600,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_35789949" CREATED="1754227550442" MODIFIED="1754229769251"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_35789949" CREATED="1754227550442" MODIFIED="1754229769251"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39704,7 +39719,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_703035781" CREATED="1754227288003" MODIFIED="1754227587470" LINK="https://getquicker.net/KC/Help/Doc/basic-blocks"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_703035781" CREATED="1754227288003" MODIFIED="1754227587470" LINK="https://getquicker.net/KC/Help/Doc/basic-blocks"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39732,7 +39747,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1649953999" CREATED="1754227288003" MODIFIED="1754227587507" LINK="https://getquicker.net/KC/Help/Doc/group"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1649953999" CREATED="1754227288003" MODIFIED="1754227587507" LINK="https://getquicker.net/KC/Help/Doc/group"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39767,7 +39782,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     此处为语雀视频卡片，点击链接查看：&#xa0;<a href="https://www.yuque.com/quicker/help/group#ooGMW">步骤组.mp4</a>
   </body>
 </html></richcontent>
-<node ID="ID_998284144" CREATED="1754227587508" MODIFIED="1754229769256"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_998284144" CREATED="1754227587508" MODIFIED="1754229769256"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39850,7 +39865,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1109415536" CREATED="1754227587515" MODIFIED="1754229769256"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1109415536" CREATED="1754227587515" MODIFIED="1754229769256"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39947,7 +39962,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_478958848" CREATED="1754227288003" MODIFIED="1754227587526" LINK="https://getquicker.net/KC/Help/Doc/waitclipboardchange"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_478958848" CREATED="1754227288003" MODIFIED="1754227587526" LINK="https://getquicker.net/KC/Help/Doc/waitclipboardchange"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -39960,7 +39975,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_190009653" CREATED="1754227587526" MODIFIED="1754227587529"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_190009653" CREATED="1754227587526" MODIFIED="1754227587529"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -40092,7 +40107,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1498072857" CREATED="1754227288003" MODIFIED="1754227587536" LINK="https://getquicker.net/KC/Help/Doc/delay"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1498072857" CREATED="1754227288003" MODIFIED="1754227587536" LINK="https://getquicker.net/KC/Help/Doc/delay"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -40250,7 +40265,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1160573232" CREATED="1754227288003" MODIFIED="1754227587539" LINK="https://getquicker.net/KC/Help/Doc/get_selected_text"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1160573232" CREATED="1754227288003" MODIFIED="1754227587539" LINK="https://getquicker.net/KC/Help/Doc/get_selected_text"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -40442,7 +40457,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1461157199" CREATED="1754227288019" MODIFIED="1754227587555" LINK="https://getquicker.net/KC/Help/Doc/sendkeys"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1461157199" CREATED="1754227288019" MODIFIED="1754227587555" LINK="https://getquicker.net/KC/Help/Doc/sendkeys"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -40455,7 +40470,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1855419183" CREATED="1754227587555" MODIFIED="1754229769261"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1855419183" CREATED="1754227587555" MODIFIED="1754229769261"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -40501,7 +40516,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1456441106" CREATED="1754227587555" MODIFIED="1754229769261"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1456441106" CREATED="1754227587555" MODIFIED="1754229769261"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41344,7 +41359,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1693128056" CREATED="1754227288019" MODIFIED="1754227587571" LINK="https://getquicker.net/KC/Help/Doc/keyinput"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1693128056" CREATED="1754227288019" MODIFIED="1754227587571" LINK="https://getquicker.net/KC/Help/Doc/keyinput"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41357,7 +41372,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1546025927" CREATED="1754227587571" MODIFIED="1754229769261"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1546025927" CREATED="1754227587571" MODIFIED="1754229769261"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41439,7 +41454,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_1601570358" CREATED="1754227288019" MODIFIED="1754227587580" LINK="https://getquicker.net/KC/Help/Doc/mouse"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1601570358" CREATED="1754227288019" MODIFIED="1754227587580" LINK="https://getquicker.net/KC/Help/Doc/mouse"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41452,7 +41467,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1764896669" CREATED="1754227587580" MODIFIED="1754229769261"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1764896669" CREATED="1754227587580" MODIFIED="1754229769261"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -41565,7 +41580,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1181756336" CREATED="1754227587587" MODIFIED="1754229769266"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1181756336" CREATED="1754227587587" MODIFIED="1754229769266"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42086,7 +42101,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1303705737" CREATED="1754227587621" MODIFIED="1754229769271"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1303705737" CREATED="1754227587621" MODIFIED="1754229769271"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42213,7 +42228,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1462441183" CREATED="1754227288019" MODIFIED="1754227587630" LINK="https://getquicker.net/KC/Help/Doc/msgbox"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1462441183" CREATED="1754227288019" MODIFIED="1754227587630" LINK="https://getquicker.net/KC/Help/Doc/msgbox"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42490,7 +42505,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_472484983" CREATED="1754227288019" MODIFIED="1754227587630" LINK="https://getquicker.net/KC/Help/Doc/notify"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_472484983" CREATED="1754227288019" MODIFIED="1754227587630" LINK="https://getquicker.net/KC/Help/Doc/notify"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42621,7 +42636,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1744932393" CREATED="1754227288035" MODIFIED="1754227587646" LINK="https://getquicker.net/KC/Help/Doc/userinput"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1744932393" CREATED="1754227288035" MODIFIED="1754227587646" LINK="https://getquicker.net/KC/Help/Doc/userinput"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42671,7 +42686,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_371524244" CREATED="1754227587646" MODIFIED="1754229769276"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_371524244" CREATED="1754227587646" MODIFIED="1754229769276"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42863,7 +42878,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1201656563" CREATED="1754227288035" MODIFIED="1754227587662" LINK="https://getquicker.net/KC/Help/Doc/userselect"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1201656563" CREATED="1754227288035" MODIFIED="1754227587662" LINK="https://getquicker.net/KC/Help/Doc/userselect"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42876,7 +42891,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_620935844" CREATED="1754227587662" MODIFIED="1754229769276"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_620935844" CREATED="1754227587662" MODIFIED="1754229769276"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -42976,7 +42991,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_974903457" CREATED="1754227587662" MODIFIED="1754229769281"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_974903457" CREATED="1754227587662" MODIFIED="1754229769281"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -43310,7 +43325,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_228836870" CREATED="1754227288035" MODIFIED="1754227587680" LINK="https://getquicker.net/KC/Help/Doc/run"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_228836870" CREATED="1754227288035" MODIFIED="1754227587680" LINK="https://getquicker.net/KC/Help/Doc/run"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -43645,7 +43660,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_945477429" CREATED="1754227288043" MODIFIED="1754227587680" LINK="https://getquicker.net/KC/Help/Doc/openurl"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_945477429" CREATED="1754227288043" MODIFIED="1754227587680" LINK="https://getquicker.net/KC/Help/Doc/openurl"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -43710,7 +43725,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1872587662" CREATED="1754227587696" MODIFIED="1754227587696"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1872587662" CREATED="1754227587696" MODIFIED="1754227587696"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -43757,7 +43772,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_1009039477" CREATED="1754227288043" MODIFIED="1754227587696" LINK="https://getquicker.net/KC/Help/Doc/runscript"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1009039477" CREATED="1754227288043" MODIFIED="1754227587696" LINK="https://getquicker.net/KC/Help/Doc/runscript"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -43802,7 +43817,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_734867605" CREATED="1754227587696" MODIFIED="1754229769286"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_734867605" CREATED="1754227587696" MODIFIED="1754229769286"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -43912,7 +43927,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_1478525351" CREATED="1754227288043" MODIFIED="1754227587696" LINK="https://getquicker.net/KC/Help/Doc/outputtext"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1478525351" CREATED="1754227288043" MODIFIED="1754227587696" LINK="https://getquicker.net/KC/Help/Doc/outputtext"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44059,7 +44074,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1858042009" CREATED="1754227288043" MODIFIED="1754227587712" LINK="https://getquicker.net/KC/Help/Doc/comment"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1858042009" CREATED="1754227288043" MODIFIED="1754227587712" LINK="https://getquicker.net/KC/Help/Doc/comment"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44147,7 +44162,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_395333889" CREATED="1754227288043" MODIFIED="1754227587712" LINK="https://getquicker.net/KC/Help/Doc/inputscript"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_395333889" CREATED="1754227288043" MODIFIED="1754227587712" LINK="https://getquicker.net/KC/Help/Doc/inputscript"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44372,7 +44387,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_1842388065" CREATED="1754227288043" MODIFIED="1754227601866" LINK="https://getquicker.net/KC/Help/Doc/ui-blocks"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1842388065" CREATED="1754227288043" MODIFIED="1754227601866" LINK="https://getquicker.net/KC/Help/Doc/ui-blocks"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44404,7 +44419,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </div>
   </body>
 </html></richcontent>
-<node ID="ID_1425478063" CREATED="1754227288059" MODIFIED="1754227613823" LINK="https://getquicker.net/KC/Help/Doc/showwaitwin"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1425478063" CREATED="1754227288059" MODIFIED="1754227613823" LINK="https://getquicker.net/KC/Help/Doc/showwaitwin"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44468,7 +44483,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1015924871" CREATED="1754227613829" MODIFIED="1754229769291"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1015924871" CREATED="1754227613829" MODIFIED="1754229769291"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44720,7 +44735,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1487454006" CREATED="1754227288059" MODIFIED="1754227613845" LINK="https://getquicker.net/KC/Help/Doc/showtext"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1487454006" CREATED="1754227288059" MODIFIED="1754227613845" LINK="https://getquicker.net/KC/Help/Doc/showtext"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44733,7 +44748,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1327911119" CREATED="1754227613845" MODIFIED="1754229769294"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1327911119" CREATED="1754227613845" MODIFIED="1754229769294"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44771,7 +44786,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1904156843" CREATED="1754227613847" MODIFIED="1754229769294"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1904156843" CREATED="1754227613847" MODIFIED="1754229769294"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -44929,7 +44944,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_324392956" CREATED="1754227613860" MODIFIED="1754229769294"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_324392956" CREATED="1754227613860" MODIFIED="1754229769294"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45167,7 +45182,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1370135587" CREATED="1754227613868" MODIFIED="1754229769294"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1370135587" CREATED="1754227613868" MODIFIED="1754229769294"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45314,7 +45329,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_663427962" CREATED="1754227613875" MODIFIED="1754229769294"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_663427962" CREATED="1754227613875" MODIFIED="1754229769294"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45908,7 +45923,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1929755317" CREATED="1754227288059" MODIFIED="1754227613901" LINK="https://getquicker.net/KC/Help/Doc/selectfile"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1929755317" CREATED="1754227288059" MODIFIED="1754227613901" LINK="https://getquicker.net/KC/Help/Doc/selectfile"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -45960,7 +45975,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1176287746" CREATED="1754227613904" MODIFIED="1754229769299"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1176287746" CREATED="1754227613904" MODIFIED="1754229769299"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46112,7 +46127,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_528562618" CREATED="1754227288059" MODIFIED="1754227613913" LINK="https://getquicker.net/KC/Help/Doc/selectfolder"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_528562618" CREATED="1754227288059" MODIFIED="1754227613913" LINK="https://getquicker.net/KC/Help/Doc/selectfolder"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46267,7 +46282,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_360535582" CREATED="1754227288059" MODIFIED="1754227613923" LINK="https://getquicker.net/KC/Help/Doc/showimage"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_360535582" CREATED="1754227288059" MODIFIED="1754227613923" LINK="https://getquicker.net/KC/Help/Doc/showimage"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46318,7 +46333,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1882426908" CREATED="1754227613923" MODIFIED="1754229769304"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1882426908" CREATED="1754227613923" MODIFIED="1754229769304"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46496,7 +46511,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_855579629" CREATED="1754227613932" MODIFIED="1754229769304"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_855579629" CREATED="1754227613932" MODIFIED="1754229769304"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46783,7 +46798,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1806738523" CREATED="1754227288074" MODIFIED="1754227613950" LINK="https://getquicker.net/KC/Help/Doc/waitkeyboard"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1806738523" CREATED="1754227288074" MODIFIED="1754227613950" LINK="https://getquicker.net/KC/Help/Doc/waitkeyboard"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -46815,7 +46830,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1480143261" CREATED="1754227613951" MODIFIED="1754229769309"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1480143261" CREATED="1754227613951" MODIFIED="1754229769309"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -47033,7 +47048,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_60415162" CREATED="1754227613964" MODIFIED="1754229769309"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_60415162" CREATED="1754227613964" MODIFIED="1754229769309"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -50419,7 +50434,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1772974278" CREATED="1754227288075" MODIFIED="1754227613984" LINK="https://getquicker.net/KC/Help/Doc/record"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1772974278" CREATED="1754227288075" MODIFIED="1754227613984" LINK="https://getquicker.net/KC/Help/Doc/record"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -50529,7 +50544,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1231185687" CREATED="1754227288075" MODIFIED="1754227613990" LINK="https://getquicker.net/KC/Help/Doc/playrecord"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1231185687" CREATED="1754227288075" MODIFIED="1754227613990" LINK="https://getquicker.net/KC/Help/Doc/playrecord"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -50778,7 +50793,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_307371424" CREATED="1754227288075" MODIFIED="1754227614000" LINK="https://getquicker.net/KC/Help/Doc/form"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_307371424" CREATED="1754227288075" MODIFIED="1754227614000" LINK="https://getquicker.net/KC/Help/Doc/form"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -50791,7 +50806,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html>
 </richcontent>
-<node ID="ID_1796840712" CREATED="1754227614000" MODIFIED="1754229769314"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1796840712" CREATED="1754227614000" MODIFIED="1754229769314"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -50987,7 +51002,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_837978206" CREATED="1754227614008" MODIFIED="1754229769314"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_837978206" CREATED="1754227614008" MODIFIED="1754229769314"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51272,7 +51287,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_82887086" CREATED="1754227614022" MODIFIED="1754229769320"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_82887086" CREATED="1754227614022" MODIFIED="1754229769320"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51681,7 +51696,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1755603949" CREATED="1754227288084" MODIFIED="1754227614031" LINK="https://getquicker.net/KC/Help/Doc/reportprogress"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1755603949" CREATED="1754227288084" MODIFIED="1754227614031" LINK="https://getquicker.net/KC/Help/Doc/reportprogress"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51728,7 +51743,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1966204490" CREATED="1754227614032" MODIFIED="1754227614033"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1966204490" CREATED="1754227614032" MODIFIED="1754227614033"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51887,7 +51902,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
 </node>
 </node>
 </node>
-<node ID="ID_1257380941" CREATED="1754227288084" MODIFIED="1754227614040" LINK="https://getquicker.net/KC/Help/Doc/customwindow"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1257380941" CREATED="1754227288084" MODIFIED="1754227614040" LINK="https://getquicker.net/KC/Help/Doc/customwindow"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -51928,7 +51943,7 @@ if (msg.messageType == MSG_AUTH_RESP) {
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1852397533" CREATED="1754227614041" MODIFIED="1754229769320"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1852397533" CREATED="1754227614041" MODIFIED="1754229769320"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -52242,7 +52257,7 @@ public static bool OnButtonClicked(string controlName, object controlTag, Window
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1108639715" CREATED="1754227614044" MODIFIED="1754229769320"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1108639715" CREATED="1754227614044" MODIFIED="1754229769320"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -52512,7 +52527,7 @@ public static bool OnButtonClicked(string controlName, object controlTag, Window
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_705648692" CREATED="1754227614053" MODIFIED="1754229769325"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_705648692" CREATED="1754227614053" MODIFIED="1754229769325"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -52525,7 +52540,7 @@ public static bool OnButtonClicked(string controlName, object controlTag, Window
   </body>
 </html>
 </richcontent>
-<node ID="ID_1297872980" CREATED="1754227614055" MODIFIED="1754229769325"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1297872980" CREATED="1754227614055" MODIFIED="1754229769325"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -52771,7 +52786,7 @@ public static bool OnButtonClicked(string controlName, object controlTag, Window
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_20997094" CREATED="1754227288084" MODIFIED="1754227614067" LINK="https://getquicker.net/KC/Help/Doc/textselecttools"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_20997094" CREATED="1754227288084" MODIFIED="1754227614067" LINK="https://getquicker.net/KC/Help/Doc/textselecttools"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -52908,7 +52923,7 @@ public static bool OnButtonClicked(string controlName, object controlTag, Window
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1457288971" CREATED="1754227288084" MODIFIED="1754227614067" LINK="https://getquicker.net/KC/Help/Doc/showmenu"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1457288971" CREATED="1754227288084" MODIFIED="1754227614067" LINK="https://getquicker.net/KC/Help/Doc/showmenu"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -52950,7 +52965,7 @@ public static bool OnButtonClicked(string controlName, object controlTag, Window
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_856532851" CREATED="1754227614067" MODIFIED="1754229769327"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_856532851" CREATED="1754227614067" MODIFIED="1754229769327"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53362,7 +53377,7 @@ return items;</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_53205690" CREATED="1754227614067" MODIFIED="1754229769327"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_53205690" CREATED="1754227614067" MODIFIED="1754229769327"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53549,7 +53564,7 @@ return items;</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1790053169" CREATED="1754227288097" MODIFIED="1754227614082" LINK="https://getquicker.net/KC/Help/Doc/custompanel"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1790053169" CREATED="1754227288097" MODIFIED="1754227614082" LINK="https://getquicker.net/KC/Help/Doc/custompanel"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53593,7 +53608,7 @@ return items;</pre>
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_272178135" CREATED="1754227614082" MODIFIED="1754229769332"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_272178135" CREATED="1754227614082" MODIFIED="1754229769332"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -53620,7 +53635,7 @@ return items;</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_557377421" CREATED="1754227614082" MODIFIED="1754229769332"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_557377421" CREATED="1754227614082" MODIFIED="1754229769332"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54217,7 +54232,7 @@ return items;</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1700471467" CREATED="1754227614098" MODIFIED="1754229769332"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1700471467" CREATED="1754227614098" MODIFIED="1754229769332"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54435,7 +54450,7 @@ return items;</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1298652229" CREATED="1754227288097" MODIFIED="1754227622981" LINK="https://getquicker.net/KC/Help/Doc/text-related"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1298652229" CREATED="1754227288097" MODIFIED="1754227622981" LINK="https://getquicker.net/KC/Help/Doc/text-related"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54463,7 +54478,7 @@ return items;</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_730273399" CREATED="1754227288103" MODIFIED="1754227622999" LINK="https://getquicker.net/KC/Help/Doc/formatstring"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_730273399" CREATED="1754227288103" MODIFIED="1754227622999" LINK="https://getquicker.net/KC/Help/Doc/formatstring"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54508,7 +54523,7 @@ return items;</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_975167855" CREATED="1754227622999" MODIFIED="1754227622999"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_975167855" CREATED="1754227622999" MODIFIED="1754227622999"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54598,7 +54613,7 @@ return items;</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1356367662" CREATED="1754227623009" MODIFIED="1754227623009"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1356367662" CREATED="1754227623009" MODIFIED="1754227623009"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54776,7 +54791,7 @@ return items;</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1109649974" CREATED="1754227288103" MODIFIED="1754227623009" LINK="https://getquicker.net/KC/Help/Doc/strcompare"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1109649974" CREATED="1754227288103" MODIFIED="1754227623009" LINK="https://getquicker.net/KC/Help/Doc/strcompare"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54803,7 +54818,7 @@ return items;</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1481138092" CREATED="1754227623009" MODIFIED="1754227623009"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1481138092" CREATED="1754227623009" MODIFIED="1754227623009"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54883,7 +54898,7 @@ return items;</pre>
 </node>
 </node>
 </node>
-<node ID="ID_305712051" CREATED="1754227288103" MODIFIED="1754227623009" LINK="https://getquicker.net/KC/Help/Doc/splitstring"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_305712051" CREATED="1754227288103" MODIFIED="1754227623009" LINK="https://getquicker.net/KC/Help/Doc/splitstring"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -54989,7 +55004,7 @@ return items;</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_340898932" CREATED="1754227288103" MODIFIED="1754227623025" LINK="https://getquicker.net/KC/Help/Doc/charinfo"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_340898932" CREATED="1754227288103" MODIFIED="1754227623025" LINK="https://getquicker.net/KC/Help/Doc/charinfo"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55016,7 +55031,7 @@ return items;</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_744834195" CREATED="1754227623028" MODIFIED="1754229769336"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_744834195" CREATED="1754227623028" MODIFIED="1754229769336"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55115,7 +55130,7 @@ return items;</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1937229296" CREATED="1754227288103" MODIFIED="1754227623030" LINK="https://getquicker.net/KC/Help/Doc/joinlist"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1937229296" CREATED="1754227288103" MODIFIED="1754227623030" LINK="https://getquicker.net/KC/Help/Doc/joinlist"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55145,7 +55160,7 @@ return items;</pre>
 </span>    </p>
   </body>
 </html></richcontent>
-<node ID="ID_1811098564" CREATED="1754227623030" MODIFIED="1754227623030"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1811098564" CREATED="1754227623030" MODIFIED="1754227623030"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55254,7 +55269,7 @@ return items;</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1310814690" CREATED="1754227288119" MODIFIED="1754227623039" LINK="https://getquicker.net/KC/Help/Doc/jsonextract"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1310814690" CREATED="1754227288119" MODIFIED="1754227623039" LINK="https://getquicker.net/KC/Help/Doc/jsonextract"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55287,7 +55302,7 @@ return items;</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1467131938" CREATED="1754227623039" MODIFIED="1754229769336"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1467131938" CREATED="1754227623039" MODIFIED="1754229769336"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55300,7 +55315,7 @@ return items;</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_454584153" CREATED="1754227623039" MODIFIED="1754229769336"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_454584153" CREATED="1754227623039" MODIFIED="1754229769336"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55405,7 +55420,7 @@ return items;</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1919977776" CREATED="1754227623048" MODIFIED="1754229769341"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1919977776" CREATED="1754227623048" MODIFIED="1754229769341"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55729,7 +55744,7 @@ return items;</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_16287712" CREATED="1754227288119" MODIFIED="1754227623058" LINK="https://getquicker.net/KC/Help/Doc/strreplace"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_16287712" CREATED="1754227288119" MODIFIED="1754227623058" LINK="https://getquicker.net/KC/Help/Doc/strreplace"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55756,7 +55771,7 @@ return items;</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1018183288" CREATED="1754227623058" MODIFIED="1754229769341"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1018183288" CREATED="1754227623058" MODIFIED="1754229769341"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55912,7 +55927,7 @@ cc|||CC|CC</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_334641407" CREATED="1754227288119" MODIFIED="1754227623058" LINK="https://getquicker.net/KC/Help/Doc/stringprocess"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_334641407" CREATED="1754227288119" MODIFIED="1754227623058" LINK="https://getquicker.net/KC/Help/Doc/stringprocess"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -55939,7 +55954,7 @@ cc|||CC|CC</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1552249525" CREATED="1754227623058" MODIFIED="1754229769341"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1552249525" CREATED="1754227623058" MODIFIED="1754229769341"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -56246,7 +56261,7 @@ cc|||CC|CC</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1373755665" CREATED="1754227288119" MODIFIED="1754227623079" LINK="https://getquicker.net/KC/Help/Doc/regexextract"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1373755665" CREATED="1754227288119" MODIFIED="1754227623079" LINK="https://getquicker.net/KC/Help/Doc/regexextract"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -56276,7 +56291,7 @@ cc|||CC|CC</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_956224122" CREATED="1754227623080" MODIFIED="1754229769346"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_956224122" CREATED="1754227623080" MODIFIED="1754229769346"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -56704,7 +56719,7 @@ e5 f6 g7 h8</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1419487383" CREATED="1754227288135" MODIFIED="1754227623084" LINK="https://getquicker.net/KC/Help/Doc/textcounter"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1419487383" CREATED="1754227288135" MODIFIED="1754227623084" LINK="https://getquicker.net/KC/Help/Doc/textcounter"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -56731,7 +56746,7 @@ e5 f6 g7 h8</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_187022473" CREATED="1754227623084" MODIFIED="1754227623084"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_187022473" CREATED="1754227623084" MODIFIED="1754227623084"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -56802,7 +56817,7 @@ e5 f6 g7 h8</pre>
 </node>
 </node>
 </node>
-<node ID="ID_551196866" CREATED="1754227288135" MODIFIED="1754227623100" LINK="https://getquicker.net/KC/Help/Doc/enc"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_551196866" CREATED="1754227288135" MODIFIED="1754227623100" LINK="https://getquicker.net/KC/Help/Doc/enc"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57082,7 +57097,7 @@ e5 f6 g7 h8</pre>
 </node>
 </node>
 </node>
-<node ID="ID_591127143" CREATED="1754227288135" MODIFIED="1754227636745" LINK="https://getquicker.net/KC/Help/Doc/image-related"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_591127143" CREATED="1754227288135" MODIFIED="1754227636745" LINK="https://getquicker.net/KC/Help/Doc/image-related"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57110,7 +57125,7 @@ e5 f6 g7 h8</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1989739178" CREATED="1754227288135" MODIFIED="1754227636782" LINK="https://getquicker.net/KC/Help/Doc/screencapture"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1989739178" CREATED="1754227288135" MODIFIED="1754227636782" LINK="https://getquicker.net/KC/Help/Doc/screencapture"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57230,7 +57245,7 @@ e5 f6 g7 h8</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1042173622" CREATED="1754227636787" MODIFIED="1754229769351"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1042173622" CREATED="1754227636787" MODIFIED="1754229769351"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57243,7 +57258,7 @@ e5 f6 g7 h8</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_556256644" CREATED="1754227636799" MODIFIED="1754229769351"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_556256644" CREATED="1754227636799" MODIFIED="1754229769351"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57270,7 +57285,7 @@ e5 f6 g7 h8</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1759013956" CREATED="1754227636802" MODIFIED="1754229769351"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1759013956" CREATED="1754227636802" MODIFIED="1754229769351"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57619,7 +57634,7 @@ e5 f6 g7 h8</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_730070913" CREATED="1754227288135" MODIFIED="1754227636822" LINK="https://getquicker.net/KC/Help/Doc/createqrcode"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_730070913" CREATED="1754227288135" MODIFIED="1754227636822" LINK="https://getquicker.net/KC/Help/Doc/createqrcode"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57646,7 +57661,7 @@ e5 f6 g7 h8</pre>
 </span>    </p>
   </body>
 </html></richcontent>
-<node ID="ID_776126714" CREATED="1754227636823" MODIFIED="1754227636823"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_776126714" CREATED="1754227636823" MODIFIED="1754227636823"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57732,7 +57747,7 @@ e5 f6 g7 h8</pre>
 </node>
 </node>
 </node>
-<node ID="ID_887340409" CREATED="1754227288135" MODIFIED="1754227636828" LINK="https://getquicker.net/KC/Help/Doc/imgtobase64"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_887340409" CREATED="1754227288135" MODIFIED="1754227636828" LINK="https://getquicker.net/KC/Help/Doc/imgtobase64"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57881,7 +57896,7 @@ e5 f6 g7 h8</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1796575622" CREATED="1754227288151" MODIFIED="1754227636830" LINK="https://getquicker.net/KC/Help/Doc/writeimagefile"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1796575622" CREATED="1754227288151" MODIFIED="1754227636830" LINK="https://getquicker.net/KC/Help/Doc/writeimagefile"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57911,7 +57926,7 @@ e5 f6 g7 h8</pre>
 </span>    </p>
   </body>
 </html></richcontent>
-<node ID="ID_1898340743" CREATED="1754227636830" MODIFIED="1754227636830"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1898340743" CREATED="1754227636830" MODIFIED="1754227636830"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -57984,7 +57999,7 @@ e5 f6 g7 h8</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_802140505" CREATED="1754227288151" MODIFIED="1754227636838" LINK="https://getquicker.net/KC/Help/Doc/readqrcode"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_802140505" CREATED="1754227288151" MODIFIED="1754227636838" LINK="https://getquicker.net/KC/Help/Doc/readqrcode"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -58011,7 +58026,7 @@ e5 f6 g7 h8</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1175585230" CREATED="1754227636838" MODIFIED="1754229769356"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1175585230" CREATED="1754227636838" MODIFIED="1754229769356"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -58079,7 +58094,7 @@ e5 f6 g7 h8</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1565454974" CREATED="1754227288151" MODIFIED="1754227636838" LINK="https://getquicker.net/KC/Help/Doc/imgprocess"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1565454974" CREATED="1754227288151" MODIFIED="1754227636838" LINK="https://getquicker.net/KC/Help/Doc/imgprocess"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -58340,7 +58355,7 @@ e5 f6 g7 h8</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1382142138" CREATED="1754227636838" MODIFIED="1754229769356"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1382142138" CREATED="1754227636838" MODIFIED="1754229769356"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -58422,7 +58437,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1107886779" CREATED="1754227636838" MODIFIED="1754229769356"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1107886779" CREATED="1754227636838" MODIFIED="1754229769356"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59486,7 +59501,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1477215417" CREATED="1754227288151" MODIFIED="1754227636856" LINK="https://getquicker.net/KC/Help/Doc/searchbmp"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1477215417" CREATED="1754227288151" MODIFIED="1754227636856" LINK="https://getquicker.net/KC/Help/Doc/searchbmp"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59544,7 +59559,7 @@ Save:{savePath}</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1647667618" CREATED="1754227636856" MODIFIED="1754229769361"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1647667618" CREATED="1754227636856" MODIFIED="1754229769361"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -59929,7 +59944,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_195683975" CREATED="1754227288151" MODIFIED="1754227636882" LINK="https://getquicker.net/KC/Help/Doc/imageinfo"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_195683975" CREATED="1754227288151" MODIFIED="1754227636882" LINK="https://getquicker.net/KC/Help/Doc/imageinfo"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60515,7 +60530,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1362132139" CREATED="1754227288151" MODIFIED="1754227636888" LINK="https://getquicker.net/KC/Help/Doc/whiteboard"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1362132139" CREATED="1754227288151" MODIFIED="1754227636888" LINK="https://getquicker.net/KC/Help/Doc/whiteboard"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60627,7 +60642,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_961120948" CREATED="1754227288151" MODIFIED="1754227636761" LINK="https://getquicker.net/KC/Help/Doc/clipboard-related"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_961120948" CREATED="1754227288151" MODIFIED="1754227636761" LINK="https://getquicker.net/KC/Help/Doc/clipboard-related"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60651,7 +60666,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_862816381" CREATED="1754227288166" MODIFIED="1754227636888" LINK="https://getquicker.net/KC/Help/Doc/getclipboardtext"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_862816381" CREATED="1754227288166" MODIFIED="1754227636888" LINK="https://getquicker.net/KC/Help/Doc/getclipboardtext"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60692,7 +60707,7 @@ Save:{savePath}</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_468734129" CREATED="1754227636904" MODIFIED="1754227636904"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_468734129" CREATED="1754227636904" MODIFIED="1754227636904"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60846,7 +60861,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_60376057" CREATED="1754227288166" MODIFIED="1754227636906" LINK="https://getquicker.net/KC/Help/Doc/getclipboardimage"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_60376057" CREATED="1754227288166" MODIFIED="1754227636906" LINK="https://getquicker.net/KC/Help/Doc/getclipboardimage"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60890,7 +60905,7 @@ Save:{savePath}</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1484484463" CREATED="1754227636906" MODIFIED="1754227636906"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1484484463" CREATED="1754227636906" MODIFIED="1754227636906"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60958,7 +60973,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_337054600" CREATED="1754227288166" MODIFIED="1754227636906" LINK="https://getquicker.net/KC/Help/Doc/getclipboardfiles"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_337054600" CREATED="1754227288166" MODIFIED="1754227636906" LINK="https://getquicker.net/KC/Help/Doc/getclipboardfiles"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -60999,7 +61014,7 @@ Save:{savePath}</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1436740156" CREATED="1754227636922" MODIFIED="1754227636922"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1436740156" CREATED="1754227636922" MODIFIED="1754227636922"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61067,7 +61082,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1591179177" CREATED="1754227288166" MODIFIED="1754227636922" LINK="https://getquicker.net/KC/Help/Doc/writeclipboard"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1591179177" CREATED="1754227288166" MODIFIED="1754227636922" LINK="https://getquicker.net/KC/Help/Doc/writeclipboard"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61233,7 +61248,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_393369506" CREATED="1754227288166" MODIFIED="1754227636922" LINK="https://getquicker.net/KC/Help/Doc/filetoclipboard"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_393369506" CREATED="1754227288166" MODIFIED="1754227636922" LINK="https://getquicker.net/KC/Help/Doc/filetoclipboard"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61310,7 +61325,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_966467718" CREATED="1754227288166" MODIFIED="1754227636769" LINK="https://getquicker.net/KC/Help/Doc/file-related"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_966467718" CREATED="1754227288166" MODIFIED="1754227636769" LINK="https://getquicker.net/KC/Help/Doc/file-related"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61338,7 +61353,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_583678663" CREATED="1754227288166" MODIFIED="1754227636922" LINK="https://getquicker.net/KC/Help/Doc/readfile"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_583678663" CREATED="1754227288166" MODIFIED="1754227636922" LINK="https://getquicker.net/KC/Help/Doc/readfile"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61365,7 +61380,7 @@ Save:{savePath}</pre>
 </span>    </p>
   </body>
 </html></richcontent>
-<node ID="ID_1557249200" CREATED="1754227636938" MODIFIED="1754227636938"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1557249200" CREATED="1754227636938" MODIFIED="1754227636938"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61439,7 +61454,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1604187619" CREATED="1754227288182" MODIFIED="1754227636938" LINK="https://getquicker.net/KC/Help/Doc/checkpathexists"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1604187619" CREATED="1754227288182" MODIFIED="1754227636938" LINK="https://getquicker.net/KC/Help/Doc/checkpathexists"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61466,7 +61481,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_368600852" CREATED="1754227636938" MODIFIED="1754229769367"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_368600852" CREATED="1754227636938" MODIFIED="1754229769367"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61504,7 +61519,7 @@ Save:{savePath}</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1605206104" CREATED="1754227636938" MODIFIED="1754229769367"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1605206104" CREATED="1754227636938" MODIFIED="1754229769367"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61658,7 +61673,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1784496822" CREATED="1754227288182" MODIFIED="1754227636938" LINK="https://getquicker.net/KC/Help/Doc/gentempfilepath"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1784496822" CREATED="1754227288182" MODIFIED="1754227636938" LINK="https://getquicker.net/KC/Help/Doc/gentempfilepath"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61685,7 +61700,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1127015007" CREATED="1754227636938" MODIFIED="1754227636938"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1127015007" CREATED="1754227636938" MODIFIED="1754227636938"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61750,7 +61765,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1767117918" CREATED="1754227288182" MODIFIED="1754227636958" LINK="https://getquicker.net/KC/Help/Doc/fileoperation"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1767117918" CREATED="1754227288182" MODIFIED="1754227636958" LINK="https://getquicker.net/KC/Help/Doc/fileoperation"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -61780,7 +61795,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_405826887" CREATED="1754227636958" MODIFIED="1754229769367"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_405826887" CREATED="1754227636958" MODIFIED="1754229769367"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62290,7 +62305,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1382214099" CREATED="1754227288182" MODIFIED="1754227636969" LINK="https://getquicker.net/KC/Help/Doc/pathextraction"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1382214099" CREATED="1754227288182" MODIFIED="1754227636969" LINK="https://getquicker.net/KC/Help/Doc/pathextraction"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62693,7 +62708,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_924227994" CREATED="1754227288182" MODIFIED="1754227636979" LINK="https://getquicker.net/KC/Help/Doc/writetextfile"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_924227994" CREATED="1754227288182" MODIFIED="1754227636979" LINK="https://getquicker.net/KC/Help/Doc/writetextfile"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62720,7 +62735,7 @@ Save:{savePath}</pre>
 </span>    </p>
   </body>
 </html></richcontent>
-<node ID="ID_1930709303" CREATED="1754227636979" MODIFIED="1754227636979"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1930709303" CREATED="1754227636979" MODIFIED="1754227636979"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62766,7 +62781,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_117023557" CREATED="1754227288182" MODIFIED="1754227636979" LINK="https://getquicker.net/KC/Help/Doc/statestorage"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_117023557" CREATED="1754227288182" MODIFIED="1754227636979" LINK="https://getquicker.net/KC/Help/Doc/statestorage"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62809,7 +62824,7 @@ Save:{savePath}</pre>
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1141947529" CREATED="1754227636979" MODIFIED="1754229769372"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1141947529" CREATED="1754227636979" MODIFIED="1754229769372"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -62995,7 +63010,7 @@ Save:{savePath}</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1056660820" CREATED="1754227636995" MODIFIED="1754229769372"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1056660820" CREATED="1754227636995" MODIFIED="1754229769372"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63147,7 +63162,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_371840495" CREATED="1754227636995" MODIFIED="1754229769376"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_371840495" CREATED="1754227636995" MODIFIED="1754229769376"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63254,7 +63269,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_570365536" CREATED="1754227637011" MODIFIED="1754229769376"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_570365536" CREATED="1754227637011" MODIFIED="1754229769376"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63570,7 +63585,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_282084078" CREATED="1754227288196" MODIFIED="1754227637027" LINK="https://getquicker.net/KC/Help/Doc/zip"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_282084078" CREATED="1754227288196" MODIFIED="1754227637027" LINK="https://getquicker.net/KC/Help/Doc/zip"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63625,7 +63640,7 @@ Save:{savePath}</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1321920205" CREATED="1754227637027" MODIFIED="1754227637027"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1321920205" CREATED="1754227637027" MODIFIED="1754227637027"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63737,7 +63752,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_443251355" CREATED="1754227637027" MODIFIED="1754227637027"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_443251355" CREATED="1754227637027" MODIFIED="1754227637027"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63805,7 +63820,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1399074563" CREATED="1754227288197" MODIFIED="1754227637042" LINK="https://getquicker.net/KC/Help/Doc/everythingsearch"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1399074563" CREATED="1754227288197" MODIFIED="1754227637042" LINK="https://getquicker.net/KC/Help/Doc/everythingsearch"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -63838,7 +63853,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_585210170" CREATED="1754227637042" MODIFIED="1754229769376"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_585210170" CREATED="1754227637042" MODIFIED="1754229769376"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64025,7 +64040,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_832754458" CREATED="1754227288197" MODIFIED="1754227647533" LINK="https://getquicker.net/KC/Help/Doc/system-related"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_832754458" CREATED="1754227288197" MODIFIED="1754227647533" LINK="https://getquicker.net/KC/Help/Doc/system-related"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64053,7 +64068,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_814036406" CREATED="1754227288197" MODIFIED="1754227647580" LINK="https://getquicker.net/KC/Help/Doc/uiautomation"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_814036406" CREATED="1754227288197" MODIFIED="1754227647580" LINK="https://getquicker.net/KC/Help/Doc/uiautomation"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64066,7 +64081,7 @@ Save:{savePath}</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_324606029" CREATED="1754227647580" MODIFIED="1754229769382"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_324606029" CREATED="1754227647580" MODIFIED="1754229769382"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64170,7 +64185,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_327225223" CREATED="1754227647580" MODIFIED="1754229769382"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_327225223" CREATED="1754227647580" MODIFIED="1754229769382"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64579,7 +64594,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1326877553" CREATED="1754227647612" MODIFIED="1754229769386"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1326877553" CREATED="1754227647612" MODIFIED="1754229769386"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64668,7 +64683,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_796712036" CREATED="1754227647612" MODIFIED="1754229769386"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_796712036" CREATED="1754227647612" MODIFIED="1754229769386"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64770,7 +64785,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1028698548" CREATED="1754227288197" MODIFIED="1754227647612" LINK="https://getquicker.net/KC/Help/Doc/playsound"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1028698548" CREATED="1754227288197" MODIFIED="1754227647612" LINK="https://getquicker.net/KC/Help/Doc/playsound"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64852,7 +64867,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_446562535" CREATED="1754227288197" MODIFIED="1754227647630" LINK="https://getquicker.net/KC/Help/Doc/windowoperations"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_446562535" CREATED="1754227288197" MODIFIED="1754227647630" LINK="https://getquicker.net/KC/Help/Doc/windowoperations"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -64910,7 +64925,7 @@ Save:{savePath}</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1518763091" CREATED="1754227647630" MODIFIED="1754229769386"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1518763091" CREATED="1754227647630" MODIFIED="1754229769386"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65273,7 +65288,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_560951010" CREATED="1754227288197" MODIFIED="1754227647646" LINK="https://getquicker.net/KC/Help/Doc/sendmessage"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_560951010" CREATED="1754227288197" MODIFIED="1754227647646" LINK="https://getquicker.net/KC/Help/Doc/sendmessage"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65441,7 +65456,7 @@ Save:{savePath}</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1640208055" CREATED="1754227288213" MODIFIED="1754227647661" LINK="https://getquicker.net/KC/Help/Doc/getwindowtitle"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1640208055" CREATED="1754227288213" MODIFIED="1754227647661" LINK="https://getquicker.net/KC/Help/Doc/getwindowtitle"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65468,7 +65483,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_317949111" CREATED="1754227647661" MODIFIED="1754229769396"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_317949111" CREATED="1754227647661" MODIFIED="1754229769396"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65647,7 +65662,7 @@ Save:{savePath}</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1621376034" CREATED="1754227288213" MODIFIED="1754227647661" LINK="https://getquicker.net/KC/Help/Doc/getactiveprocessinfo"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1621376034" CREATED="1754227288213" MODIFIED="1754227647661" LINK="https://getquicker.net/KC/Help/Doc/getactiveprocessinfo"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65674,7 +65689,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_360784945" CREATED="1754227647661" MODIFIED="1754227647661"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_360784945" CREATED="1754227647661" MODIFIED="1754227647661"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65723,7 +65738,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_841879028" CREATED="1754227288213" MODIFIED="1754227647677" LINK="https://getquicker.net/KC/Help/Doc/gettime"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_841879028" CREATED="1754227288213" MODIFIED="1754227647677" LINK="https://getquicker.net/KC/Help/Doc/gettime"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65753,7 +65768,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_714322334" CREATED="1754227647677" MODIFIED="1754229769396"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_714322334" CREATED="1754227647677" MODIFIED="1754229769396"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -65766,7 +65781,7 @@ Save:{savePath}</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1678914101" CREATED="1754227647677" MODIFIED="1754229769396"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1678914101" CREATED="1754227647677" MODIFIED="1754229769396"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66885,7 +66900,7 @@ Save:{savePath}</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1469483692" CREATED="1754227288230" MODIFIED="1754227647693" LINK="https://getquicker.net/KC/Help/Doc/getfolderpath"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1469483692" CREATED="1754227288230" MODIFIED="1754227647693" LINK="https://getquicker.net/KC/Help/Doc/getfolderpath"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66912,7 +66927,7 @@ Save:{savePath}</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1631464105" CREATED="1754227647705" MODIFIED="1754227647705"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1631464105" CREATED="1754227647705" MODIFIED="1754227647705"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -66980,7 +66995,7 @@ Save:{savePath}</pre>
 </node>
 </node>
 </node>
-<node ID="ID_215392259" CREATED="1754227288230" MODIFIED="1754227647708" LINK="https://getquicker.net/KC/Help/Doc/getsysinfo"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_215392259" CREATED="1754227288230" MODIFIED="1754227647708" LINK="https://getquicker.net/KC/Help/Doc/getsysinfo"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67154,7 +67169,7 @@ EventTrigger,  //事件触发</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_148866272" CREATED="1754227288230" MODIFIED="1754227647708" LINK="https://getquicker.net/KC/Help/Doc/getselectedfiles"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_148866272" CREATED="1754227288230" MODIFIED="1754227647708" LINK="https://getquicker.net/KC/Help/Doc/getselectedfiles"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67318,7 +67333,7 @@ EventTrigger,  //事件触发</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_57425499" CREATED="1754227288230" MODIFIED="1754227647708" LINK="https://getquicker.net/KC/Help/Doc/getexplorerpath"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_57425499" CREATED="1754227288230" MODIFIED="1754227647708" LINK="https://getquicker.net/KC/Help/Doc/getexplorerpath"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67422,7 +67437,7 @@ EventTrigger,  //事件触发</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_452020132" CREATED="1754227288230" MODIFIED="1754227647708" LINK="https://getquicker.net/KC/Help/Doc/activateprocessmainwindow"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_452020132" CREATED="1754227288230" MODIFIED="1754227647708" LINK="https://getquicker.net/KC/Help/Doc/activateprocessmainwindow"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67487,7 +67502,7 @@ EventTrigger,  //事件触发</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_25120122" CREATED="1754227647724" MODIFIED="1754229769407"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_25120122" CREATED="1754227647724" MODIFIED="1754229769407"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67598,7 +67613,7 @@ EventTrigger,  //事件触发</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1558817874" CREATED="1754227288230" MODIFIED="1754227647724" LINK="https://getquicker.net/KC/Help/Doc/checkprocessexists"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1558817874" CREATED="1754227288230" MODIFIED="1754227647724" LINK="https://getquicker.net/KC/Help/Doc/checkprocessexists"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67625,7 +67640,7 @@ EventTrigger,  //事件触发</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_595902546" CREATED="1754227647724" MODIFIED="1754229769407"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_595902546" CREATED="1754227647724" MODIFIED="1754229769407"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67733,7 +67748,7 @@ EventTrigger,  //事件触发</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1812134586" CREATED="1754227288230" MODIFIED="1754227647724" LINK="https://getquicker.net/KC/Help/Doc/selectfileinexplorer"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1812134586" CREATED="1754227288230" MODIFIED="1754227647724" LINK="https://getquicker.net/KC/Help/Doc/selectfileinexplorer"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67796,7 +67811,7 @@ EventTrigger,  //事件触发</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_329769662" CREATED="1754227288245" MODIFIED="1754227647740" LINK="https://getquicker.net/KC/Help/Doc/filesystemwatch"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_329769662" CREATED="1754227288245" MODIFIED="1754227647740" LINK="https://getquicker.net/KC/Help/Doc/filesystemwatch"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -67960,7 +67975,7 @@ EventTrigger,  //事件触发</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_788236065" CREATED="1754227647740" MODIFIED="1754229769412"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_788236065" CREATED="1754227647740" MODIFIED="1754229769412"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68129,7 +68144,7 @@ EventTrigger,  //事件触发</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1248032566" CREATED="1754227288245" MODIFIED="1754227647740" LINK="https://getquicker.net/KC/Help/Doc/imecontrol"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1248032566" CREATED="1754227288245" MODIFIED="1754227647740" LINK="https://getquicker.net/KC/Help/Doc/imecontrol"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68239,7 +68254,7 @@ EventTrigger,  //事件触发</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_943292776" CREATED="1754227647740" MODIFIED="1754229769412"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_943292776" CREATED="1754227647740" MODIFIED="1754229769412"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68316,7 +68331,7 @@ EventTrigger,  //事件触发</pre>
 </node>
 </node>
 </node>
-<node ID="ID_289440335" CREATED="1754227288245" MODIFIED="1754227647758" LINK="https://getquicker.net/KC/Help/Doc/keyoperation"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_289440335" CREATED="1754227288245" MODIFIED="1754227647758" LINK="https://getquicker.net/KC/Help/Doc/keyoperation"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68475,7 +68490,7 @@ EventTrigger,  //事件触发</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_495626093" CREATED="1754227288245" MODIFIED="1754227647758" LINK="https://getquicker.net/KC/Help/Doc/quickeroperations"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_495626093" CREATED="1754227288245" MODIFIED="1754227647758" LINK="https://getquicker.net/KC/Help/Doc/quickeroperations"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68506,7 +68521,7 @@ EventTrigger,  //事件触发</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1052611001" CREATED="1754227647758" MODIFIED="1754229769416"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1052611001" CREATED="1754227647758" MODIFIED="1754229769416"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -68987,7 +69002,7 @@ EventTrigger,  //事件触发</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_338645005" CREATED="1754227647790" MODIFIED="1754229769421"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_338645005" CREATED="1754227647790" MODIFIED="1754229769421"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69508,7 +69523,7 @@ EventTrigger,  //事件触发</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1627668734" CREATED="1754227288245" MODIFIED="1754227647822" LINK="https://getquicker.net/KC/Help/Doc/audiocontrol"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1627668734" CREATED="1754227288245" MODIFIED="1754227647822" LINK="https://getquicker.net/KC/Help/Doc/audiocontrol"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69535,7 +69550,7 @@ EventTrigger,  //事件触发</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1349438748" CREATED="1754227647822" MODIFIED="1754229769431"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1349438748" CREATED="1754227647822" MODIFIED="1754229769431"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69826,7 +69841,7 @@ EventTrigger,  //事件触发</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_376405493" CREATED="1754227288262" MODIFIED="1754227647838" LINK="https://getquicker.net/KC/Help/Doc/shelloperation"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_376405493" CREATED="1754227288262" MODIFIED="1754227647838" LINK="https://getquicker.net/KC/Help/Doc/shelloperation"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -69888,7 +69903,7 @@ EventTrigger,  //事件触发</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_914126430" CREATED="1754227647838" MODIFIED="1754229769431"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_914126430" CREATED="1754227647838" MODIFIED="1754229769431"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70160,7 +70175,7 @@ EventTrigger,  //事件触发</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_998645418" CREATED="1754227288262" MODIFIED="1754227647854" LINK="https://getquicker.net/KC/Help/Doc/winservice"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_998645418" CREATED="1754227288262" MODIFIED="1754227647854" LINK="https://getquicker.net/KC/Help/Doc/winservice"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70437,7 +70452,7 @@ EventTrigger,  //事件触发</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1865840603" CREATED="1754227288262" MODIFIED="1754227647854" LINK="https://getquicker.net/KC/Help/Doc/recordsound"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1865840603" CREATED="1754227288262" MODIFIED="1754227647854" LINK="https://getquicker.net/KC/Help/Doc/recordsound"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70636,7 +70651,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1642241487" CREATED="1754227288262" MODIFIED="1754227658090" LINK="https://getquicker.net/KC/Help/Doc/compute-related"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1642241487" CREATED="1754227288262" MODIFIED="1754227658090" LINK="https://getquicker.net/KC/Help/Doc/compute-related"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70664,7 +70679,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_768516538" CREATED="1754227288262" MODIFIED="1754227658108" LINK="https://getquicker.net/KC/Help/Doc/numberprocess"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_768516538" CREATED="1754227288262" MODIFIED="1754227658108" LINK="https://getquicker.net/KC/Help/Doc/numberprocess"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70869,7 +70884,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_524085577" CREATED="1754227288274" MODIFIED="1754227658119" LINK="https://getquicker.net/KC/Help/Doc/compute"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_524085577" CREATED="1754227288274" MODIFIED="1754227658119" LINK="https://getquicker.net/KC/Help/Doc/compute"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70922,7 +70937,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_357312431" CREATED="1754227658124" MODIFIED="1754227658124"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_357312431" CREATED="1754227658124" MODIFIED="1754227658124"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -70989,7 +71004,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_228817315" CREATED="1754227658128" MODIFIED="1754227658128"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_228817315" CREATED="1754227658128" MODIFIED="1754227658128"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71002,7 +71017,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_218914450" CREATED="1754227658128" MODIFIED="1754227658128"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_218914450" CREATED="1754227658128" MODIFIED="1754227658128"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71647,7 +71662,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_883300071" CREATED="1754227288277" MODIFIED="1754227658138" LINK="https://getquicker.net/KC/Help/Doc/numcompare"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_883300071" CREATED="1754227288277" MODIFIED="1754227658138" LINK="https://getquicker.net/KC/Help/Doc/numcompare"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71734,7 +71749,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1653528339" CREATED="1754227288279" MODIFIED="1754227658138" LINK="https://getquicker.net/KC/Help/Doc/dictoperations"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1653528339" CREATED="1754227288279" MODIFIED="1754227658138" LINK="https://getquicker.net/KC/Help/Doc/dictoperations"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -71936,7 +71951,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1898458788" CREATED="1754227288282" MODIFIED="1754227658162" LINK="https://getquicker.net/KC/Help/Doc/assign"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1898458788" CREATED="1754227288282" MODIFIED="1754227658162" LINK="https://getquicker.net/KC/Help/Doc/assign"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72099,7 +72114,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_431702217" CREATED="1754227288284" MODIFIED="1754227658171" LINK="https://getquicker.net/KC/Help/Doc/listoperations"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_431702217" CREATED="1754227288284" MODIFIED="1754227658171" LINK="https://getquicker.net/KC/Help/Doc/listoperations"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72302,7 +72317,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_435140917" CREATED="1754227288286" MODIFIED="1754227658171" LINK="https://getquicker.net/KC/Help/Doc/newguid"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_435140917" CREATED="1754227288286" MODIFIED="1754227658171" LINK="https://getquicker.net/KC/Help/Doc/newguid"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72403,7 +72418,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1201643237" CREATED="1754227288286" MODIFIED="1754227658171" LINK="https://getquicker.net/KC/Help/Doc/randomnum"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1201643237" CREATED="1754227288286" MODIFIED="1754227658171" LINK="https://getquicker.net/KC/Help/Doc/randomnum"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72487,7 +72502,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_690160122" CREATED="1754227288286" MODIFIED="1754227658186" LINK="https://getquicker.net/KC/Help/Doc/computetime"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_690160122" CREATED="1754227288286" MODIFIED="1754227658186" LINK="https://getquicker.net/KC/Help/Doc/computetime"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72511,7 +72526,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_407193604" CREATED="1754227658187" MODIFIED="1754229769446"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_407193604" CREATED="1754227658187" MODIFIED="1754229769446"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72645,7 +72660,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1248000047" CREATED="1754227288293" MODIFIED="1754227658189" LINK="https://getquicker.net/KC/Help/Doc/color"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1248000047" CREATED="1754227288293" MODIFIED="1754227658189" LINK="https://getquicker.net/KC/Help/Doc/color"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72693,7 +72708,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_137430267" CREATED="1754227658189" MODIFIED="1754227658189"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_137430267" CREATED="1754227658189" MODIFIED="1754227658189"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72850,7 +72865,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1607705531" CREATED="1754227288293" MODIFIED="1754227658205" LINK="https://getquicker.net/KC/Help/Doc/managelist"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1607705531" CREATED="1754227288293" MODIFIED="1754227658205" LINK="https://getquicker.net/KC/Help/Doc/managelist"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72863,7 +72878,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1067796532" CREATED="1754227658205" MODIFIED="1754229769446"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1067796532" CREATED="1754227658205" MODIFIED="1754229769446"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -72945,7 +72960,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1815674453" CREATED="1754227658205" MODIFIED="1754229769451"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1815674453" CREATED="1754227658205" MODIFIED="1754229769451"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73085,7 +73100,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_916880521" CREATED="1754227288297" MODIFIED="1754227658205" LINK="https://getquicker.net/KC/Help/Doc/dboperation"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_916880521" CREATED="1754227288297" MODIFIED="1754227658205" LINK="https://getquicker.net/KC/Help/Doc/dboperation"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73133,7 +73148,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1685537996" CREATED="1754227658205" MODIFIED="1754229769453"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1685537996" CREATED="1754227658205" MODIFIED="1754229769453"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73248,7 +73263,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_519163029" CREATED="1754227658221" MODIFIED="1754229769453"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_519163029" CREATED="1754227658221" MODIFIED="1754229769453"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73437,7 +73452,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1863482064" CREATED="1754227658224" MODIFIED="1754229769453"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1863482064" CREATED="1754227658224" MODIFIED="1754229769453"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73571,7 +73586,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1607836029" CREATED="1754227288297" MODIFIED="1754227658238" LINK="https://getquicker.net/KC/Help/Doc/tableoperation"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1607836029" CREATED="1754227288297" MODIFIED="1754227658238" LINK="https://getquicker.net/KC/Help/Doc/tableoperation"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73644,7 +73659,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_56913002" CREATED="1754227658238" MODIFIED="1754229769453"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_56913002" CREATED="1754227658238" MODIFIED="1754229769453"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -73778,7 +73793,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_841596065" CREATED="1754227658238" MODIFIED="1754229769458"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_841596065" CREATED="1754227658238" MODIFIED="1754229769458"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74290,7 +74305,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_394203494" CREATED="1754227288297" MODIFIED="1754227670691" LINK="https://getquicker.net/KC/Help/Doc/if"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_394203494" CREATED="1754227288297" MODIFIED="1754227670691" LINK="https://getquicker.net/KC/Help/Doc/if"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74303,7 +74318,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1479953643" CREATED="1754227670692" MODIFIED="1754229769464"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1479953643" CREATED="1754227670692" MODIFIED="1754229769464"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74415,7 +74430,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_183730624" CREATED="1754227670699" MODIFIED="1754229769464"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_183730624" CREATED="1754227670699" MODIFIED="1754229769464"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74482,7 +74497,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_45514780" CREATED="1754227670704" MODIFIED="1754229769464"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_45514780" CREATED="1754227670704" MODIFIED="1754229769464"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74655,7 +74670,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1964341112" CREATED="1754227670715" MODIFIED="1754229769464"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1964341112" CREATED="1754227670715" MODIFIED="1754229769464"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74753,7 +74768,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_167196118" CREATED="1754227288297" MODIFIED="1754227670726" LINK="https://getquicker.net/KC/Help/Doc/each"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_167196118" CREATED="1754227288297" MODIFIED="1754227670726" LINK="https://getquicker.net/KC/Help/Doc/each"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74787,7 +74802,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1160764036" CREATED="1754227670726" MODIFIED="1754229769469"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1160764036" CREATED="1754227670726" MODIFIED="1754229769469"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -74975,7 +74990,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1480599791" CREATED="1754227288308" MODIFIED="1754227670728" LINK="https://getquicker.net/KC/Help/Doc/repeat"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1480599791" CREATED="1754227288308" MODIFIED="1754227670728" LINK="https://getquicker.net/KC/Help/Doc/repeat"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75193,7 +75208,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_713734814" CREATED="1754227288308" MODIFIED="1754227670745" LINK="https://getquicker.net/KC/Help/Doc/break"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_713734814" CREATED="1754227288308" MODIFIED="1754227670745" LINK="https://getquicker.net/KC/Help/Doc/break"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75254,7 +75269,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_639857569" CREATED="1754227288308" MODIFIED="1754227670745" LINK="https://getquicker.net/KC/Help/Doc/continue"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_639857569" CREATED="1754227288308" MODIFIED="1754227670745" LINK="https://getquicker.net/KC/Help/Doc/continue"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75323,7 +75338,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1846601913" CREATED="1754227288308" MODIFIED="1754227670745" LINK="https://getquicker.net/KC/Help/Doc/stop"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1846601913" CREATED="1754227288308" MODIFIED="1754227670745" LINK="https://getquicker.net/KC/Help/Doc/stop"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75436,7 +75451,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_400382040" CREATED="1754227288308" MODIFIED="1754227670758" LINK="https://getquicker.net/KC/Help/Doc/runaction"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_400382040" CREATED="1754227288308" MODIFIED="1754227670758" LINK="https://getquicker.net/KC/Help/Doc/runaction"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -75463,7 +75478,7 @@ APISecret:MGEXXXXXXXXXXXXXXXXXXXXXXXXX</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_739046151" CREATED="1754227670758" MODIFIED="1754229769474"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_739046151" CREATED="1754227670758" MODIFIED="1754229769474"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -76363,7 +76378,7 @@ public static string Exec(string paramValue)
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1396004927" CREATED="1754227288308" MODIFIED="1754227670805" LINK="https://getquicker.net/KC/Help/Doc/jsscript"><richcontent TYPE="NODE">
+<node ID="ID_1396004927" CREATED="1754227288308" MODIFIED="1754791262138" LINK="https://getquicker.net/KC/Help/Doc/jsscript"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77065,7 +77080,7 @@ quicker.context.SetVarValue('dict', {'a':1, 'b':2, 'day':'2022-1-1'})</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1413951439" CREATED="1754227288326" MODIFIED="1754227687516" LINK="https://getquicker.net/KC/Help/Doc/ai"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1413951439" CREATED="1754227288326" MODIFIED="1754227687516" LINK="https://getquicker.net/KC/Help/Doc/ai"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77299,7 +77314,7 @@ quicker.context.SetVarValue('dict', {'a':1, 'b':2, 'day':'2022-1-1'})</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_531880763" CREATED="1754227687520" MODIFIED="1754229769491"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_531880763" CREATED="1754227687520" MODIFIED="1754229769491"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77534,7 +77549,7 @@ quicker.context.SetVarValue('dict', {'a':1, 'b':2, 'day':'2022-1-1'})</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_666299026" CREATED="1754227288326" MODIFIED="1754227687528" LINK="https://getquicker.net/KC/Help/Doc/tempcloudstore"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_666299026" CREATED="1754227288326" MODIFIED="1754227687528" LINK="https://getquicker.net/KC/Help/Doc/tempcloudstore"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77692,7 +77707,7 @@ quicker.context.SetVarValue('dict', {'a':1, 'b':2, 'day':'2022-1-1'})</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_745575648" CREATED="1754227288326" MODIFIED="1754227687532" LINK="https://getquicker.net/KC/Help/Doc/http"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_745575648" CREATED="1754227288326" MODIFIED="1754227687532" LINK="https://getquicker.net/KC/Help/Doc/http"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77897,7 +77912,7 @@ quicker.context.SetVarValue('dict', {'a':1, 'b':2, 'day':'2022-1-1'})</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1903076211" CREATED="1754227687537" MODIFIED="1754229769496"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1903076211" CREATED="1754227687537" MODIFIED="1754229769496"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -77910,7 +77925,7 @@ quicker.context.SetVarValue('dict', {'a':1, 'b':2, 'day':'2022-1-1'})</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_183723620" CREATED="1754227687537" MODIFIED="1754229769496"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_183723620" CREATED="1754227687537" MODIFIED="1754229769496"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -78207,7 +78222,7 @@ ImgFileParam=IMG:图片变量名</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_367571886" CREATED="1754227288326" MODIFIED="1754227687546" LINK="https://getquicker.net/KC/Help/Doc/smtp"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_367571886" CREATED="1754227288326" MODIFIED="1754227687546" LINK="https://getquicker.net/KC/Help/Doc/smtp"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -78240,7 +78255,7 @@ ImgFileParam=IMG:图片变量名</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_433289396" CREATED="1754227687546" MODIFIED="1754229769496"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_433289396" CREATED="1754227687546" MODIFIED="1754229769496"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -78430,7 +78445,7 @@ ImgFileParam=IMG:图片变量名</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_902425922" CREATED="1754227288326" MODIFIED="1754227687546" LINK="https://getquicker.net/KC/Help/Doc/download"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_902425922" CREATED="1754227288326" MODIFIED="1754227687546" LINK="https://getquicker.net/KC/Help/Doc/download"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -78523,7 +78538,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1770973525" CREATED="1754227687546" MODIFIED="1754229769501"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1770973525" CREATED="1754227687546" MODIFIED="1754229769501"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -78679,7 +78694,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_657913908" CREATED="1754227288342" MODIFIED="1754227687562" LINK="https://getquicker.net/KC/Help/Doc/basic-ocr"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_657913908" CREATED="1754227288342" MODIFIED="1754227687562" LINK="https://getquicker.net/KC/Help/Doc/basic-ocr"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -78709,7 +78724,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_659417654" CREATED="1754227687562" MODIFIED="1754229769501"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_659417654" CREATED="1754227687562" MODIFIED="1754229769501"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79020,7 +79035,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1865311328" CREATED="1754227687562" MODIFIED="1754229769501"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1865311328" CREATED="1754227687562" MODIFIED="1754229769501"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79348,7 +79363,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1293071873" CREATED="1754227288342" MODIFIED="1754227687562" LINK="https://getquicker.net/KC/Help/Doc/htmlextract"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1293071873" CREATED="1754227288342" MODIFIED="1754227687562" LINK="https://getquicker.net/KC/Help/Doc/htmlextract"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -79559,7 +79574,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_71849138" CREATED="1754227687578" MODIFIED="1754229769506"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_71849138" CREATED="1754227687578" MODIFIED="1754229769506"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80012,7 +80027,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_708285259" CREATED="1754227288342" MODIFIED="1754227687578" LINK="https://getquicker.net/KC/Help/Doc/webview2"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_708285259" CREATED="1754227288342" MODIFIED="1754227687578" LINK="https://getquicker.net/KC/Help/Doc/webview2"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80047,7 +80062,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1861732475" CREATED="1754227687593" MODIFIED="1754229769511"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1861732475" CREATED="1754227687593" MODIFIED="1754229769511"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80109,7 +80124,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_198080064" CREATED="1754227687593" MODIFIED="1754229769511"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_198080064" CREATED="1754227687593" MODIFIED="1754229769511"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80283,7 +80298,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1866804338" CREATED="1754227687593" MODIFIED="1754229769511"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1866804338" CREATED="1754227687593" MODIFIED="1754229769511"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80432,7 +80447,7 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 </node>
 </node>
 </node>
-<node ID="ID_324214124" CREATED="1754227687593" MODIFIED="1754229769516"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_324214124" CREATED="1754227687593" MODIFIED="1754229769516"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80689,7 +80704,7 @@ async function testSubprogram(){
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_100957890" CREATED="1754227687593" MODIFIED="1754229769516"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_100957890" CREATED="1754227687593" MODIFIED="1754229769516"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80829,7 +80844,7 @@ async function testSubprogram(){
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1200805544" CREATED="1754227288342" MODIFIED="1754227687609" LINK="https://getquicker.net/KC/Help/Doc/tempimgbed"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1200805544" CREATED="1754227288342" MODIFIED="1754227687609" LINK="https://getquicker.net/KC/Help/Doc/tempimgbed"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80869,7 +80884,7 @@ async function testSubprogram(){
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1315698609" CREATED="1754227687609" MODIFIED="1754229769516"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1315698609" CREATED="1754227687609" MODIFIED="1754229769516"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80940,7 +80955,7 @@ async function testSubprogram(){
 </node>
 </node>
 </node>
-<node ID="ID_1915202637" CREATED="1754227288342" MODIFIED="1754227687609" LINK="https://getquicker.net/KC/Help/Doc/translation"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1915202637" CREATED="1754227288342" MODIFIED="1754227687609" LINK="https://getquicker.net/KC/Help/Doc/translation"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -80998,7 +81013,7 @@ async function testSubprogram(){
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1275975455" CREATED="1754227687617" MODIFIED="1754229769521"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1275975455" CREATED="1754227687617" MODIFIED="1754229769521"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81419,7 +81434,7 @@ async function testSubprogram(){
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_790387643" CREATED="1754227687617" MODIFIED="1754229769521"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_790387643" CREATED="1754227687617" MODIFIED="1754229769521"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81578,7 +81593,7 @@ async function testSubprogram(){
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_29486479" CREATED="1754227288342" MODIFIED="1754227687630" LINK="https://getquicker.net/KC/Help/Doc/mathocr"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_29486479" CREATED="1754227288342" MODIFIED="1754227687630" LINK="https://getquicker.net/KC/Help/Doc/mathocr"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81621,7 +81636,7 @@ async function testSubprogram(){
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1556939218" CREATED="1754227687630" MODIFIED="1754229769521"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1556939218" CREATED="1754227687630" MODIFIED="1754229769521"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81760,7 +81775,7 @@ async function testSubprogram(){
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_683790155" CREATED="1754227288342" MODIFIED="1754227687634" LINK="https://getquicker.net/KC/Help/Doc/websocket"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_683790155" CREATED="1754227288342" MODIFIED="1754227687634" LINK="https://getquicker.net/KC/Help/Doc/websocket"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -81795,7 +81810,7 @@ async function testSubprogram(){
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_321268536" CREATED="1754227687634" MODIFIED="1754229769526"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_321268536" CREATED="1754227687634" MODIFIED="1754229769526"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -82065,7 +82080,7 @@ async function testSubprogram(){
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_309842116" CREATED="1754227288357" MODIFIED="1754227687634" LINK="https://getquicker.net/KC/Help/Doc/cloud_oss"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_309842116" CREATED="1754227288357" MODIFIED="1754227687634" LINK="https://getquicker.net/KC/Help/Doc/cloud_oss"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -82204,7 +82219,7 @@ async function testSubprogram(){
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1800515427" CREATED="1754227687634" MODIFIED="1754229769536"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1800515427" CREATED="1754227687634" MODIFIED="1754229769536"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -82376,7 +82391,7 @@ AccessUrl:自定义域名，如：http://qiniutest.getquicker.cn</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_700537019" CREATED="1754227288357" MODIFIED="1754227687650" LINK="https://getquicker.net/KC/Help/Doc/httpserver"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_700537019" CREATED="1754227288357" MODIFIED="1754227687650" LINK="https://getquicker.net/KC/Help/Doc/httpserver"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -82420,7 +82435,7 @@ AccessUrl:自定义域名，如：http://qiniutest.getquicker.cn</pre>
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_824339467" CREATED="1754227687650" MODIFIED="1754229769541"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_824339467" CREATED="1754227687650" MODIFIED="1754229769541"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -82668,7 +82683,7 @@ AccessUrl:自定义域名，如：http://qiniutest.getquicker.cn</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1063968575" CREATED="1754227687658" MODIFIED="1754229769541"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1063968575" CREATED="1754227687658" MODIFIED="1754229769541"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -82752,7 +82767,7 @@ AccessUrl:自定义域名，如：http://qiniutest.getquicker.cn</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1167322470" CREATED="1754227687658" MODIFIED="1754229769541"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1167322470" CREATED="1754227687658" MODIFIED="1754229769541"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -82908,7 +82923,7 @@ AccessUrl:自定义域名，如：http://qiniutest.getquicker.cn</pre>
 </node>
 </node>
 </node>
-<node ID="ID_365841733" CREATED="1754227288357" MODIFIED="1754227288357"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_365841733" CREATED="1754227288357" MODIFIED="1754227288357"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -82921,7 +82936,7 @@ AccessUrl:自定义域名，如：http://qiniutest.getquicker.cn</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1868422859" CREATED="1754227288357" MODIFIED="1754228980611" LINK="https://getquicker.net/KC/Help/Doc/officehelper"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1868422859" CREATED="1754227288357" MODIFIED="1754228980611" LINK="https://getquicker.net/KC/Help/Doc/officehelper"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -82965,7 +82980,7 @@ AccessUrl:自定义域名，如：http://qiniutest.getquicker.cn</pre>
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_305072027" CREATED="1754228980611" MODIFIED="1754229769547"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_305072027" CREATED="1754228980611" MODIFIED="1754229769547"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -83104,7 +83119,7 @@ End Function</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1741798721" CREATED="1754228980611" MODIFIED="1754229769547"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1741798721" CREATED="1754228980611" MODIFIED="1754229769547"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -83221,7 +83236,7 @@ End Function</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1088056329" CREATED="1754228980611" MODIFIED="1754229769547"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1088056329" CREATED="1754228980611" MODIFIED="1754229769547"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -83620,7 +83635,7 @@ Styles.标题 3
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_731458497" CREATED="1754228980627" MODIFIED="1754229769547"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_731458497" CREATED="1754228980627" MODIFIED="1754229769547"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -84129,7 +84144,7 @@ Styles.标题 3
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1148153954" CREATED="1754227288357" MODIFIED="1754228980642" LINK="https://getquicker.net/KC/Help/Doc/excelreadwrite"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1148153954" CREATED="1754227288357" MODIFIED="1754228980642" LINK="https://getquicker.net/KC/Help/Doc/excelreadwrite"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -84215,7 +84230,7 @@ Styles.标题 3
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1259145589" CREATED="1754228980658" MODIFIED="1754229769552"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1259145589" CREATED="1754228980658" MODIFIED="1754229769552"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85382,7 +85397,7 @@ border.outside:Thick,#FF0000</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1205007753" CREATED="1754227288357" MODIFIED="1754228980750" LINK="https://getquicker.net/KC/Help/Doc/chromecontrol"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1205007753" CREATED="1754227288357" MODIFIED="1754228980750" LINK="https://getquicker.net/KC/Help/Doc/chromecontrol"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -85414,7 +85429,7 @@ border.outside:Thick,#FF0000</pre>
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1811062936" CREATED="1754228980750" MODIFIED="1754229769562"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1811062936" CREATED="1754228980750" MODIFIED="1754229769562"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -87173,7 +87188,7 @@ $('选择器').prop('checked', false);  //取消选择</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1882026636" CREATED="1754228980811" MODIFIED="1754229769572"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1882026636" CREATED="1754228980811" MODIFIED="1754229769572"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -87307,7 +87322,7 @@ $('选择器').prop('checked', false);  //取消选择</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1361038249" CREATED="1754228980815" MODIFIED="1754229769572"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1361038249" CREATED="1754228980815" MODIFIED="1754229769572"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -87373,7 +87388,7 @@ $('选择器').prop('checked', false);  //取消选择</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_176329045" CREATED="1754228980818" MODIFIED="1754229769572"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_176329045" CREATED="1754228980818" MODIFIED="1754229769572"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -87661,7 +87676,7 @@ chrome.windows.getLastFocused({populate:true}, function(win){
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_470080132" CREATED="1754228980818" MODIFIED="1754229769577"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_470080132" CREATED="1754228980818" MODIFIED="1754229769577"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -87674,7 +87689,7 @@ chrome.windows.getLastFocused({populate:true}, function(win){
   </body>
 </html>
 </richcontent>
-<node ID="ID_1772252347" CREATED="1754228980818" MODIFIED="1754229769577"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1772252347" CREATED="1754228980818" MODIFIED="1754229769577"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -87841,7 +87856,7 @@ chrome.windows.getLastFocused({populate:true}, function(win){
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_716567855" CREATED="1754228980835" MODIFIED="1754229769592"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_716567855" CREATED="1754228980835" MODIFIED="1754229769592"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88182,7 +88197,7 @@ chrome.windows.getLastFocused({populate:true}, function(win){
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1472652051" CREATED="1754227288357" MODIFIED="1754228980694" LINK="https://getquicker.net/KC/Help/Doc/browser-control-samples"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1472652051" CREATED="1754227288357" MODIFIED="1754228980694" LINK="https://getquicker.net/KC/Help/Doc/browser-control-samples"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88195,7 +88210,7 @@ chrome.windows.getLastFocused({populate:true}, function(win){
   </body>
 </html>
 </richcontent>
-<node ID="ID_1777504403" CREATED="1754228980694" MODIFIED="1754228980719"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1777504403" CREATED="1754228980694" MODIFIED="1754228980719"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88332,7 +88347,7 @@ chrome.windows.getLastFocused({populate:true}, function(win){
 </node>
 </node>
 </node>
-<node ID="ID_1035548343" CREATED="1754227288375" MODIFIED="1754228980734" LINK="https://getquicker.net/KC/Help/Doc/web-page-control"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1035548343" CREATED="1754227288375" MODIFIED="1754228980734" LINK="https://getquicker.net/KC/Help/Doc/web-page-control"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88356,7 +88371,7 @@ chrome.windows.getLastFocused({populate:true}, function(win){
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1281701524" CREATED="1754228980734" MODIFIED="1754229769596"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1281701524" CREATED="1754228980734" MODIFIED="1754229769596"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88540,7 +88555,7 @@ document.body.appendChild(scriptElement);</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_162279076" CREATED="1754227288377" MODIFIED="1754228980750" LINK="https://getquicker.net/KC/Help/Doc/url-links"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_162279076" CREATED="1754227288377" MODIFIED="1754228980750" LINK="https://getquicker.net/KC/Help/Doc/url-links"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88553,7 +88568,7 @@ document.body.appendChild(scriptElement);</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1192540387" CREATED="1754228980750" MODIFIED="1754229769596"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1192540387" CREATED="1754228980750" MODIFIED="1754229769596"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -88709,7 +88724,7 @@ document.body.appendChild(scriptElement);</pre>
 </node>
 </node>
 </node>
-<node ID="ID_714962937" CREATED="1754227288379" MODIFIED="1754228980871" LINK="https://getquicker.net/KC/Help/Doc/excelrange"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_714962937" CREATED="1754227288379" MODIFIED="1754228980871" LINK="https://getquicker.net/KC/Help/Doc/excelrange"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -89410,7 +89425,7 @@ document.body.appendChild(scriptElement);</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1382998763" CREATED="1754228980887" MODIFIED="1754229769601"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1382998763" CREATED="1754228980887" MODIFIED="1754229769601"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90444,7 +90459,7 @@ document.body.appendChild(scriptElement);</pre>
 </node>
 </node>
 </node>
-<node ID="ID_375504194" CREATED="1754227288381" MODIFIED="1754228980887" LINK="https://getquicker.net/KC/Help/Doc/excelobjects"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_375504194" CREATED="1754227288381" MODIFIED="1754228980887" LINK="https://getquicker.net/KC/Help/Doc/excelobjects"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90485,7 +90500,7 @@ document.body.appendChild(scriptElement);</pre>
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_98434134" CREATED="1754228980887" MODIFIED="1754229769601"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_98434134" CREATED="1754228980887" MODIFIED="1754229769601"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90831,7 +90846,7 @@ document.body.appendChild(scriptElement);</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1353284873" CREATED="1754227288384" MODIFIED="1754228980911" LINK="https://getquicker.net/KC/Help/Doc/adobesoftscontrol"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1353284873" CREATED="1754227288384" MODIFIED="1754228980911" LINK="https://getquicker.net/KC/Help/Doc/adobesoftscontrol"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -90953,7 +90968,7 @@ document.body.appendChild(scriptElement);</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1173559244" CREATED="1754228980920" MODIFIED="1754229769601"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1173559244" CREATED="1754228980920" MODIFIED="1754229769601"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91033,7 +91048,7 @@ document.body.appendChild(scriptElement);</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1581246250" CREATED="1754227288384" MODIFIED="1754228980920" LINK="https://getquicker.net/KC/Help/Doc/autocadcontrol"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1581246250" CREATED="1754227288384" MODIFIED="1754228980920" LINK="https://getquicker.net/KC/Help/Doc/autocadcontrol"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91178,7 +91193,7 @@ document.body.appendChild(scriptElement);</pre>
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1673621553" CREATED="1754227288384" MODIFIED="1754228980920" LINK="https://getquicker.net/KC/Help/Doc/rhinocontrol"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1673621553" CREATED="1754227288384" MODIFIED="1754228980920" LINK="https://getquicker.net/KC/Help/Doc/rhinocontrol"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91281,7 +91296,7 @@ document.body.appendChild(scriptElement);</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1595864506" CREATED="1754227288389" MODIFIED="1754227288389"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1595864506" CREATED="1754227288389" MODIFIED="1754227288389"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91294,7 +91309,7 @@ document.body.appendChild(scriptElement);</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1362424259" CREATED="1754227288389" MODIFIED="1754229006613" LINK="https://getquicker.net/KC/Help/Doc/store-settings"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1362424259" CREATED="1754227288389" MODIFIED="1754229006613" LINK="https://getquicker.net/KC/Help/Doc/store-settings"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91392,7 +91407,7 @@ document.body.appendChild(scriptElement);</pre>
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_896512044" CREATED="1754229006634" MODIFIED="1754229769606"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_896512044" CREATED="1754229006634" MODIFIED="1754229769606"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91545,7 +91560,7 @@ document.body.appendChild(scriptElement);</pre>
 </node>
 </node>
 </node>
-<node ID="ID_1373575132" CREATED="1754227288389" MODIFIED="1754229006635" LINK="https://getquicker.net/KC/Help/Doc/expression-adv"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1373575132" CREATED="1754227288389" MODIFIED="1754229006635" LINK="https://getquicker.net/KC/Help/Doc/expression-adv"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91558,7 +91573,7 @@ document.body.appendChild(scriptElement);</pre>
   </body>
 </html>
 </richcontent>
-<node ID="ID_1548373692" CREATED="1754229006635" MODIFIED="1754229769606"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1548373692" CREATED="1754229006635" MODIFIED="1754229769606"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91615,7 +91630,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_719288795" CREATED="1754229006635" MODIFIED="1754229769611"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_719288795" CREATED="1754229006635" MODIFIED="1754229769611"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91780,7 +91795,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_246954584" CREATED="1754229006650" MODIFIED="1754229769611"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_246954584" CREATED="1754229006650" MODIFIED="1754229769611"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -91937,7 +91952,7 @@ if ({number1} &gt; {number2})
 </richcontent>
 </node>
 </node>
-<node ID="ID_1118761375" CREATED="1754229006658" MODIFIED="1754229769611"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1118761375" CREATED="1754229006658" MODIFIED="1754229769611"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -92041,7 +92056,7 @@ if ({number1} &gt; {number2})
 </node>
 </node>
 </node>
-<node ID="ID_122619630" CREATED="1754227288389" MODIFIED="1754229006662" LINK="https://getquicker.net/KC/Help/Doc/subprogram"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_122619630" CREATED="1754227288389" MODIFIED="1754229006662" LINK="https://getquicker.net/KC/Help/Doc/subprogram"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -92054,7 +92069,7 @@ if ({number1} &gt; {number2})
   </body>
 </html>
 </richcontent>
-<node ID="ID_1871002322" CREATED="1754229006662" MODIFIED="1754229769611"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1871002322" CREATED="1754229006662" MODIFIED="1754229769611"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -92172,7 +92187,7 @@ if ({number1} &gt; {number2})
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_258681982" CREATED="1754229006666" MODIFIED="1754229769616"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_258681982" CREATED="1754229006666" MODIFIED="1754229769616"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -92289,7 +92304,7 @@ if ({number1} &gt; {number2})
 </node>
 </node>
 </node>
-<node ID="ID_922820363" CREATED="1754229006666" MODIFIED="1754229769616"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_922820363" CREATED="1754229006666" MODIFIED="1754229769616"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -92512,7 +92527,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1833996946" CREATED="1754229006682" MODIFIED="1754229769616"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1833996946" CREATED="1754229006682" MODIFIED="1754229769616"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -92609,7 +92624,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1506040232" CREATED="1754229006682" MODIFIED="1754229769621"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1506040232" CREATED="1754229006682" MODIFIED="1754229769621"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -92749,7 +92764,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1347809896" CREATED="1754227288397" MODIFIED="1754229006698" LINK="https://getquicker.net/KC/Help/Doc/quicker_in_param"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1347809896" CREATED="1754227288397" MODIFIED="1754229006698" LINK="https://getquicker.net/KC/Help/Doc/quicker_in_param"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -92787,7 +92802,7 @@ if ({number1} &gt; {number2})
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_315907897" CREATED="1754229006698" MODIFIED="1754229769621"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_315907897" CREATED="1754229006698" MODIFIED="1754229769621"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -93091,7 +93106,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1794736383" CREATED="1754227288397" MODIFIED="1754229006713" LINK="https://getquicker.net/KC/Help/Doc/use-icon-in-actions"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1794736383" CREATED="1754227288397" MODIFIED="1754229006713" LINK="https://getquicker.net/KC/Help/Doc/use-icon-in-actions"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -93363,7 +93378,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_780191654" CREATED="1754227288397" MODIFIED="1754229006729" LINK="https://getquicker.net/KC/Help/Doc/action-custom-context-menu"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_780191654" CREATED="1754227288397" MODIFIED="1754229006729" LINK="https://getquicker.net/KC/Help/Doc/action-custom-context-menu"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -93445,7 +93460,7 @@ if ({number1} &gt; {number2})
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1383289642" CREATED="1754229006729" MODIFIED="1754229769628"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1383289642" CREATED="1754229006729" MODIFIED="1754229769628"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -93479,7 +93494,7 @@ if ({number1} &gt; {number2})
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1535028738" CREATED="1754229006729" MODIFIED="1754229769628"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1535028738" CREATED="1754229006729" MODIFIED="1754229769628"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -93839,7 +93854,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1883819598" CREATED="1754227288405" MODIFIED="1754229006745" LINK="https://getquicker.net/KC/Help/Doc/scroll-trigger"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1883819598" CREATED="1754227288405" MODIFIED="1754229006745" LINK="https://getquicker.net/KC/Help/Doc/scroll-trigger"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -93871,7 +93886,7 @@ if ({number1} &gt; {number2})
     </ul>
   </body>
 </html></richcontent>
-<node ID="ID_1694680116" CREATED="1754229006745" MODIFIED="1754229769628"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1694680116" CREATED="1754229006745" MODIFIED="1754229769628"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94025,7 +94040,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1215212435" CREATED="1754227288405" MODIFIED="1754229006760" LINK="https://getquicker.net/KC/Help/Doc/search-adv"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1215212435" CREATED="1754227288405" MODIFIED="1754229006760" LINK="https://getquicker.net/KC/Help/Doc/search-adv"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94086,7 +94101,7 @@ if ({number1} &gt; {number2})
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1945120847" CREATED="1754229006762" MODIFIED="1754229769633"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1945120847" CREATED="1754229006762" MODIFIED="1754229769633"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94119,7 +94134,7 @@ if ({number1} &gt; {number2})
     </p>
   </body>
 </html></richcontent>
-<node ID="ID_1663813177" CREATED="1754229006762" MODIFIED="1754229769633"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1663813177" CREATED="1754229006762" MODIFIED="1754229769633"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94192,7 +94207,7 @@ if ({number1} &gt; {number2})
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1735595249" CREATED="1754229006762" MODIFIED="1754229769633"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1735595249" CREATED="1754229006762" MODIFIED="1754229769633"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94466,7 +94481,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1973298277" CREATED="1754227288405" MODIFIED="1754229006779" LINK="https://getquicker.net/KC/Help/Doc/standard"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1973298277" CREATED="1754227288405" MODIFIED="1754229006779" LINK="https://getquicker.net/KC/Help/Doc/standard"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94520,7 +94535,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1234874940" CREATED="1754227288405" MODIFIED="1754229006779" LINK="https://getquicker.net/KC/Help/Doc/visibility-expression"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1234874940" CREATED="1754227288405" MODIFIED="1754229006779" LINK="https://getquicker.net/KC/Help/Doc/visibility-expression"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94681,7 +94696,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_377749940" CREATED="1754227288405" MODIFIED="1754229006793" LINK="https://getquicker.net/KC/Help/Doc/custom_texttool"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_377749940" CREATED="1754227288405" MODIFIED="1754229006793" LINK="https://getquicker.net/KC/Help/Doc/custom_texttool"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94733,7 +94748,7 @@ if ({number1} &gt; {number2})
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1051412037" CREATED="1754229006793" MODIFIED="1754229769633"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1051412037" CREATED="1754229006793" MODIFIED="1754229769633"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -94920,7 +94935,7 @@ if ({number1} &gt; {number2})
 </html></richcontent>
 </node>
 </node>
-<node ID="ID_1272254560" CREATED="1754227288405" MODIFIED="1754229006793" LINK="https://getquicker.net/KC/Help/Doc/public-api"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1272254560" CREATED="1754227288405" MODIFIED="1754229006793" LINK="https://getquicker.net/KC/Help/Doc/public-api"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -95157,7 +95172,7 @@ if ({number1} &gt; {number2})
   </body>
 </html></richcontent>
 </node>
-<node ID="ID_1169374922" CREATED="1754229006809" MODIFIED="1754229769638"><richcontent TYPE="NODE">
+<node FOLDED="true" ID="ID_1169374922" CREATED="1754229006809" MODIFIED="1754229769638"><richcontent TYPE="NODE">
 
 <html>
   <head>
@@ -95389,8 +95404,7 @@ if ({number1} &gt; {number2})
 </node>
 </node>
 </node>
-<node TEXT="实战" POSITION="bottom_or_right" ID="ID_424099964" CREATED="1754203585638" MODIFIED="1754203590950">
-<node TEXT="todo" ID="ID_690236631" CREATED="1754214583052" MODIFIED="1754214584526"/>
-</node>
+<node TEXT="实战" POSITION="bottom_or_right" ID="ID_424099964" CREATED="1754203585638" MODIFIED="1754203590950"/>
+<node TEXT="脑图作者：极客脑图" STYLE_REF="note" POSITION="top_or_left" ID="ID_354845275" CREATED="1754740440780" MODIFIED="1754740440825" LINK="https://github.com/ThrowPeterInvalidException/geekmap-cs"/>
 </node>
 </map>
